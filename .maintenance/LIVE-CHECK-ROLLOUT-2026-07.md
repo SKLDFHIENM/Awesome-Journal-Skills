@@ -93,3 +93,31 @@ ISR, JMIS, JAIS, MIS Quarterly, Management Science, MSOM, Operations Research, J
 Management, J Banking & Finance, J Business Venturing, J Marketing Research, The Econometrics
 Journal; + 4 generic bundle packs (Agriculture-Environment, Clinical-Medicine,
 Engineering-Technology, Chinese-Sport-Science).
+
+---
+
+## Weekly maintenance run — 2026-09-14
+
+### Flagged transitions checked
+
+| Pack | Transition | Outcome |
+|------|-----------|---------|
+| PMLA | Edwards → Potkay (July 2026) | **CONFIRMED & UPDATED** — Potkay now sitting editor since July 2026 (MLA news + Cambridge Core). Source map + no SKILL.md change needed. |
+| JHR | Aizer → Lovenheim (2026-07-01) | **CONFIRMED & UPDATED** — Lovenheim is editor since July 1, 2026 (Cornell Chronicle + ILR). Source map + jhr-submission SKILL.md updated. |
+| JFQA | Pennacchi → Giannetti (2026-09-01) | **CONFIRMED & UPDATED** — Giannetti joined as Managing Editor 2026-09-01 (JFQA.org + Cambridge Core). Source map + jfqa-submission SKILL.md updated. |
+| Journal of Management | Devers → ? (2026-07-01) | **CONFIRMED & UPDATED** — Christopher C. Rosen (U of Arkansas, Walton College) became EiC 2026-07-01 (U of Arkansas news). Source map + jmgmt-submission SKILL.md updated. |
+| New Media & Society | Jones → ? (June 2026) | **CONFIRMED & UPDATED** — Crystal Abidin (Curtin U) + Christian Katzenbach (U of Bremen / ZeMKI) are co-EiCs since July 2026 (WISHCRYS bio + ZeMKI profile, ≥2 sources). Source map + newms-submission SKILL.md updated. |
+| Harvard Law Review | Vol 139 Seabrooks → Vol 140 Zhao | **CONFIRMED & UPDATED** — Alex Zhao ('27) is the Vol 140 (2026–2027) President, leading the current masthead (HLS + Harvard Crimson, ≥2 sources). Source map + hlr-submission SKILL.md updated. |
+| AMR | Byron term end ~end-2026 | Re-verified 2026-09-14: Byron still sitting through end-2026 per available sources; no named successor found. Honest hedge retained. No change. |
+| MSOM | Perakis term ends 2026-12-31 | Re-verified 2026-09-14: Perakis still sitting; EiC search was underway but no named successor publicly confirmed. Honest hedge retained. No change. |
+| ETP | Wiklund → ? | Re-verified 2026-09-14: Wiklund departure confirmed (April 2026 editorial); no named successor found in authoritative sources. Honest hedge retained. No change. |
+| RER | 2026 new team | AERA announced new editors (Highlights July 2026); LinkedIn post from Johns Hopkins SOE suggests one editor there. Names not confirmable from ≥2 authoritative sources in search snippets. Honest hedge retained — re-check aera.net/Publications/Journals/Review-of-Educational-Research/RER-Editors directly. |
+| American Anthropologist | Chin through 2026 | Not yet due (Davis & Mulla begin 2027). No change. |
+| Psychological Bulletin | Johnson → Hofmann (2027) | Not yet due. No change. |
+
+### Gates
+`run_checks.py --skip-reports --skip-diff-check` → exit 0 ✓
+`source_map_audit.py <pack>` → 0 warnings across all 6 changed packs ✓
+
+### Rotation spot-check (this run)
+Rotation deferred: all 6 priority-transition packs required edits, consuming available capacity. Rotation slice to begin next run starting from packs with oldest access dates (Econometrics-Journal-Skills, 2026-06-01).

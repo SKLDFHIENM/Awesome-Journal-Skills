@@ -64,13 +64,15 @@ features) on the official page before relying on them — journal pages change.
 
 ## Live-check / 需复核 items
 
-- **Current editor and editorial term (re-verified 2026-06-23):** **Brent Hayes Edwards** is the sitting
-  editor (since **July 2021**); the MLA Executive Council has appointed **Adam Potkay** (William & Mary,
-  William R. Kenan, Jr. Professor of Humanities) as the **tenth editor**, with a **three-year term
-  beginning July 2026**. As of 2026-06-23 the handover has **not yet taken effect** (Edwards still
-  sitting; Potkay incoming July 2026) — confirm which editor is sitting at your submission date on the
-  live MLA/Cambridge masthead. Source: **https://news.mla.hcommons.org/2026/04/14/adam-potkay-named-pmla-editor/**
-  (News from the MLA, "Adam Potkay Named PMLA Editor," 14 April 2026; accessed 2026-06-23).
+- **Current editor and editorial term (re-verified 2026-09-14):** **Adam Potkay** (William & Mary,
+  William R. Kenan, Jr. Professor of Humanities) is the **sitting editor** and the **tenth editor** of
+  PMLA, with a **three-year term that began July 2026** (ending July 2029). He succeeds **Brent Hayes
+  Edwards** (editor July 2021–June 2026). Re-verified 2026-09-14 against the MLA news announcement
+  and Cambridge Core publisher announcement; both confirm the July 2026 handover. Sources:
+  **https://news.mla.hcommons.org/2026/04/14/adam-potkay-named-pmla-editor/** (News from the MLA,
+  "Adam Potkay Named PMLA Editor," 14 April 2026; accessed 2026-09-14) and
+  **https://www.cambridge.org/core/journals/pmla/announcements/news/adam-potkay-named-pmla-editor**
+  (Cambridge Core, "Adam Potkay Named PMLA Editor"; accessed 2026-09-14).
 - **Publication frequency and exact issue months**: stated as four issues (January, March, May,
   October) plus a September convention-program issue at access time; frequency has changed over the
   journal's history. Confirm the current schedule on Cambridge Core. 需复核.

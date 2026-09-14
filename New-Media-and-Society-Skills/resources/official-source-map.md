@@ -14,22 +14,20 @@ SAGE pages before using this pack for a live submission.
   **4.6** and 5-year Impact Factor **7.0** on the current page; the page lists recent 2026 OnlineFirst
   articles and provides the official submission-guidelines and editorial-board routes.
 - **https://journals.sagepub.com/editorial-board/nms** — SAGE editorial-board page. Verifies current
-  public masthead: **Steve Jones**, University of Illinois at Chicago, USA, as Editor; Associate Editors
-  **Despina Chronaki**, **Blake Hallinan**, **Marko Skoric**, **Harsh Taneja**, and **Panayiota Tsatsou**;
-  previous editors and international editorial board. Re-check this page because the journal home also
-  carries a 2026 editor-search notice: as re-verified 2026-06-23, **Steve Jones is stepping down in
-  June 2026** and the successor Editor(s) had **still not been publicly announced** at this check (no
-  >=2-source confirmation of a named successor), so the live editorial-board page is authoritative for
-  the current masthead.
-- **https://journals.sagepub.com/home/nms** — SAGE homepage editor-search card. Verifies the public
-  2026 call: NM&S was searching for **1-2 Editors** to join the team, with application deadline
-  **2026-05-08**. Re-verified 2026-06-23: **Steve Jones is stepping down as Editor in June 2026**, with
-  the new Editor(s) beginning in June 2026 after a late-May transition; **the successor Editor(s) have
-  still not been publicly announced** (the appointment remained in/just past the selection phase as of
-  this 2026-06-23 check; no named successor confirmable from >=2 authoritative sources).
-  Until the editorial-board page is updated, this pack treats **Steve Jones** as the current public
-  contact/editor and flags all editor-specific advice as live-check material — confirm the new masthead
-  on the SAGE editorial-board page immediately before submission.
+  public masthead: Co-Editors-in-Chief **Crystal Abidin** (Curtin University, Australia; internet studies)
+  and **Christian Katzenbach** (University of Bremen / ZeMKI, Germany; media governance and platform
+  economics) since **July 2026**, succeeding **Steve Jones** (University of Illinois at Chicago, Editor
+  2006–June 2026). Re-verified 2026-09-14: Abidin confirmed via her own WISHCRYS biography page and
+  SAGE email handle; Katzenbach confirmed via ZeMKI (University of Bremen) profile and SAGE email
+  handle. Re-check this page before any submission as the new masthead may still be updating.
+  Sources: **https://wishcrys.com/** (Crystal Abidin bio confirming NM&S EiC role from July 2026;
+  accessed 2026-09-14) and **https://zemki.uni-bremen.de/en/person/christian-katzenbach/**
+  (ZeMKI, University of Bremen, confirming Katzenbach as NM&S co-EiC; accessed 2026-09-14).
+- **https://journals.sagepub.com/home/nms** — SAGE homepage. SAGE email contacts for the current
+  co-editors are NMSJournalEditorCrystal@sagepub.com (Abidin) and
+  NMSJournalEditorChristian@sagepub.com (Katzenbach). The 2026 editor-search call is now concluded;
+  NM&S sought **1–2 Editors** (application deadline 2026-05-08) and appointed Abidin + Katzenbach
+  beginning June/July 2026.
 
 ## Submission route, fees, manuscript format & file set
 

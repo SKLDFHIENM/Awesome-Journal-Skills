@@ -8,9 +8,10 @@
 
 | Verified | Packs |
 |---|---:|
-| 2026-06 | 177 |
+| 2026-06 | 171 |
 | 2026-07 | 106 |
 | 2026-08 | 16 |
+| 2026-09 | 6 |
 
 Provenance: 259 stated explicitly, 40 inferred from the newest date in the file, 0 with no date at all.
 
@@ -114,7 +115,6 @@ Provenance: 259 stated explicitly, 40 inferred from the newest date in the file,
 | Journal-of-Financial-Intermediation-Skills | depth | 2026-06-22 | stated |
 | Journal-of-Financial-Markets-Skills | depth | 2026-06-22 | stated |
 | Journal-of-Financial-Research-Skills | depth | 2026-06-22 | inferred |
-| Journal-of-Financial-and-Quantitative-Analysis-Skills | depth | 2026-06-22 | stated |
 | Journal-of-Health-Economics-Skills | depth | 2026-06-22 | stated |
 | Journal-of-International-Business-Studies-Skills | depth | 2026-06-22 | inferred |
 | Journal-of-International-Economics-Skills | depth | 2026-06-22 | stated |
@@ -173,10 +173,7 @@ Provenance: 259 stated explicitly, 40 inferred from the newest date in the file,
 | Cell-Skills | depth | 2026-06-23 | stated |
 | Chinese-Public-Administration-Skills | depth | 2026-06-23 | inferred |
 | Entrepreneurship-Theory-and-Practice-Skills | depth | 2026-06-23 | stated |
-| Harvard-Law-Review-Skills | depth | 2026-06-23 | stated |
 | JAMA-Skills | depth | 2026-06-23 | stated |
-| Journal-of-Human-Resources-Skills | depth | 2026-06-23 | stated |
-| Journal-of-Management-Skills | depth | 2026-06-23 | stated |
 | Journal-of-Management-World-Skills | depth | 2026-06-23 | inferred |
 | Journal-of-Quantitative-and-Technological-Economics-Skills | depth | 2026-06-23 | inferred |
 | Journal-of-the-Academy-of-Marketing-Science-Skills | depth | 2026-06-23 | stated |
@@ -184,8 +181,6 @@ Provenance: 259 stated explicitly, 40 inferred from the newest date in the file,
 | Lancet-Skills | depth | 2026-06-23 | stated |
 | Manufacturing-and-Service-Operations-Management-Skills | depth | 2026-06-23 | stated |
 | NEJM-Skills | depth | 2026-06-23 | stated |
-| New-Media-and-Society-Skills | depth | 2026-06-23 | stated |
-| PMLA-Skills | depth | 2026-06-23 | stated |
 | PNAS-Skills | depth | 2026-06-23 | stated |
 | Physical-Review-Letters-Skills | depth | 2026-06-23 | stated |
 | Review-of-Educational-Research-Skills | depth | 2026-06-23 | inferred |
@@ -317,3 +312,9 @@ Provenance: 259 stated explicitly, 40 inferred from the newest date in the file,
 | AISTATS-Skills | depth | 2026-08-27 | stated |
 | ICML-Skills | depth | 2026-08-27 | stated |
 | PODC-Skills | depth | 2026-08-27 | stated |
+| Harvard-Law-Review-Skills | depth | 2026-09-14 | stated |
+| Journal-of-Financial-and-Quantitative-Analysis-Skills | depth | 2026-09-14 | stated |
+| Journal-of-Human-Resources-Skills | depth | 2026-09-14 | stated |
+| Journal-of-Management-Skills | depth | 2026-09-14 | stated |
+| New-Media-and-Society-Skills | depth | 2026-09-14 | stated |
+| PMLA-Skills | depth | 2026-09-14 | stated |
