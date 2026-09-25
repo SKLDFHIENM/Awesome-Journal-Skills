@@ -62,7 +62,7 @@ await page.evaluate(() => document.fonts.ready);
 await page.waitForTimeout(400);
 
 // Discover every poster element with an id in document order.
-const ids = await page.$$eval('.poster[id]', (els) => els.map((e) => e.id));
+const ids = await page.locator('.poster[id]').evaluateAll((els) => els.map((e) => e.id));
 if (ids.length === 0) {
   console.error('No ".poster[id]" elements found in', htmlPath);
   await browser.close();
