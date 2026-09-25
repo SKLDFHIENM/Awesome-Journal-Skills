@@ -67,7 +67,7 @@ journal page.**
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/british-journal-of-political-science-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install british-journal-of-political-science-skills
 /reload-plugins
 ```
@@ -75,8 +75,8 @@ journal page.**
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/british-journal-of-political-science-skills.git
-cd british-journal-of-political-science-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/British-Journal-of-Political-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/bjps-* ~/.claude/skills/
 # or

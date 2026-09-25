@@ -32,17 +32,17 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/rt-desk-reject-risk",
-        "skills/rt-execution-bridge",
-        "skills/rt-journal-match",
-        "skills/rt-ladder-ev",
-        "skills/rt-replication-package",
-        "skills/rt-response-to-referees",
-        "skills/rt-simulated-referee",
-        "skills/rt-submission-readiness",
-        "skills/rt-venue-integrity",
-        "skills/rt-venue-reframe",
-        "skills/rt-workflow"
+        "./skills/rt-desk-reject-risk",
+        "./skills/rt-execution-bridge",
+        "./skills/rt-journal-match",
+        "./skills/rt-ladder-ev",
+        "./skills/rt-replication-package",
+        "./skills/rt-response-to-referees",
+        "./skills/rt-simulated-referee",
+        "./skills/rt-submission-readiness",
+        "./skills/rt-venue-integrity",
+        "./skills/rt-venue-reframe",
+        "./skills/rt-workflow"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/wsdm-submission",
-        "skills/wsdm-author-response",
-        "skills/wsdm-camera-ready",
-        "skills/wsdm-artifact-evaluation",
-        "skills/wsdm-reproducibility",
-        "skills/wsdm-supplementary",
-        "skills/wsdm-review-process",
-        "skills/wsdm-writing-style",
-        "skills/wsdm-related-work",
-        "skills/wsdm-experiments",
-        "skills/wsdm-workflow",
-        "skills/wsdm-topic-selection"
+        "./skills/wsdm-submission",
+        "./skills/wsdm-author-response",
+        "./skills/wsdm-camera-ready",
+        "./skills/wsdm-artifact-evaluation",
+        "./skills/wsdm-reproducibility",
+        "./skills/wsdm-supplementary",
+        "./skills/wsdm-review-process",
+        "./skills/wsdm-writing-style",
+        "./skills/wsdm-related-work",
+        "./skills/wsdm-experiments",
+        "./skills/wsdm-workflow",
+        "./skills/wsdm-topic-selection"
       ]
     }
   ]

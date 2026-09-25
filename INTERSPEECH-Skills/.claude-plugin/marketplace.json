@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/interspeech-submission",
-        "skills/interspeech-author-response",
-        "skills/interspeech-camera-ready",
-        "skills/interspeech-artifact-evaluation",
-        "skills/interspeech-reproducibility",
-        "skills/interspeech-supplementary",
-        "skills/interspeech-review-process",
-        "skills/interspeech-writing-style",
-        "skills/interspeech-related-work",
-        "skills/interspeech-experiments",
-        "skills/interspeech-workflow",
-        "skills/interspeech-topic-selection"
+        "./skills/interspeech-submission",
+        "./skills/interspeech-author-response",
+        "./skills/interspeech-camera-ready",
+        "./skills/interspeech-artifact-evaluation",
+        "./skills/interspeech-reproducibility",
+        "./skills/interspeech-supplementary",
+        "./skills/interspeech-review-process",
+        "./skills/interspeech-writing-style",
+        "./skills/interspeech-related-work",
+        "./skills/interspeech-experiments",
+        "./skills/interspeech-workflow",
+        "./skills/interspeech-topic-selection"
       ]
     }
   ]

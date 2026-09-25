@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/asplos-submission",
-        "skills/asplos-author-response",
-        "skills/asplos-camera-ready",
-        "skills/asplos-artifact-evaluation",
-        "skills/asplos-reproducibility",
-        "skills/asplos-supplementary",
-        "skills/asplos-review-process",
-        "skills/asplos-writing-style",
-        "skills/asplos-related-work",
-        "skills/asplos-experiments",
-        "skills/asplos-workflow",
-        "skills/asplos-topic-selection"
+        "./skills/asplos-submission",
+        "./skills/asplos-author-response",
+        "./skills/asplos-camera-ready",
+        "./skills/asplos-artifact-evaluation",
+        "./skills/asplos-reproducibility",
+        "./skills/asplos-supplementary",
+        "./skills/asplos-review-process",
+        "./skills/asplos-writing-style",
+        "./skills/asplos-related-work",
+        "./skills/asplos-experiments",
+        "./skills/asplos-workflow",
+        "./skills/asplos-topic-selection"
       ]
     }
   ]

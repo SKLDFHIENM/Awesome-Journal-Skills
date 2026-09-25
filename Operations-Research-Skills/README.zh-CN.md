@@ -51,7 +51,7 @@ OR 的约束与实证管理类或资本市场会计类期刊存在本质差异�
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ors-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ors-skills
 /reload-plugins
 ```
@@ -59,8 +59,8 @@ OR 的约束与实证管理类或资本市场会计类期刊存在本质差异�
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/ors-skills.git
-cd ors-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Operations-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ors-* ~/.claude/skills/
 # 或

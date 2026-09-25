@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/csj-submission",
-        "skills/csj-author-response",
-        "skills/csj-camera-ready",
-        "skills/csj-artifact-evaluation",
-        "skills/csj-reproducibility",
-        "skills/csj-supplementary",
-        "skills/csj-review-process",
-        "skills/csj-writing-style",
-        "skills/csj-related-work",
-        "skills/csj-experiments",
-        "skills/csj-workflow",
-        "skills/csj-topic-selection"
+        "./skills/csj-submission",
+        "./skills/csj-author-response",
+        "./skills/csj-camera-ready",
+        "./skills/csj-artifact-evaluation",
+        "./skills/csj-reproducibility",
+        "./skills/csj-supplementary",
+        "./skills/csj-review-process",
+        "./skills/csj-writing-style",
+        "./skills/csj-related-work",
+        "./skills/csj-experiments",
+        "./skills/csj-workflow",
+        "./skills/csj-topic-selection"
       ]
     }
   ]

@@ -59,7 +59,7 @@ GEC 的约束不同于单一学科的社会科学刊或自然科学刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/gec-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install gec-skills
 /reload-plugins
 ```
@@ -67,8 +67,8 @@ GEC 的约束不同于单一学科的社会科学刊或自然科学刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/gec-skills.git
-cd gec-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Global-Environmental-Change-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/gec-* ~/.claude/skills/
 # 或

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/economic-policy-skills",
-      "repository": "https://github.com/brycewang-stanford/economic-policy-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "economic-policy",
         "econ",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ecopol-workflow",
-        "skills/ecopol-topic-selection",
-        "skills/ecopol-literature-positioning",
-        "skills/ecopol-identification",
-        "skills/ecopol-theory-model",
-        "skills/ecopol-robustness",
-        "skills/ecopol-tables-figures",
-        "skills/ecopol-writing-style",
-        "skills/ecopol-replication-package",
-        "skills/ecopol-referee-strategy",
-        "skills/ecopol-submission",
-        "skills/ecopol-rebuttal"
+        "./skills/ecopol-workflow",
+        "./skills/ecopol-topic-selection",
+        "./skills/ecopol-literature-positioning",
+        "./skills/ecopol-identification",
+        "./skills/ecopol-theory-model",
+        "./skills/ecopol-robustness",
+        "./skills/ecopol-tables-figures",
+        "./skills/ecopol-writing-style",
+        "./skills/ecopol-replication-package",
+        "./skills/ecopol-referee-strategy",
+        "./skills/ecopol-submission",
+        "./skills/ecopol-rebuttal"
       ]
     }
   ]

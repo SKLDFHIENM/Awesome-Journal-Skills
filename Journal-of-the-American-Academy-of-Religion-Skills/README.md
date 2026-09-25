@@ -54,7 +54,7 @@ confirmed are marked **待核实** in [`resources/official-source-map.md`](resou
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jaar-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jaar-skills
 /reload-plugins
 ```
@@ -62,8 +62,8 @@ confirmed are marked **待核实** in [`resources/official-source-map.md`](resou
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jaar-skills.git
-cd jaar-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-the-American-Academy-of-Religion-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jaar-* ~/.claude/skills/
 # or

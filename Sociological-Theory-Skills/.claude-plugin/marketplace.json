@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/sociological-theory-skills",
-      "repository": "https://github.com/brycewang-stanford/sociological-theory-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "sociological-theory",
         "social-theory",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/soctheory-workflow",
-        "skills/soctheory-topic-selection",
-        "skills/soctheory-theory-construction",
-        "skills/soctheory-literature-positioning",
-        "skills/soctheory-argument-development",
-        "skills/soctheory-boundary-conditions",
-        "skills/soctheory-conceptual-exhibits",
-        "skills/soctheory-writing-style",
-        "skills/soctheory-contribution-framing",
-        "skills/soctheory-review-process",
-        "skills/soctheory-submission",
-        "skills/soctheory-rebuttal"
+        "./skills/soctheory-workflow",
+        "./skills/soctheory-topic-selection",
+        "./skills/soctheory-theory-construction",
+        "./skills/soctheory-literature-positioning",
+        "./skills/soctheory-argument-development",
+        "./skills/soctheory-boundary-conditions",
+        "./skills/soctheory-conceptual-exhibits",
+        "./skills/soctheory-writing-style",
+        "./skills/soctheory-contribution-framing",
+        "./skills/soctheory-review-process",
+        "./skills/soctheory-submission",
+        "./skills/soctheory-rebuttal"
       ]
     }
   ]

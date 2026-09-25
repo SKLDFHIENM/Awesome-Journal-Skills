@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/pnasnexus-workflow",
-        "skills/pnasnexus-fit",
-        "skills/pnasnexus-openaccess",
-        "skills/pnasnexus-significance",
-        "skills/pnasnexus-abstract",
-        "skills/pnasnexus-writing",
-        "skills/pnasnexus-figures",
-        "skills/pnasnexus-statistics",
-        "skills/pnasnexus-data",
-        "skills/pnasnexus-citation",
-        "skills/pnasnexus-submission",
-        "skills/pnasnexus-rebuttal"
+        "./skills/pnasnexus-workflow",
+        "./skills/pnasnexus-fit",
+        "./skills/pnasnexus-openaccess",
+        "./skills/pnasnexus-significance",
+        "./skills/pnasnexus-abstract",
+        "./skills/pnasnexus-writing",
+        "./skills/pnasnexus-figures",
+        "./skills/pnasnexus-statistics",
+        "./skills/pnasnexus-data",
+        "./skills/pnasnexus-citation",
+        "./skills/pnasnexus-submission",
+        "./skills/pnasnexus-rebuttal"
       ]
     }
   ]

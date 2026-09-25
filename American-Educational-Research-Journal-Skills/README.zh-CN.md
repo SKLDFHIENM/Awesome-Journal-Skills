@@ -61,7 +61,7 @@ SAGE/AERA 官方页面为准。
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/aerj-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install aerj-skills
 /reload-plugins
 ```
@@ -69,8 +69,8 @@ SAGE/AERA 官方页面为准。
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/aerj-skills.git
-cd aerj-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/American-Educational-Research-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/aerj-* ~/.claude/skills/
 # 或

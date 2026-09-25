@@ -45,7 +45,7 @@ Cancer Cell 的约束与宽口径综合刊、以及 JAMA 这类临床试验期�
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cancer-cell-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cancer-cell-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Cancer Cell 的约束与宽口径综合刊、以及 JAMA 这类临床试验期�
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/cancer-cell-skills.git
-cd cancer-cell-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Cancer-Cell-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cc-* ~/.claude/skills/
 # 或者

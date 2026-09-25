@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/journal-of-management-skills",
-      "repository": "https://github.com/brycewang-stanford/journal-of-management-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jomgmt",
         "journal-of-management",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jmgmt-workflow",
-        "skills/jmgmt-topic-selection",
-        "skills/jmgmt-theory-development",
-        "skills/jmgmt-literature-positioning",
-        "skills/jmgmt-methods",
-        "skills/jmgmt-data-analysis",
-        "skills/jmgmt-contribution-framing",
-        "skills/jmgmt-tables-figures",
-        "skills/jmgmt-writing-style",
-        "skills/jmgmt-submission",
-        "skills/jmgmt-review-process",
-        "skills/jmgmt-rebuttal"
+        "./skills/jmgmt-workflow",
+        "./skills/jmgmt-topic-selection",
+        "./skills/jmgmt-theory-development",
+        "./skills/jmgmt-literature-positioning",
+        "./skills/jmgmt-methods",
+        "./skills/jmgmt-data-analysis",
+        "./skills/jmgmt-contribution-framing",
+        "./skills/jmgmt-tables-figures",
+        "./skills/jmgmt-writing-style",
+        "./skills/jmgmt-submission",
+        "./skills/jmgmt-review-process",
+        "./skills/jmgmt-rebuttal"
       ]
     }
   ]

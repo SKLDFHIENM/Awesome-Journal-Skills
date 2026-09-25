@@ -49,7 +49,7 @@ The official ScienceDirect pages were refreshed on **2026-06-20** in [`resources
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jde-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jde-skills
 /reload-plugins
 ```
@@ -57,8 +57,8 @@ The official ScienceDirect pages were refreshed on **2026-06-20** in [`resources
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jde-skills.git
-cd jde-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Development-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jde-* ~/.claude/skills/
 # or

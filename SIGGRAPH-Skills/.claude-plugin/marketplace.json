@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/siggraph-submission",
-        "skills/siggraph-author-response",
-        "skills/siggraph-camera-ready",
-        "skills/siggraph-artifact-evaluation",
-        "skills/siggraph-reproducibility",
-        "skills/siggraph-supplementary",
-        "skills/siggraph-review-process",
-        "skills/siggraph-writing-style",
-        "skills/siggraph-related-work",
-        "skills/siggraph-experiments",
-        "skills/siggraph-workflow",
-        "skills/siggraph-topic-selection"
+        "./skills/siggraph-submission",
+        "./skills/siggraph-author-response",
+        "./skills/siggraph-camera-ready",
+        "./skills/siggraph-artifact-evaluation",
+        "./skills/siggraph-reproducibility",
+        "./skills/siggraph-supplementary",
+        "./skills/siggraph-review-process",
+        "./skills/siggraph-writing-style",
+        "./skills/siggraph-related-work",
+        "./skills/siggraph-experiments",
+        "./skills/siggraph-workflow",
+        "./skills/siggraph-topic-selection"
       ]
     }
   ]

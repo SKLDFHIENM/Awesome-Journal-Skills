@@ -33,19 +33,19 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/china-sport-science",
-        "skills/china-sport-science-and-technology",
-        "skills/cn-sport-journal-workflow",
-        "skills/journal-of-beijing-sport-university",
-        "skills/journal-of-chengdu-sport-university",
-        "skills/journal-of-physical-education",
-        "skills/journal-of-shanghai-university-of-sport",
-        "skills/journal-of-shenyang-sport-university",
-        "skills/journal-of-sports-research",
-        "skills/journal-of-tianjin-university-of-sport",
-        "skills/journal-of-wuhan-sports-university",
-        "skills/journal-of-xian-physical-education-university",
-        "skills/sports-and-science"
+        "./skills/china-sport-science",
+        "./skills/china-sport-science-and-technology",
+        "./skills/cn-sport-journal-workflow",
+        "./skills/journal-of-beijing-sport-university",
+        "./skills/journal-of-chengdu-sport-university",
+        "./skills/journal-of-physical-education",
+        "./skills/journal-of-shanghai-university-of-sport",
+        "./skills/journal-of-shenyang-sport-university",
+        "./skills/journal-of-sports-research",
+        "./skills/journal-of-tianjin-university-of-sport",
+        "./skills/journal-of-wuhan-sports-university",
+        "./skills/journal-of-xian-physical-education-university",
+        "./skills/sports-and-science"
       ]
     }
   ]

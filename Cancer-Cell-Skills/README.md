@@ -45,7 +45,7 @@ Generic "scientific writing" packs do not encode these Cell Press and Cancer Cel
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cancer-cell-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cancer-cell-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" packs do not encode these Cell Press and Cancer Cel
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/cancer-cell-skills.git
-cd cancer-cell-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Cancer-Cell-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cc-* ~/.claude/skills/
 # or

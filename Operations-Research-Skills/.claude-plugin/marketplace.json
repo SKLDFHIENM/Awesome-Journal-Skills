@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/ors-skills",
-      "repository": "https://github.com/brycewang-stanford/ors-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "operations-research",
         "informs",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ors-workflow",
-        "skills/ors-topic-selection",
-        "skills/ors-theory-development",
-        "skills/ors-literature-positioning",
-        "skills/ors-methods",
-        "skills/ors-data-analysis",
-        "skills/ors-contribution-framing",
-        "skills/ors-tables-figures",
-        "skills/ors-writing-style",
-        "skills/ors-submission",
-        "skills/ors-review-process",
-        "skills/ors-rebuttal"
+        "./skills/ors-workflow",
+        "./skills/ors-topic-selection",
+        "./skills/ors-theory-development",
+        "./skills/ors-literature-positioning",
+        "./skills/ors-methods",
+        "./skills/ors-data-analysis",
+        "./skills/ors-contribution-framing",
+        "./skills/ors-tables-figures",
+        "./skills/ors-writing-style",
+        "./skills/ors-submission",
+        "./skills/ors-review-process",
+        "./skills/ors-rebuttal"
       ]
     }
   ]

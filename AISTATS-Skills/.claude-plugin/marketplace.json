@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aistats-submission",
-        "skills/aistats-author-response",
-        "skills/aistats-camera-ready",
-        "skills/aistats-artifact-evaluation",
-        "skills/aistats-reproducibility",
-        "skills/aistats-supplementary",
-        "skills/aistats-review-process",
-        "skills/aistats-writing-style",
-        "skills/aistats-related-work",
-        "skills/aistats-experiments",
-        "skills/aistats-workflow",
-        "skills/aistats-topic-selection"
+        "./skills/aistats-submission",
+        "./skills/aistats-author-response",
+        "./skills/aistats-camera-ready",
+        "./skills/aistats-artifact-evaluation",
+        "./skills/aistats-reproducibility",
+        "./skills/aistats-supplementary",
+        "./skills/aistats-review-process",
+        "./skills/aistats-writing-style",
+        "./skills/aistats-related-work",
+        "./skills/aistats-experiments",
+        "./skills/aistats-workflow",
+        "./skills/aistats-topic-selection"
       ]
     }
   ]

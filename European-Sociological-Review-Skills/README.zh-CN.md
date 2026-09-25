@@ -53,7 +53,7 @@ ESR 的约束不同于综合性或美国社会学期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/european-sociological-review-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install european-sociological-review-skills
 /reload-plugins
 ```
@@ -61,8 +61,8 @@ ESR 的约束不同于综合性或美国社会学期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/european-sociological-review-skills.git
-cd european-sociological-review-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/European-Sociological-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/eursr-* ~/.claude/skills/
 # 或

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/pnas-workflow",
-        "skills/pnas-fit",
-        "skills/pnas-track",
-        "skills/pnas-significance",
-        "skills/pnas-abstract",
-        "skills/pnas-writing",
-        "skills/pnas-figures",
-        "skills/pnas-statistics",
-        "skills/pnas-data",
-        "skills/pnas-citation",
-        "skills/pnas-submission",
-        "skills/pnas-rebuttal"
+        "./skills/pnas-workflow",
+        "./skills/pnas-fit",
+        "./skills/pnas-track",
+        "./skills/pnas-significance",
+        "./skills/pnas-abstract",
+        "./skills/pnas-writing",
+        "./skills/pnas-figures",
+        "./skills/pnas-statistics",
+        "./skills/pnas-data",
+        "./skills/pnas-citation",
+        "./skills/pnas-submission",
+        "./skills/pnas-rebuttal"
       ]
     }
   ]

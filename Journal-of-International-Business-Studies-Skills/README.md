@@ -46,7 +46,7 @@ Generic "scientific writing" or "social-science methods" packs do not address th
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jibs-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jibs-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@ Generic "scientific writing" or "social-science methods" packs do not address th
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jibs-skills.git
-cd jibs-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-International-Business-Studies-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jibs-* ~/.claude/skills/
 # or

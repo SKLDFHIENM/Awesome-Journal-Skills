@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/pmla-skills",
-      "repository": "https://github.com/brycewang-stanford/pmla-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "pmla",
         "modern-language-association",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/pmla-workflow",
-        "skills/pmla-topic-selection",
-        "skills/pmla-scholarly-positioning",
-        "skills/pmla-argument-development",
-        "skills/pmla-textual-evidence-and-close-reading",
-        "skills/pmla-theory-and-method",
-        "skills/pmla-structure-and-exposition",
-        "skills/pmla-writing-style",
-        "skills/pmla-citation-and-style",
-        "skills/pmla-review-process",
-        "skills/pmla-submission",
-        "skills/pmla-revision-and-response"
+        "./skills/pmla-workflow",
+        "./skills/pmla-topic-selection",
+        "./skills/pmla-scholarly-positioning",
+        "./skills/pmla-argument-development",
+        "./skills/pmla-textual-evidence-and-close-reading",
+        "./skills/pmla-theory-and-method",
+        "./skills/pmla-structure-and-exposition",
+        "./skills/pmla-writing-style",
+        "./skills/pmla-citation-and-style",
+        "./skills/pmla-review-process",
+        "./skills/pmla-submission",
+        "./skills/pmla-revision-and-response"
       ]
     }
   ]

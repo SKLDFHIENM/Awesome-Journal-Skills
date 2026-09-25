@@ -63,7 +63,7 @@ do next?", you are in the right place — and the rest of this stack helps you m
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/phg-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install phg-skills
 /reload-plugins
 ```
@@ -71,8 +71,8 @@ do next?", you are in the right place — and the rest of this stack helps you m
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/phg-skills.git
-cd phg-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Progress-in-Human-Geography-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/phg-* ~/.claude/skills/
 # or

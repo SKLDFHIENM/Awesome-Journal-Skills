@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jep-skills",
-      "repository": "https://github.com/brycewang-stanford/jep-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-economic-perspectives",
         "jep",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jep-workflow",
-        "skills/jep-topic-selection",
-        "skills/jep-proposal-and-symposium",
-        "skills/jep-narrative-arc",
-        "skills/jep-accessibility-and-translation",
-        "skills/jep-evidence-without-equations",
-        "skills/jep-exhibits-for-general-readers",
-        "skills/jep-writing-style",
-        "skills/jep-balance-and-objectivity",
-        "skills/jep-editor-strategy",
-        "skills/jep-submission",
-        "skills/jep-revision"
+        "./skills/jep-workflow",
+        "./skills/jep-topic-selection",
+        "./skills/jep-proposal-and-symposium",
+        "./skills/jep-narrative-arc",
+        "./skills/jep-accessibility-and-translation",
+        "./skills/jep-evidence-without-equations",
+        "./skills/jep-exhibits-for-general-readers",
+        "./skills/jep-writing-style",
+        "./skills/jep-balance-and-objectivity",
+        "./skills/jep-editor-strategy",
+        "./skills/jep-submission",
+        "./skills/jep-revision"
       ]
     }
   ]

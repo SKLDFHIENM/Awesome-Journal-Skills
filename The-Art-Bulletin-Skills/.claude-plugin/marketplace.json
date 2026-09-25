@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/artbull-skills",
-      "repository": "https://github.com/brycewang-stanford/artbull-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "the-art-bulletin",
         "art-history",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/artbull-workflow",
-        "skills/artbull-topic-selection",
-        "skills/artbull-scholarly-positioning",
-        "skills/artbull-argument-development",
-        "skills/artbull-visual-analysis",
-        "skills/artbull-evidence-and-sources",
-        "skills/artbull-images-and-permissions",
-        "skills/artbull-structure-and-exposition",
-        "skills/artbull-writing-style-and-citation",
-        "skills/artbull-review-process",
-        "skills/artbull-submission",
-        "skills/artbull-revision-and-response"
+        "./skills/artbull-workflow",
+        "./skills/artbull-topic-selection",
+        "./skills/artbull-scholarly-positioning",
+        "./skills/artbull-argument-development",
+        "./skills/artbull-visual-analysis",
+        "./skills/artbull-evidence-and-sources",
+        "./skills/artbull-images-and-permissions",
+        "./skills/artbull-structure-and-exposition",
+        "./skills/artbull-writing-style-and-citation",
+        "./skills/artbull-review-process",
+        "./skills/artbull-submission",
+        "./skills/artbull-revision-and-response"
       ]
     }
   ]

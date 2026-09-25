@@ -49,7 +49,7 @@ traps a generic econ stack misses:
 **As a Claude Code plugin (recommended).** Add the marketplace and install:
 
 ```
-/plugin marketplace add brycewang-stanford/aej-macroeconomics-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install aej-macroeconomics-skills
 ```
 

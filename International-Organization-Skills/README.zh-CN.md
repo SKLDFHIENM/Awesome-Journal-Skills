@@ -75,7 +75,7 @@ IO 的重心不同于全学科旗舰刊，也不同于通用的领域定量刊�
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/io-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install io-skills
 /reload-plugins
 ```
@@ -83,8 +83,8 @@ IO 的重心不同于全学科旗舰刊，也不同于通用的领域定量刊�
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/io-skills.git
-cd io-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/International-Organization-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/io-* ~/.claude/skills/
 # 或

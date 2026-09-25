@@ -62,7 +62,7 @@ AA 的约束不同于单一子领域期刊或定量社会科学期刊：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/american-anthropologist-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install american-anthropologist-skills
 /reload-plugins
 ```
@@ -70,8 +70,8 @@ AA 的约束不同于单一子领域期刊或定量社会科学期刊：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/american-anthropologist-skills.git
-cd american-anthropologist-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/American-Anthropologist-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/amanthro-* ~/.claude/skills/
 # 或

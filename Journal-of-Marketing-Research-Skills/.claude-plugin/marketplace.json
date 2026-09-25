@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jmr-skills",
-      "repository": "https://github.com/brycewang-stanford/jmr-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-marketing-research",
         "jmr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jmr-workflow",
-        "skills/jmr-topic-selection",
-        "skills/jmr-theory-development",
-        "skills/jmr-literature-positioning",
-        "skills/jmr-methods",
-        "skills/jmr-data-analysis",
-        "skills/jmr-contribution-framing",
-        "skills/jmr-tables-figures",
-        "skills/jmr-writing-style",
-        "skills/jmr-submission",
-        "skills/jmr-review-process",
-        "skills/jmr-rebuttal"
+        "./skills/jmr-workflow",
+        "./skills/jmr-topic-selection",
+        "./skills/jmr-theory-development",
+        "./skills/jmr-literature-positioning",
+        "./skills/jmr-methods",
+        "./skills/jmr-data-analysis",
+        "./skills/jmr-contribution-framing",
+        "./skills/jmr-tables-figures",
+        "./skills/jmr-writing-style",
+        "./skills/jmr-submission",
+        "./skills/jmr-review-process",
+        "./skills/jmr-rebuttal"
       ]
     }
   ]

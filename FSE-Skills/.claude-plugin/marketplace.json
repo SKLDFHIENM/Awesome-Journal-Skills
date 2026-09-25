@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/fse-submission",
-        "skills/fse-author-response",
-        "skills/fse-camera-ready",
-        "skills/fse-artifact-evaluation",
-        "skills/fse-reproducibility",
-        "skills/fse-supplementary",
-        "skills/fse-review-process",
-        "skills/fse-writing-style",
-        "skills/fse-related-work",
-        "skills/fse-experiments",
-        "skills/fse-workflow",
-        "skills/fse-topic-selection"
+        "./skills/fse-submission",
+        "./skills/fse-author-response",
+        "./skills/fse-camera-ready",
+        "./skills/fse-artifact-evaluation",
+        "./skills/fse-reproducibility",
+        "./skills/fse-supplementary",
+        "./skills/fse-review-process",
+        "./skills/fse-writing-style",
+        "./skills/fse-related-work",
+        "./skills/fse-experiments",
+        "./skills/fse-workflow",
+        "./skills/fse-topic-selection"
       ]
     }
   ]

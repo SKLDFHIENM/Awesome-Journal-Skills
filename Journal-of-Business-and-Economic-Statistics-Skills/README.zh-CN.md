@@ -43,7 +43,7 @@ JBES 的约束维度与综合性经济学期刊或纯统计学期刊**显著不�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jbes-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jbes-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ JBES 的约束维度与综合性经济学期刊或纯统计学期刊**显著不�
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/jbes-skills.git
-cd jbes-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Business-and-Economic-Statistics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jbes-* ~/.claude/skills/
 # 或

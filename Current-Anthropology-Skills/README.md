@@ -72,7 +72,7 @@ CA's constraints differ from a single-subfield journal or a quantitative social-
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/current-anthropology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install current-anthropology-skills
 /reload-plugins
 ```
@@ -80,8 +80,8 @@ CA's constraints differ from a single-subfield journal or a quantitative social-
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/current-anthropology-skills.git
-cd current-anthropology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Current-Anthropology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/curranthro-* ~/.claude/skills/
 # or

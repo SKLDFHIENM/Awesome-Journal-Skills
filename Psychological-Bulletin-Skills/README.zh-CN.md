@@ -64,7 +64,7 @@ Psychological Bulletin 的约束与原始研究刊截然不同：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/psychbull-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install psychbull-skills
 /reload-plugins
 ```
@@ -72,8 +72,8 @@ Psychological Bulletin 的约束与原始研究刊截然不同：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/psychbull-skills.git
-cd psychbull-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Psychological-Bulletin-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/psychbull-* ~/.claude/skills/
 # 或

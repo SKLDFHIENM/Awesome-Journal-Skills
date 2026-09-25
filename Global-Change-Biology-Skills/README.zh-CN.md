@@ -60,7 +60,7 @@ ScholarOne 或 DOI 仓库来源路径；投稿前请在浏览器中即时核对�
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/gcb-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install gcb-skills
 /reload-plugins
 ```
@@ -68,8 +68,8 @@ ScholarOne 或 DOI 仓库来源路径；投稿前请在浏览器中即时核对�
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/gcb-skills.git
-cd gcb-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Global-Change-Biology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/gcb-* ~/.claude/skills/
 # 或

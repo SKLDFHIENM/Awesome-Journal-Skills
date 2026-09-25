@@ -42,7 +42,7 @@ Generic "social-science writing" or "economics writing" skill packs do not addre
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/chinese-public-administration-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install chinese-public-administration-skills
 /reload-plugins
 ```
@@ -50,8 +50,8 @@ Generic "social-science writing" or "economics writing" skill packs do not addre
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/chinese-public-administration-skills.git
-cd chinese-public-administration-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Chinese-Public-Administration-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cpa-* ~/.claude/skills/
 # or
@@ -146,8 +146,8 @@ cpa-rebuttal
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) — 《经济研究》
-- [management-world-skills](https://github.com/brycewang-stanford/management-world-skills) — 《管理世界》
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) — 《经济研究》
+- [management-world-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Journal-of-Management-World-Skills) — 《管理世界》
 
 ---
 

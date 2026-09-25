@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jebo-skills",
-      "repository": "https://github.com/brycewang-stanford/jebo-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jebo",
         "journal-of-economic-behavior-and-organization",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jebo-workflow",
-        "skills/jebo-topic-selection",
-        "skills/jebo-literature-positioning",
-        "skills/jebo-identification",
-        "skills/jebo-theory-model",
-        "skills/jebo-robustness",
-        "skills/jebo-tables-figures",
-        "skills/jebo-writing-style",
-        "skills/jebo-replication-package",
-        "skills/jebo-referee-strategy",
-        "skills/jebo-submission",
-        "skills/jebo-rebuttal"
+        "./skills/jebo-workflow",
+        "./skills/jebo-topic-selection",
+        "./skills/jebo-literature-positioning",
+        "./skills/jebo-identification",
+        "./skills/jebo-theory-model",
+        "./skills/jebo-robustness",
+        "./skills/jebo-tables-figures",
+        "./skills/jebo-writing-style",
+        "./skills/jebo-replication-package",
+        "./skills/jebo-referee-strategy",
+        "./skills/jebo-submission",
+        "./skills/jebo-rebuttal"
       ]
     }
   ]

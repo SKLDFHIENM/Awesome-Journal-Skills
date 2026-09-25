@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/economic-journal-skills",
-      "repository": "https://github.com/brycewang-stanford/economic-journal-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "economic-journal",
         "royal-economic-society",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ecj-workflow",
-        "skills/ecj-topic-selection",
-        "skills/ecj-literature-positioning",
-        "skills/ecj-identification",
-        "skills/ecj-theory-model",
-        "skills/ecj-robustness",
-        "skills/ecj-tables-figures",
-        "skills/ecj-writing-style",
-        "skills/ecj-replication-package",
-        "skills/ecj-referee-strategy",
-        "skills/ecj-submission",
-        "skills/ecj-rebuttal"
+        "./skills/ecj-workflow",
+        "./skills/ecj-topic-selection",
+        "./skills/ecj-literature-positioning",
+        "./skills/ecj-identification",
+        "./skills/ecj-theory-model",
+        "./skills/ecj-robustness",
+        "./skills/ecj-tables-figures",
+        "./skills/ecj-writing-style",
+        "./skills/ecj-replication-package",
+        "./skills/ecj-referee-strategy",
+        "./skills/ecj-submission",
+        "./skills/ecj-rebuttal"
       ]
     }
   ]

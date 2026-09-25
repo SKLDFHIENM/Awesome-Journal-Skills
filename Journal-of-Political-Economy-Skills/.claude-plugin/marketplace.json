@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jpe-skills",
-      "repository": "https://github.com/brycewang-stanford/jpe-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-political-economy",
         "jpe",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jpe-workflow",
-        "skills/jpe-topic-selection",
-        "skills/jpe-literature-positioning",
-        "skills/jpe-identification",
-        "skills/jpe-theory-model",
-        "skills/jpe-robustness",
-        "skills/jpe-tables-figures",
-        "skills/jpe-writing-style",
-        "skills/jpe-replication-package",
-        "skills/jpe-referee-strategy",
-        "skills/jpe-submission",
-        "skills/jpe-rebuttal"
+        "./skills/jpe-workflow",
+        "./skills/jpe-topic-selection",
+        "./skills/jpe-literature-positioning",
+        "./skills/jpe-identification",
+        "./skills/jpe-theory-model",
+        "./skills/jpe-robustness",
+        "./skills/jpe-tables-figures",
+        "./skills/jpe-writing-style",
+        "./skills/jpe-replication-package",
+        "./skills/jpe-referee-strategy",
+        "./skills/jpe-submission",
+        "./skills/jpe-rebuttal"
       ]
     }
   ]

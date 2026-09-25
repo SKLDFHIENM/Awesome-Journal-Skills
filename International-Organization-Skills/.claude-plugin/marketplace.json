@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/io-skills",
-      "repository": "https://github.com/brycewang-stanford/io-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "international-organization",
         "io",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/io-workflow",
-        "skills/io-topic-selection",
-        "skills/io-literature-positioning",
-        "skills/io-theory-building",
-        "skills/io-research-design",
-        "skills/io-data-analysis",
-        "skills/io-tables-figures",
-        "skills/io-writing-style",
-        "skills/io-transparency-and-data-policy",
-        "skills/io-review-process",
-        "skills/io-submission",
-        "skills/io-rebuttal"
+        "./skills/io-workflow",
+        "./skills/io-topic-selection",
+        "./skills/io-literature-positioning",
+        "./skills/io-theory-building",
+        "./skills/io-research-design",
+        "./skills/io-data-analysis",
+        "./skills/io-tables-figures",
+        "./skills/io-writing-style",
+        "./skills/io-transparency-and-data-policy",
+        "./skills/io-review-process",
+        "./skills/io-submission",
+        "./skills/io-rebuttal"
       ]
     }
   ]

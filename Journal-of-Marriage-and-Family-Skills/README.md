@@ -65,7 +65,7 @@ editor roster, file requirements, and any journal-specific policy updates.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jmf-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jmf-skills
 /reload-plugins
 ```
@@ -73,8 +73,8 @@ editor roster, file requirements, and any journal-specific policy updates.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jmf-skills.git
-cd jmf-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Marriage-and-Family-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jmf-* ~/.claude/skills/
 # or

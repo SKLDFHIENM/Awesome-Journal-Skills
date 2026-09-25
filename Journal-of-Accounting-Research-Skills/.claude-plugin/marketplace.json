@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jar-skills",
-      "repository": "https://github.com/brycewang-stanford/jar-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-accounting-research",
         "jar",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jar-workflow",
-        "skills/jar-topic-selection",
-        "skills/jar-theory-development",
-        "skills/jar-literature-positioning",
-        "skills/jar-methods",
-        "skills/jar-data-analysis",
-        "skills/jar-contribution-framing",
-        "skills/jar-tables-figures",
-        "skills/jar-writing-style",
-        "skills/jar-submission",
-        "skills/jar-review-process",
-        "skills/jar-rebuttal"
+        "./skills/jar-workflow",
+        "./skills/jar-topic-selection",
+        "./skills/jar-theory-development",
+        "./skills/jar-literature-positioning",
+        "./skills/jar-methods",
+        "./skills/jar-data-analysis",
+        "./skills/jar-contribution-framing",
+        "./skills/jar-tables-figures",
+        "./skills/jar-writing-style",
+        "./skills/jar-submission",
+        "./skills/jar-review-process",
+        "./skills/jar-rebuttal"
       ]
     }
   ]

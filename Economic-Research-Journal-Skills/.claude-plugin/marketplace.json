@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/economic-research-skills",
-      "repository": "https://github.com/brycewang-stanford/economic-research-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "economic-research",
         "jingji-yanjiu",
@@ -34,24 +34,24 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/er-workflow",
-        "skills/er-topic-selection",
-        "skills/er-introduction",
-        "skills/er-literature-review",
-        "skills/er-theory-hypotheses",
-        "skills/er-data-sample",
-        "skills/er-identification",
-        "skills/er-mechanism",
-        "skills/er-heterogeneity",
-        "skills/er-robustness",
-        "skills/er-tables-figures",
-        "skills/er-policy-implication",
-        "skills/er-abstract",
-        "skills/er-style",
-        "skills/er-reviewer-lens",
-        "skills/er-reproducibility",
-        "skills/er-submission",
-        "skills/er-rebuttal"
+        "./skills/er-workflow",
+        "./skills/er-topic-selection",
+        "./skills/er-introduction",
+        "./skills/er-literature-review",
+        "./skills/er-theory-hypotheses",
+        "./skills/er-data-sample",
+        "./skills/er-identification",
+        "./skills/er-mechanism",
+        "./skills/er-heterogeneity",
+        "./skills/er-robustness",
+        "./skills/er-tables-figures",
+        "./skills/er-policy-implication",
+        "./skills/er-abstract",
+        "./skills/er-style",
+        "./skills/er-reviewer-lens",
+        "./skills/er-reproducibility",
+        "./skills/er-submission",
+        "./skills/er-rebuttal"
       ]
     }
   ]

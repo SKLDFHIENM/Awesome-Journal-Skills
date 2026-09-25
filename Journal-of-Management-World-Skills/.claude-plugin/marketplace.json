@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/management-world-skills",
-      "repository": "https://github.com/brycewang-stanford/management-world-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "management-world",
         "guanli-shijie",
@@ -34,17 +34,17 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/mw-workflow",
-        "skills/mw-topic-selection",
-        "skills/mw-literature-review",
-        "skills/mw-identification",
-        "skills/mw-institutional-background",
-        "skills/mw-mechanism-heterogeneity",
-        "skills/mw-tables-figures",
-        "skills/mw-policy-implication",
-        "skills/mw-submission",
-        "skills/mw-rebuttal",
-        "skills/mw-replication"
+        "./skills/mw-workflow",
+        "./skills/mw-topic-selection",
+        "./skills/mw-literature-review",
+        "./skills/mw-identification",
+        "./skills/mw-institutional-background",
+        "./skills/mw-mechanism-heterogeneity",
+        "./skills/mw-tables-figures",
+        "./skills/mw-policy-implication",
+        "./skills/mw-submission",
+        "./skills/mw-rebuttal",
+        "./skills/mw-replication"
       ]
     }
   ]

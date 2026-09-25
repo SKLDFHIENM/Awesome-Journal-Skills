@@ -44,7 +44,7 @@ Generic "scientific writing," consumer-behavior, or "social-science methods" pac
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/mksc-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install mksc-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing," consumer-behavior, or "social-science methods" pac
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/mksc-skills.git
-cd mksc-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Marketing-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/mksc-* ~/.claude/skills/
 # or

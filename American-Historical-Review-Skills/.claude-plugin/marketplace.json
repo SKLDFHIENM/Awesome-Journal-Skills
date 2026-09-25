@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/ahr-skills",
-      "repository": "https://github.com/brycewang-stanford/ahr-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "american-historical-review",
         "ahr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ahr-workflow",
-        "skills/ahr-topic-selection",
-        "skills/ahr-historiography-positioning",
-        "skills/ahr-argument-development",
-        "skills/ahr-sources-and-archives",
-        "skills/ahr-interpretation-and-method",
-        "skills/ahr-structure-and-exposition",
-        "skills/ahr-writing-style",
-        "skills/ahr-citation-and-style",
-        "skills/ahr-review-process",
-        "skills/ahr-submission",
-        "skills/ahr-revision-and-response"
+        "./skills/ahr-workflow",
+        "./skills/ahr-topic-selection",
+        "./skills/ahr-historiography-positioning",
+        "./skills/ahr-argument-development",
+        "./skills/ahr-sources-and-archives",
+        "./skills/ahr-interpretation-and-method",
+        "./skills/ahr-structure-and-exposition",
+        "./skills/ahr-writing-style",
+        "./skills/ahr-citation-and-style",
+        "./skills/ahr-review-process",
+        "./skills/ahr-submission",
+        "./skills/ahr-revision-and-response"
       ]
     }
   ]

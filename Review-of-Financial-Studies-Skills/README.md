@@ -41,7 +41,7 @@ Generic "scientific writing" or "finance writing" packs do not address these con
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/rfs-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install rfs-skills
 /reload-plugins
 ```
@@ -49,8 +49,8 @@ Generic "scientific writing" or "finance writing" packs do not address these con
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/rfs-skills.git
-cd rfs-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Review-of-Financial-Studies-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/rfs-* ~/.claude/skills/
 # or
@@ -137,8 +137,8 @@ These three journals overlap heavily; this stack is tuned to the RFS lever — n
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Journal-of-Finance-Skills](https://github.com/brycewang-stanford/journal-of-finance-skills) — *Journal of Finance*
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) — 《经济研究》
+- [Journal-of-Finance-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Journal-of-Finance-Skills) — *Journal of Finance*
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) — 《经济研究》
 
 ---
 

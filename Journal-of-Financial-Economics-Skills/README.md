@@ -43,7 +43,7 @@ Generic "scientific writing" or "finance writing" skill packs do not address the
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jfe-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jfe-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ Generic "scientific writing" or "finance writing" skill packs do not address the
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jfe-skills.git
-cd jfe-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Financial-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jfe-* ~/.claude/skills/
 # or
@@ -147,8 +147,8 @@ Confirm each journal's current scope on its official page before choosing a targ
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Journal of Finance Skills](https://github.com/brycewang-stanford/journal-of-finance-skills) — JF
-- [Review of Financial Studies Skills](https://github.com/brycewang-stanford/rfs-skills) — RFS
+- [Journal of Finance Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Journal-of-Finance-Skills) — JF
+- [Review of Financial Studies Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Review-of-Financial-Studies-Skills) — RFS
 
 ---
 

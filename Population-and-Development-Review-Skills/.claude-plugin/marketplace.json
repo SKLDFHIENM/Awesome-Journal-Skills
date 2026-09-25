@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/population-and-development-review-skills",
-      "repository": "https://github.com/brycewang-stanford/population-and-development-review-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "population-and-development-review",
         "pdr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/popdevr-workflow",
-        "skills/popdevr-topic-selection",
-        "skills/popdevr-literature-positioning",
-        "skills/popdevr-theory-building",
-        "skills/popdevr-research-design",
-        "skills/popdevr-data-analysis",
-        "skills/popdevr-tables-figures",
-        "skills/popdevr-writing-style",
-        "skills/popdevr-transparency-and-data",
-        "skills/popdevr-review-process",
-        "skills/popdevr-submission",
-        "skills/popdevr-rebuttal"
+        "./skills/popdevr-workflow",
+        "./skills/popdevr-topic-selection",
+        "./skills/popdevr-literature-positioning",
+        "./skills/popdevr-theory-building",
+        "./skills/popdevr-research-design",
+        "./skills/popdevr-data-analysis",
+        "./skills/popdevr-tables-figures",
+        "./skills/popdevr-writing-style",
+        "./skills/popdevr-transparency-and-data",
+        "./skills/popdevr-review-process",
+        "./skills/popdevr-submission",
+        "./skills/popdevr-rebuttal"
       ]
     }
   ]

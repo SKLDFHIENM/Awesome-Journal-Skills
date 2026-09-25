@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jru-skills",
-      "repository": "https://github.com/brycewang-stanford/jru-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jru",
         "journal-of-risk-and-uncertainty",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jru-workflow",
-        "skills/jru-topic-selection",
-        "skills/jru-literature-positioning",
-        "skills/jru-identification",
-        "skills/jru-theory-model",
-        "skills/jru-robustness",
-        "skills/jru-tables-figures",
-        "skills/jru-writing-style",
-        "skills/jru-replication-package",
-        "skills/jru-referee-strategy",
-        "skills/jru-submission",
-        "skills/jru-rebuttal"
+        "./skills/jru-workflow",
+        "./skills/jru-topic-selection",
+        "./skills/jru-literature-positioning",
+        "./skills/jru-identification",
+        "./skills/jru-theory-model",
+        "./skills/jru-robustness",
+        "./skills/jru-tables-figures",
+        "./skills/jru-writing-style",
+        "./skills/jru-replication-package",
+        "./skills/jru-referee-strategy",
+        "./skills/jru-submission",
+        "./skills/jru-rebuttal"
       ]
     }
   ]

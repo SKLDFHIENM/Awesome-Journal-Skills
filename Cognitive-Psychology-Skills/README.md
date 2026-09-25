@@ -52,7 +52,7 @@ wording, accepted article types) change — items not directly confirmed are mar
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cognitive-psychology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cognitive-psychology-skills
 /reload-plugins
 ```
@@ -60,8 +60,8 @@ wording, accepted article types) change — items not directly confirmed are mar
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/cognitive-psychology-skills.git
-cd cognitive-psychology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Cognitive-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cogpsych-* ~/.claude/skills/
 # or

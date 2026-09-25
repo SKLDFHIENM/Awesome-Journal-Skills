@@ -45,7 +45,7 @@ Generic "scientific writing" or "economics writing" skill packs do not address t
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cte-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cte-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" or "economics writing" skill packs do not address t
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/cte-skills.git
-cd cte-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Finance-and-Trade-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cte-* ~/.claude/skills/
 # or
@@ -151,7 +151,7 @@ cte-rebuttal
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [China-Rural-Economy-Skills](https://github.com/brycewang-stanford/china-rural-economy-skills) — 《中国农村经济》
+- [China-Rural-Economy-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/China-Rural-Economy-Skills) — 《中国农村经济》
 
 ---
 

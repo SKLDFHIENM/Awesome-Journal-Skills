@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jhe-skills",
-      "repository": "https://github.com/brycewang-stanford/jhe-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jhe",
         "journal-of-health-economics",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jhe-workflow",
-        "skills/jhe-topic-selection",
-        "skills/jhe-literature-positioning",
-        "skills/jhe-identification",
-        "skills/jhe-theory-model",
-        "skills/jhe-robustness",
-        "skills/jhe-tables-figures",
-        "skills/jhe-writing-style",
-        "skills/jhe-replication-package",
-        "skills/jhe-referee-strategy",
-        "skills/jhe-submission",
-        "skills/jhe-rebuttal"
+        "./skills/jhe-workflow",
+        "./skills/jhe-topic-selection",
+        "./skills/jhe-literature-positioning",
+        "./skills/jhe-identification",
+        "./skills/jhe-theory-model",
+        "./skills/jhe-robustness",
+        "./skills/jhe-tables-figures",
+        "./skills/jhe-writing-style",
+        "./skills/jhe-replication-package",
+        "./skills/jhe-referee-strategy",
+        "./skills/jhe-submission",
+        "./skills/jhe-rebuttal"
       ]
     }
   ]

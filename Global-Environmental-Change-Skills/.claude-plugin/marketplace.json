@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/gec-skills",
-      "repository": "https://github.com/brycewang-stanford/gec-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "global-environmental-change",
         "gec",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/gec-workflow",
-        "skills/gec-topic-selection",
-        "skills/gec-literature-positioning",
-        "skills/gec-conceptual-framework",
-        "skills/gec-research-design",
-        "skills/gec-data-analysis",
-        "skills/gec-figures-and-tables",
-        "skills/gec-writing-style",
-        "skills/gec-policy-relevance-and-implications",
-        "skills/gec-review-process",
-        "skills/gec-submission",
-        "skills/gec-revision-and-rebuttal"
+        "./skills/gec-workflow",
+        "./skills/gec-topic-selection",
+        "./skills/gec-literature-positioning",
+        "./skills/gec-conceptual-framework",
+        "./skills/gec-research-design",
+        "./skills/gec-data-analysis",
+        "./skills/gec-figures-and-tables",
+        "./skills/gec-writing-style",
+        "./skills/gec-policy-relevance-and-implications",
+        "./skills/gec-review-process",
+        "./skills/gec-submission",
+        "./skills/gec-revision-and-rebuttal"
       ]
     }
   ]

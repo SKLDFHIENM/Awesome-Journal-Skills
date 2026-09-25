@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/lang-skills",
-      "repository": "https://github.com/brycewang-stanford/lang-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "language-journal",
         "linguistic-society-of-america",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/lang-workflow",
-        "skills/lang-topic-selection",
-        "skills/lang-theory-building",
-        "skills/lang-literature-positioning",
-        "skills/lang-research-design",
-        "skills/lang-data-analysis",
-        "skills/lang-data-and-transparency",
-        "skills/lang-tables-figures",
-        "skills/lang-writing-style",
-        "skills/lang-submission",
-        "skills/lang-review-process",
-        "skills/lang-rebuttal"
+        "./skills/lang-workflow",
+        "./skills/lang-topic-selection",
+        "./skills/lang-theory-building",
+        "./skills/lang-literature-positioning",
+        "./skills/lang-research-design",
+        "./skills/lang-data-analysis",
+        "./skills/lang-data-and-transparency",
+        "./skills/lang-tables-figures",
+        "./skills/lang-writing-style",
+        "./skills/lang-submission",
+        "./skills/lang-review-process",
+        "./skills/lang-rebuttal"
       ]
     }
   ]

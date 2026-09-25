@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/developmental-psychology-skills",
-      "repository": "https://github.com/brycewang-stanford/developmental-psychology-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "developmental-psychology",
         "devpsych",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/devpsych-workflow",
-        "skills/devpsych-topic-selection",
-        "skills/devpsych-theory-and-hypotheses",
-        "skills/devpsych-literature-positioning",
-        "skills/devpsych-study-design",
-        "skills/devpsych-data-analysis",
-        "skills/devpsych-tables-figures",
-        "skills/devpsych-writing-style",
-        "skills/devpsych-open-science-and-transparency",
-        "skills/devpsych-review-process",
-        "skills/devpsych-submission",
-        "skills/devpsych-rebuttal"
+        "./skills/devpsych-workflow",
+        "./skills/devpsych-topic-selection",
+        "./skills/devpsych-theory-and-hypotheses",
+        "./skills/devpsych-literature-positioning",
+        "./skills/devpsych-study-design",
+        "./skills/devpsych-data-analysis",
+        "./skills/devpsych-tables-figures",
+        "./skills/devpsych-writing-style",
+        "./skills/devpsych-open-science-and-transparency",
+        "./skills/devpsych-review-process",
+        "./skills/devpsych-submission",
+        "./skills/devpsych-rebuttal"
       ]
     }
   ]

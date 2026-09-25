@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jim-skills",
-      "repository": "https://github.com/brycewang-stanford/jim-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jim",
         "journal-of-international-marketing",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jim-workflow",
-        "skills/jim-topic-selection",
-        "skills/jim-theory-development",
-        "skills/jim-literature-positioning",
-        "skills/jim-methods",
-        "skills/jim-data-analysis",
-        "skills/jim-contribution-framing",
-        "skills/jim-tables-figures",
-        "skills/jim-writing-style",
-        "skills/jim-submission",
-        "skills/jim-review-process",
-        "skills/jim-rebuttal"
+        "./skills/jim-workflow",
+        "./skills/jim-topic-selection",
+        "./skills/jim-theory-development",
+        "./skills/jim-literature-positioning",
+        "./skills/jim-methods",
+        "./skills/jim-data-analysis",
+        "./skills/jim-contribution-framing",
+        "./skills/jim-tables-figures",
+        "./skills/jim-writing-style",
+        "./skills/jim-submission",
+        "./skills/jim-review-process",
+        "./skills/jim-rebuttal"
       ]
     }
   ]

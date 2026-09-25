@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cav-submission",
-        "skills/cav-author-response",
-        "skills/cav-camera-ready",
-        "skills/cav-artifact-evaluation",
-        "skills/cav-reproducibility",
-        "skills/cav-supplementary",
-        "skills/cav-review-process",
-        "skills/cav-writing-style",
-        "skills/cav-related-work",
-        "skills/cav-experiments",
-        "skills/cav-workflow",
-        "skills/cav-topic-selection"
+        "./skills/cav-submission",
+        "./skills/cav-author-response",
+        "./skills/cav-camera-ready",
+        "./skills/cav-artifact-evaluation",
+        "./skills/cav-reproducibility",
+        "./skills/cav-supplementary",
+        "./skills/cav-review-process",
+        "./skills/cav-writing-style",
+        "./skills/cav-related-work",
+        "./skills/cav-experiments",
+        "./skills/cav-workflow",
+        "./skills/cav-topic-selection"
       ]
     }
   ]

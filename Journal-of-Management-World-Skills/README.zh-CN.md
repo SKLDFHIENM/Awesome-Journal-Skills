@@ -44,7 +44,7 @@
 
 ```bash
 # 添加 marketplace（一次性）
-/plugin marketplace add https://github.com/brycewang-stanford/management-world-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 
 # 安装插件
 /plugin install management-world-skills
@@ -56,8 +56,8 @@
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/management-world-skills.git
-cd management-world-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Management-World-Skills
 
 # Claude Code（user 级）
 mkdir -p ~/.claude/skills && cp -R skills/mw-* ~/.claude/skills/
@@ -139,7 +139,7 @@ mw-rebuttal
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
 - [AER-skills](https://github.com/brycewang-stanford/AER-skills) —— American Economic Review 投稿工具栈
-- [economic-research-skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》投稿工具栈
+- [economic-research-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》投稿工具栈
 
 ---
 

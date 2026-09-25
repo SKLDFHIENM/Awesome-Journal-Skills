@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ecai-submission",
-        "skills/ecai-author-response",
-        "skills/ecai-camera-ready",
-        "skills/ecai-artifact-evaluation",
-        "skills/ecai-reproducibility",
-        "skills/ecai-supplementary",
-        "skills/ecai-review-process",
-        "skills/ecai-writing-style",
-        "skills/ecai-related-work",
-        "skills/ecai-experiments",
-        "skills/ecai-workflow",
-        "skills/ecai-topic-selection"
+        "./skills/ecai-submission",
+        "./skills/ecai-author-response",
+        "./skills/ecai-camera-ready",
+        "./skills/ecai-artifact-evaluation",
+        "./skills/ecai-reproducibility",
+        "./skills/ecai-supplementary",
+        "./skills/ecai-review-process",
+        "./skills/ecai-writing-style",
+        "./skills/ecai-related-work",
+        "./skills/ecai-experiments",
+        "./skills/ecai-workflow",
+        "./skills/ecai-topic-selection"
       ]
     }
   ]

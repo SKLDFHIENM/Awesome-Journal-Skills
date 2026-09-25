@@ -45,7 +45,7 @@ POM 的约束与纯理论管理期刊或资本市场金融/会计期刊有本质
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/pom-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install pom-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ POM 的约束与纯理论管理期刊或资本市场金融/会计期刊有本质
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/pom-skills.git
-cd pom-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Production-and-Operations-Management-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/pom-* ~/.claude/skills/
 # 或

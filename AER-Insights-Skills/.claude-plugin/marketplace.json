@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/aer-insights-skills",
-      "repository": "https://github.com/brycewang-stanford/aer-insights-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "aer-insights",
         "aeri",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aeri-workflow",
-        "skills/aeri-topic-selection",
-        "skills/aeri-literature-positioning",
-        "skills/aeri-identification",
-        "skills/aeri-theory-model",
-        "skills/aeri-robustness",
-        "skills/aeri-tables-figures",
-        "skills/aeri-writing-style",
-        "skills/aeri-replication-package",
-        "skills/aeri-referee-strategy",
-        "skills/aeri-submission",
-        "skills/aeri-rebuttal"
+        "./skills/aeri-workflow",
+        "./skills/aeri-topic-selection",
+        "./skills/aeri-literature-positioning",
+        "./skills/aeri-identification",
+        "./skills/aeri-theory-model",
+        "./skills/aeri-robustness",
+        "./skills/aeri-tables-figures",
+        "./skills/aeri-writing-style",
+        "./skills/aeri-replication-package",
+        "./skills/aeri-referee-strategy",
+        "./skills/aeri-submission",
+        "./skills/aeri-rebuttal"
       ]
     }
   ]

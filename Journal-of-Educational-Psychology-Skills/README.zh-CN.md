@@ -53,7 +53,7 @@ JEP**：以**教育相关性 + 心理学理论**为门槛，强调**课堂/学�
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/journal-of-educational-psychology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install journal-of-educational-psychology-skills
 /reload-plugins
 ```
@@ -61,8 +61,8 @@ JEP**：以**教育相关性 + 心理学理论**为门槛，强调**课堂/学�
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/journal-of-educational-psychology-skills.git
-cd journal-of-educational-psychology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Educational-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jedpsych-* ~/.claude/skills/
 # 或

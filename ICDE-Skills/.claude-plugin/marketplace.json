@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icde-submission",
-        "skills/icde-author-response",
-        "skills/icde-camera-ready",
-        "skills/icde-artifact-evaluation",
-        "skills/icde-reproducibility",
-        "skills/icde-supplementary",
-        "skills/icde-review-process",
-        "skills/icde-writing-style",
-        "skills/icde-related-work",
-        "skills/icde-experiments",
-        "skills/icde-workflow",
-        "skills/icde-topic-selection"
+        "./skills/icde-submission",
+        "./skills/icde-author-response",
+        "./skills/icde-camera-ready",
+        "./skills/icde-artifact-evaluation",
+        "./skills/icde-reproducibility",
+        "./skills/icde-supplementary",
+        "./skills/icde-review-process",
+        "./skills/icde-writing-style",
+        "./skills/icde-related-work",
+        "./skills/icde-experiments",
+        "./skills/icde-workflow",
+        "./skills/icde-topic-selection"
       ]
     }
   ]

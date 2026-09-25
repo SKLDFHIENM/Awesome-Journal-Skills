@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icdm-submission",
-        "skills/icdm-author-response",
-        "skills/icdm-camera-ready",
-        "skills/icdm-artifact-evaluation",
-        "skills/icdm-reproducibility",
-        "skills/icdm-supplementary",
-        "skills/icdm-review-process",
-        "skills/icdm-writing-style",
-        "skills/icdm-related-work",
-        "skills/icdm-experiments",
-        "skills/icdm-workflow",
-        "skills/icdm-topic-selection"
+        "./skills/icdm-submission",
+        "./skills/icdm-author-response",
+        "./skills/icdm-camera-ready",
+        "./skills/icdm-artifact-evaluation",
+        "./skills/icdm-reproducibility",
+        "./skills/icdm-supplementary",
+        "./skills/icdm-review-process",
+        "./skills/icdm-writing-style",
+        "./skills/icdm-related-work",
+        "./skills/icdm-experiments",
+        "./skills/icdm-workflow",
+        "./skills/icdm-topic-selection"
       ]
     }
   ]

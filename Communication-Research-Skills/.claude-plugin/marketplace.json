@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/communication-research-skills",
-      "repository": "https://github.com/brycewang-stanford/communication-research-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "communication-research",
         "communication-science",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/commres-workflow",
-        "skills/commres-topic-selection",
-        "skills/commres-literature-positioning",
-        "skills/commres-theory-building",
-        "skills/commres-research-design",
-        "skills/commres-data-analysis",
-        "skills/commres-tables-figures",
-        "skills/commres-writing-style",
-        "skills/commres-transparency-and-data",
-        "skills/commres-review-process",
-        "skills/commres-submission",
-        "skills/commres-rebuttal"
+        "./skills/commres-workflow",
+        "./skills/commres-topic-selection",
+        "./skills/commres-literature-positioning",
+        "./skills/commres-theory-building",
+        "./skills/commres-research-design",
+        "./skills/commres-data-analysis",
+        "./skills/commres-tables-figures",
+        "./skills/commres-writing-style",
+        "./skills/commres-transparency-and-data",
+        "./skills/commres-review-process",
+        "./skills/commres-submission",
+        "./skills/commres-rebuttal"
       ]
     }
   ]

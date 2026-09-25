@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/colt-submission",
-        "skills/colt-author-response",
-        "skills/colt-camera-ready",
-        "skills/colt-artifact-evaluation",
-        "skills/colt-reproducibility",
-        "skills/colt-supplementary",
-        "skills/colt-review-process",
-        "skills/colt-writing-style",
-        "skills/colt-related-work",
-        "skills/colt-experiments",
-        "skills/colt-workflow",
-        "skills/colt-topic-selection"
+        "./skills/colt-submission",
+        "./skills/colt-author-response",
+        "./skills/colt-camera-ready",
+        "./skills/colt-artifact-evaluation",
+        "./skills/colt-reproducibility",
+        "./skills/colt-supplementary",
+        "./skills/colt-review-process",
+        "./skills/colt-writing-style",
+        "./skills/colt-related-work",
+        "./skills/colt-experiments",
+        "./skills/colt-workflow",
+        "./skills/colt-topic-selection"
       ]
     }
   ]

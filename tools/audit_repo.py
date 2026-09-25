@@ -59,6 +59,23 @@ CHINESE_DEPTH_PACKS_REQUIRING_SOURCE_MAPS = {
     "Sociological-Studies-Skills",
 }
 ROOT_ENTRY_MARKER = "AJS-ROOT-JOURNAL-ENTRY"
+# Repositories under the maintainer's account that actually exist. Every pack
+# lives inside this monorepo; 173 packs once advertised standalone repositories
+# (`/plugin marketplace add .../ci-skills`) that were never created, so a user
+# following the README hit "Repository not found" (issue #21). Any other
+# brycewang-stanford/<name> URL is presumed to be that mistake again. Add a name
+# here only after the repository is public.
+OWN_ACCOUNT = "brycewang-stanford"
+KNOWN_OWN_REPOS = {
+    "awesome-journal-skills",
+    "aer-skills",
+    "auto-empirical-research-skills",
+    "statspai",
+}
+OWN_REPO_RE = re.compile(
+    r"(?:github\.com/|marketplace add\s+)" + OWN_ACCOUNT + r"/([A-Za-z0-9._-]+?)(?:\.git)?(?![A-Za-z0-9_-])",
+    re.IGNORECASE,
+)
 LINK_RE = re.compile(
     r"(?<!!)\[[^\]]*]\(([^)]+)\)"
     r"|<a\s+[^>]*href=[\"']([^\"']+)[\"']"
@@ -424,8 +441,9 @@ def check_plugin_metadata(errors: list[str]) -> None:
                 f"!= plugin.json {plugin.get('license')!r}"
             )
 
+        # Claude Code's validator rejects a skill path without the leading "./".
         actual = sorted(
-            f"skills/{path.parent.name}"
+            f"./skills/{path.parent.name}"
             for path in (pack_root / "skills").glob("*/SKILL.md")
         )
         declared = sorted(entry.get("skills") or [])
@@ -585,6 +603,23 @@ def check_markdown_links(errors: list[str]) -> None:
                     continue
                 if not resolved.exists():
                     errors.append(f"{rel(path)}:{lineno}: broken local link {target!r}")
+
+
+def check_own_repo_urls(errors: list[str]) -> None:
+    for path in sorted(ROOT.rglob("*")):
+        if path.suffix not in (".md", ".json") or is_hidden_or_git(path) or not path.is_file():
+            continue
+        if is_imported_root(path):
+            continue
+        text = path.read_text(encoding="utf-8", errors="replace")
+        if OWN_ACCOUNT not in text:
+            continue
+        for lineno, line in enumerate(text.splitlines(), 1):
+            for match in OWN_REPO_RE.finditer(line):
+                if match.group(1).casefold() not in KNOWN_OWN_REPOS:
+                    errors.append(
+                        f"{rel(path)}:{lineno}: {OWN_ACCOUNT}/{match.group(1)} is not a real "
+                        "repository; point at the awesome-journal-skills monorepo instead")
 
 
 # Hero artwork: the images at the top of the two READMEs, plus the logos and codes
@@ -822,6 +857,7 @@ def main() -> int:
     check_showcase(errors)
     check_hero_assets(errors)
     check_markdown_links(errors)
+    check_own_repo_urls(errors)
 
     if errors:
         print("Repository audit failed:")

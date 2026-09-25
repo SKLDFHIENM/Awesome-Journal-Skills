@@ -44,7 +44,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cjms-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cjms-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/cjms-skills.git
-cd cjms-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Chinese-Journal-of-Management-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cjms-* ~/.claude/skills/
 # 或

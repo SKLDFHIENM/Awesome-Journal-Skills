@@ -44,7 +44,7 @@ JCR 的约束与其他营销/行为类期刊有实质差异：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jcr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jcr-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ JCR 的约束与其他营销/行为类期刊有实质差异：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jcr-skills.git
-cd jcr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Consumer-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jcr-* ~/.claude/skills/
 # 或

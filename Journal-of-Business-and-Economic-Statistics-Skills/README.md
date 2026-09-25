@@ -46,7 +46,7 @@ Generic "scientific writing" or "econ writing" skill packs do not address these 
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jbes-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jbes-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@ Generic "scientific writing" or "econ writing" skill packs do not address these 
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jbes-skills.git
-cd jbes-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Business-and-Economic-Statistics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jbes-* ~/.claude/skills/
 # or

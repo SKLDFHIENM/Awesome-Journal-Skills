@@ -58,7 +58,7 @@ verify on the official page.**
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/journal-of-educational-psychology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install journal-of-educational-psychology-skills
 /reload-plugins
 ```
@@ -66,8 +66,8 @@ verify on the official page.**
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/journal-of-educational-psychology-skills.git
-cd journal-of-educational-psychology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Educational-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jedpsych-* ~/.claude/skills/
 # or

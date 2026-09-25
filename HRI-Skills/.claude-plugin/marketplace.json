@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/hri-submission",
-        "skills/hri-author-response",
-        "skills/hri-camera-ready",
-        "skills/hri-artifact-evaluation",
-        "skills/hri-reproducibility",
-        "skills/hri-supplementary",
-        "skills/hri-review-process",
-        "skills/hri-writing-style",
-        "skills/hri-related-work",
-        "skills/hri-experiments",
-        "skills/hri-workflow",
-        "skills/hri-topic-selection"
+        "./skills/hri-submission",
+        "./skills/hri-author-response",
+        "./skills/hri-camera-ready",
+        "./skills/hri-artifact-evaluation",
+        "./skills/hri-reproducibility",
+        "./skills/hri-supplementary",
+        "./skills/hri-review-process",
+        "./skills/hri-writing-style",
+        "./skills/hri-related-work",
+        "./skills/hri-experiments",
+        "./skills/hri-workflow",
+        "./skills/hri-topic-selection"
       ]
     }
   ]

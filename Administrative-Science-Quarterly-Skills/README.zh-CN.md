@@ -43,7 +43,7 @@ ASQ 的约束维度与 AMJ / SMJ / Organization Science **显著不同**：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/asq-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install asq-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ ASQ 的约束维度与 AMJ / SMJ / Organization Science **显著不同**：
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/asq-skills.git
-cd asq-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Administrative-Science-Quarterly-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/asq-* ~/.claude/skills/
 # 或
@@ -148,8 +148,8 @@ asq-rebuttal
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [amj-skills](https://github.com/brycewang-stanford/amj-skills) —— Academy of Management Journal
-- [smj-skills](https://github.com/brycewang-stanford/smj-skills) —— Strategic Management Journal
+- [amj-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Journal-Skills) —— Academy of Management Journal
+- [smj-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Strategic-Management-Journal-Skills) —— Strategic Management Journal
 
 ---
 

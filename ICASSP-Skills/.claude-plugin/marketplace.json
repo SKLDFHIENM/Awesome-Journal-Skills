@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icassp-submission",
-        "skills/icassp-author-response",
-        "skills/icassp-camera-ready",
-        "skills/icassp-artifact-evaluation",
-        "skills/icassp-reproducibility",
-        "skills/icassp-supplementary",
-        "skills/icassp-review-process",
-        "skills/icassp-writing-style",
-        "skills/icassp-related-work",
-        "skills/icassp-experiments",
-        "skills/icassp-workflow",
-        "skills/icassp-topic-selection"
+        "./skills/icassp-submission",
+        "./skills/icassp-author-response",
+        "./skills/icassp-camera-ready",
+        "./skills/icassp-artifact-evaluation",
+        "./skills/icassp-reproducibility",
+        "./skills/icassp-supplementary",
+        "./skills/icassp-review-process",
+        "./skills/icassp-writing-style",
+        "./skills/icassp-related-work",
+        "./skills/icassp-experiments",
+        "./skills/icassp-workflow",
+        "./skills/icassp-topic-selection"
       ]
     }
   ]

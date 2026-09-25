@@ -54,7 +54,7 @@ official basis was refreshed on 2026-06-20 in the source map.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jfi-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jfi-skills
 /reload-plugins
 ```
@@ -62,8 +62,8 @@ official basis was refreshed on 2026-06-20 in the source map.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jfi-skills.git
-cd jfi-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Financial-Intermediation-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jfi-* ~/.claude/skills/
 # or

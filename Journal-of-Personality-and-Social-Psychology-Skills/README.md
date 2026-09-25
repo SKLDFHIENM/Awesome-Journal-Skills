@@ -61,7 +61,7 @@ page for your section.**
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpsp-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpsp-skills
 /reload-plugins
 ```
@@ -69,8 +69,8 @@ page for your section.**
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpsp-skills.git
-cd jpsp-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Personality-and-Social-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpsp-* ~/.claude/skills/
 # or

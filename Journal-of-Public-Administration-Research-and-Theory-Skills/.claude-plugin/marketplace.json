@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jpart-skills",
-      "repository": "https://github.com/brycewang-stanford/jpart-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-public-administration-research-and-theory",
         "jpart",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jpart-workflow",
-        "skills/jpart-topic-selection",
-        "skills/jpart-literature-positioning",
-        "skills/jpart-theory-building",
-        "skills/jpart-research-design",
-        "skills/jpart-data-analysis",
-        "skills/jpart-tables-figures",
-        "skills/jpart-writing-style",
-        "skills/jpart-transparency-and-data",
-        "skills/jpart-review-process",
-        "skills/jpart-submission",
-        "skills/jpart-rebuttal"
+        "./skills/jpart-workflow",
+        "./skills/jpart-topic-selection",
+        "./skills/jpart-literature-positioning",
+        "./skills/jpart-theory-building",
+        "./skills/jpart-research-design",
+        "./skills/jpart-data-analysis",
+        "./skills/jpart-tables-figures",
+        "./skills/jpart-writing-style",
+        "./skills/jpart-transparency-and-data",
+        "./skills/jpart-review-process",
+        "./skills/jpart-submission",
+        "./skills/jpart-rebuttal"
       ]
     }
   ]

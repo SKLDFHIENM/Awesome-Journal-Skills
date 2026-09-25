@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jfm-skills",
-      "repository": "https://github.com/brycewang-stanford/jfm-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jfm",
         "journal-of-financial-markets",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jfm-workflow",
-        "skills/jfm-topic-selection",
-        "skills/jfm-literature-positioning",
-        "skills/jfm-identification",
-        "skills/jfm-empirical-design",
-        "skills/jfm-robustness",
-        "skills/jfm-tables-figures",
-        "skills/jfm-internet-appendix",
-        "skills/jfm-writing-style",
-        "skills/jfm-submission",
-        "skills/jfm-referee-strategy",
-        "skills/jfm-rebuttal"
+        "./skills/jfm-workflow",
+        "./skills/jfm-topic-selection",
+        "./skills/jfm-literature-positioning",
+        "./skills/jfm-identification",
+        "./skills/jfm-empirical-design",
+        "./skills/jfm-robustness",
+        "./skills/jfm-tables-figures",
+        "./skills/jfm-internet-appendix",
+        "./skills/jfm-writing-style",
+        "./skills/jfm-submission",
+        "./skills/jfm-referee-strategy",
+        "./skills/jfm-rebuttal"
       ]
     }
   ]

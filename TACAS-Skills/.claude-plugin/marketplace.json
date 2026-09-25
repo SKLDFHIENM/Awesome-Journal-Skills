@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/tacas-submission",
-        "skills/tacas-author-response",
-        "skills/tacas-camera-ready",
-        "skills/tacas-artifact-evaluation",
-        "skills/tacas-reproducibility",
-        "skills/tacas-supplementary",
-        "skills/tacas-review-process",
-        "skills/tacas-writing-style",
-        "skills/tacas-related-work",
-        "skills/tacas-experiments",
-        "skills/tacas-workflow",
-        "skills/tacas-topic-selection"
+        "./skills/tacas-submission",
+        "./skills/tacas-author-response",
+        "./skills/tacas-camera-ready",
+        "./skills/tacas-artifact-evaluation",
+        "./skills/tacas-reproducibility",
+        "./skills/tacas-supplementary",
+        "./skills/tacas-review-process",
+        "./skills/tacas-writing-style",
+        "./skills/tacas-related-work",
+        "./skills/tacas-experiments",
+        "./skills/tacas-workflow",
+        "./skills/tacas-topic-selection"
       ]
     }
   ]

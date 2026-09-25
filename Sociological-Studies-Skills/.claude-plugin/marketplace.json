@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/socs-workflow",
-        "skills/socs-fit-positioning",
-        "skills/socs-problematic",
-        "skills/socs-theory-dialogue",
-        "skills/socs-quantitative",
-        "skills/socs-qualitative",
-        "skills/socs-mechanism-social-process",
-        "skills/socs-concept-building",
-        "skills/socs-style",
-        "skills/socs-abstract-keywords",
-        "skills/socs-submission",
-        "skills/socs-rebuttal"
+        "./skills/socs-workflow",
+        "./skills/socs-fit-positioning",
+        "./skills/socs-problematic",
+        "./skills/socs-theory-dialogue",
+        "./skills/socs-quantitative",
+        "./skills/socs-qualitative",
+        "./skills/socs-mechanism-social-process",
+        "./skills/socs-concept-building",
+        "./skills/socs-style",
+        "./skills/socs-abstract-keywords",
+        "./skills/socs-submission",
+        "./skills/socs-rebuttal"
       ]
     }
   ]

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jbf-skills",
-      "repository": "https://github.com/brycewang-stanford/jbf-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-banking-and-finance",
         "jbf",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jbf-workflow",
-        "skills/jbf-topic-selection",
-        "skills/jbf-literature-positioning",
-        "skills/jbf-identification-strategy",
-        "skills/jbf-data-analysis",
-        "skills/jbf-tables-figures",
-        "skills/jbf-writing-style",
-        "skills/jbf-contribution-framing",
-        "skills/jbf-replication-and-data-policy",
-        "skills/jbf-review-process",
-        "skills/jbf-submission",
-        "skills/jbf-rebuttal"
+        "./skills/jbf-workflow",
+        "./skills/jbf-topic-selection",
+        "./skills/jbf-literature-positioning",
+        "./skills/jbf-identification-strategy",
+        "./skills/jbf-data-analysis",
+        "./skills/jbf-tables-figures",
+        "./skills/jbf-writing-style",
+        "./skills/jbf-contribution-framing",
+        "./skills/jbf-replication-and-data-policy",
+        "./skills/jbf-review-process",
+        "./skills/jbf-submission",
+        "./skills/jbf-rebuttal"
       ]
     }
   ]

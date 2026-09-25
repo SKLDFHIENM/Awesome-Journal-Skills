@@ -1616,12 +1616,8 @@ You can still add standalone repositories directly when a pack is maintained out
 /plugin marketplace add https://github.com/brycewang-stanford/AER-skills
 /plugin install aer-skills
 
-# 管理世界
-/plugin marketplace add https://github.com/brycewang-stanford/management-world-skills
+# Management World / Economic Research live in this repository's marketplace (added above)
 /plugin install management-world-skills
-
-# 经济研究
-/plugin marketplace add https://github.com/brycewang-stanford/Economic-Research-Skills
 /plugin install economic-research-skills
 
 /reload-plugins
@@ -1631,13 +1627,12 @@ You can still add standalone repositories directly when a pack is maintained out
 
 ```bash
 git clone https://github.com/brycewang-stanford/AER-skills.git
-git clone https://github.com/brycewang-stanford/management-world-skills.git
-git clone https://github.com/brycewang-stanford/Economic-Research-Skills.git Economic-Research-Journal-Skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
 
 mkdir -p ~/.claude/skills
 cp -R AER-skills/skills/aer-* ~/.claude/skills/
-cp -R management-world-skills/skills/mw-* ~/.claude/skills/
-cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
+cp -R awesome-journal-skills/Journal-of-Management-World-Skills/skills/mw-* ~/.claude/skills/
+cp -R awesome-journal-skills/Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
 ```
 
 ### First Prompt
@@ -2171,7 +2166,7 @@ Quality bar for inclusion in this index:
 
 Broader-scope agent skill collections (complementary to this journal-specific index):
 
-- [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) — curated 23,000+ agent skills across 8 social-science disciplines (maintained by CoPaper.AI / Stanford REAP).
+- [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) — curated 23,000+ agent skills across 8 social-science disciplines (maintained by CoPaper.AI / Stanford REAP).
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — generic research → write → review → revise → finalize skill pipeline for Claude Code.
 
 Listed as external resources, no longer vendored into this repository:

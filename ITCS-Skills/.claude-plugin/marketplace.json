@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/itcs-submission",
-        "skills/itcs-author-response",
-        "skills/itcs-camera-ready",
-        "skills/itcs-artifact-evaluation",
-        "skills/itcs-reproducibility",
-        "skills/itcs-supplementary",
-        "skills/itcs-review-process",
-        "skills/itcs-writing-style",
-        "skills/itcs-related-work",
-        "skills/itcs-experiments",
-        "skills/itcs-workflow",
-        "skills/itcs-topic-selection"
+        "./skills/itcs-submission",
+        "./skills/itcs-author-response",
+        "./skills/itcs-camera-ready",
+        "./skills/itcs-artifact-evaluation",
+        "./skills/itcs-reproducibility",
+        "./skills/itcs-supplementary",
+        "./skills/itcs-review-process",
+        "./skills/itcs-writing-style",
+        "./skills/itcs-related-work",
+        "./skills/itcs-experiments",
+        "./skills/itcs-workflow",
+        "./skills/itcs-topic-selection"
       ]
     }
   ]

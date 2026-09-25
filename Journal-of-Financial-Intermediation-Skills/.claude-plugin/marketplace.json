@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jfi-skills",
-      "repository": "https://github.com/brycewang-stanford/jfi-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-financial-intermediation",
         "jfi",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jfi-workflow",
-        "skills/jfi-topic-selection",
-        "skills/jfi-literature-positioning",
-        "skills/jfi-identification-strategy",
-        "skills/jfi-data-analysis",
-        "skills/jfi-contribution-framing",
-        "skills/jfi-tables-figures",
-        "skills/jfi-writing-style",
-        "skills/jfi-replication-and-data-policy",
-        "skills/jfi-review-process",
-        "skills/jfi-submission",
-        "skills/jfi-rebuttal"
+        "./skills/jfi-workflow",
+        "./skills/jfi-topic-selection",
+        "./skills/jfi-literature-positioning",
+        "./skills/jfi-identification-strategy",
+        "./skills/jfi-data-analysis",
+        "./skills/jfi-contribution-framing",
+        "./skills/jfi-tables-figures",
+        "./skills/jfi-writing-style",
+        "./skills/jfi-replication-and-data-policy",
+        "./skills/jfi-review-process",
+        "./skills/jfi-submission",
+        "./skills/jfi-rebuttal"
       ]
     }
   ]

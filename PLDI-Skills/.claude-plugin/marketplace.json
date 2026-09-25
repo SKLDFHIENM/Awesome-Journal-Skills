@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/pldi-submission",
-        "skills/pldi-author-response",
-        "skills/pldi-camera-ready",
-        "skills/pldi-artifact-evaluation",
-        "skills/pldi-reproducibility",
-        "skills/pldi-supplementary",
-        "skills/pldi-review-process",
-        "skills/pldi-writing-style",
-        "skills/pldi-related-work",
-        "skills/pldi-experiments",
-        "skills/pldi-workflow",
-        "skills/pldi-topic-selection"
+        "./skills/pldi-submission",
+        "./skills/pldi-author-response",
+        "./skills/pldi-camera-ready",
+        "./skills/pldi-artifact-evaluation",
+        "./skills/pldi-reproducibility",
+        "./skills/pldi-supplementary",
+        "./skills/pldi-review-process",
+        "./skills/pldi-writing-style",
+        "./skills/pldi-related-work",
+        "./skills/pldi-experiments",
+        "./skills/pldi-workflow",
+        "./skills/pldi-topic-selection"
       ]
     }
   ]

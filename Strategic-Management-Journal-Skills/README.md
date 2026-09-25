@@ -44,7 +44,7 @@ Generic "scientific writing" or "management writing" skill packs do not address 
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/smj-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install smj-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" or "management writing" skill packs do not address 
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/smj-skills.git
-cd smj-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Strategic-Management-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/smj-* ~/.claude/skills/
 # or
@@ -147,8 +147,8 @@ smj-rebuttal
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [amj-skills](https://github.com/brycewang-stanford/amj-skills) — Academy of Management Journal
-- [amr-skills](https://github.com/brycewang-stanford/amr-skills) — Academy of Management Review (theory only)
+- [amj-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Journal-Skills) — Academy of Management Journal
+- [amr-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Review-Skills) — Academy of Management Review (theory only)
 
 ---
 

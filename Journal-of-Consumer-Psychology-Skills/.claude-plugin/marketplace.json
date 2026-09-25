@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jcp-skills",
-      "repository": "https://github.com/brycewang-stanford/jcp-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jcp",
         "journal-of-consumer-psychology",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jcp-workflow",
-        "skills/jcp-topic-selection",
-        "skills/jcp-theory-development",
-        "skills/jcp-literature-positioning",
-        "skills/jcp-methods",
-        "skills/jcp-data-analysis",
-        "skills/jcp-contribution-framing",
-        "skills/jcp-tables-figures",
-        "skills/jcp-writing-style",
-        "skills/jcp-submission",
-        "skills/jcp-review-process",
-        "skills/jcp-rebuttal"
+        "./skills/jcp-workflow",
+        "./skills/jcp-topic-selection",
+        "./skills/jcp-theory-development",
+        "./skills/jcp-literature-positioning",
+        "./skills/jcp-methods",
+        "./skills/jcp-data-analysis",
+        "./skills/jcp-contribution-framing",
+        "./skills/jcp-tables-figures",
+        "./skills/jcp-writing-style",
+        "./skills/jcp-submission",
+        "./skills/jcp-review-process",
+        "./skills/jcp-rebuttal"
       ]
     }
   ]

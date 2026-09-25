@@ -66,7 +66,7 @@ editorial-office email, file handling, open-access prompts, and policy wording.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/spq-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install spq-skills
 /reload-plugins
 ```
@@ -74,8 +74,8 @@ editorial-office email, file handling, open-access prompts, and policy wording.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/spq-skills.git
-cd spq-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Social-Psychology-Quarterly-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/spq-* ~/.claude/skills/
 # or

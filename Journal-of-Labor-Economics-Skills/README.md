@@ -53,7 +53,7 @@ every fact and its status.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jole-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jole-skills
 /reload-plugins
 ```
@@ -61,8 +61,8 @@ every fact and its status.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jole-skills.git
-cd jole-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Labor-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jole-* ~/.claude/skills/
 # or

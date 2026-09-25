@@ -44,7 +44,7 @@ SMJ 的约束维度与综合管理类期刊（AMJ / ASQ）以及纯理论期刊�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/smj-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install smj-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ SMJ 的约束维度与综合管理类期刊（AMJ / ASQ）以及纯理论期刊�
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/smj-skills.git
-cd smj-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Strategic-Management-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/smj-* ~/.claude/skills/
 # 或
@@ -147,8 +147,8 @@ smj-rebuttal
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [amj-skills](https://github.com/brycewang-stanford/amj-skills) —— Academy of Management Journal
-- [amr-skills](https://github.com/brycewang-stanford/amr-skills) —— Academy of Management Review（纯理论）
+- [amj-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Journal-Skills) —— Academy of Management Journal
+- [amr-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Review-Skills) —— Academy of Management Review（纯理论）
 
 ---
 

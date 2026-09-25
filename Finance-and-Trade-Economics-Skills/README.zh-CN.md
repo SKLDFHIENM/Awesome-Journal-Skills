@@ -46,7 +46,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cte-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cte-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/cte-skills.git
-cd cte-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Finance-and-Trade-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cte-* ~/.claude/skills/
 # 或
@@ -152,7 +152,7 @@ cte-rebuttal
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [China-Rural-Economy-Skills](https://github.com/brycewang-stanford/china-rural-economy-skills) —— 《中国农村经济》投稿工具栈
+- [China-Rural-Economy-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/China-Rural-Economy-Skills) —— 《中国农村经济》投稿工具栈
 
 ---
 

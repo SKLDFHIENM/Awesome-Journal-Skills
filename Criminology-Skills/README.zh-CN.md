@@ -60,7 +60,7 @@ Wiley ACT 中的评审/OA/ORCID/预印本字段，以及 Research Note 通道。
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/crim-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install crim-skills
 /reload-plugins
 ```
@@ -68,8 +68,8 @@ Wiley ACT 中的评审/OA/ORCID/预印本字段，以及 Research Note 通道。
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/crim-skills.git
-cd crim-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Criminology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/crim-* ~/.claude/skills/
 # 或

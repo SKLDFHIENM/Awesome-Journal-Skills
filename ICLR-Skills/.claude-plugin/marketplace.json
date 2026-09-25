@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/iclr-submission",
-        "skills/iclr-author-response",
-        "skills/iclr-camera-ready",
-        "skills/iclr-artifact-evaluation",
-        "skills/iclr-reproducibility",
-        "skills/iclr-supplementary",
-        "skills/iclr-review-process",
-        "skills/iclr-writing-style",
-        "skills/iclr-related-work",
-        "skills/iclr-experiments",
-        "skills/iclr-workflow",
-        "skills/iclr-topic-selection"
+        "./skills/iclr-submission",
+        "./skills/iclr-author-response",
+        "./skills/iclr-camera-ready",
+        "./skills/iclr-artifact-evaluation",
+        "./skills/iclr-reproducibility",
+        "./skills/iclr-supplementary",
+        "./skills/iclr-review-process",
+        "./skills/iclr-writing-style",
+        "./skills/iclr-related-work",
+        "./skills/iclr-experiments",
+        "./skills/iclr-workflow",
+        "./skills/iclr-topic-selection"
       ]
     }
   ]

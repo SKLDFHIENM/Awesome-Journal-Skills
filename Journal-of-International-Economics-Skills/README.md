@@ -45,7 +45,7 @@ Acceptance for regular submissions has historically run ~10-15%, with desk rejec
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jie-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jie-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Acceptance for regular submissions has historically run ~10-15%, with desk rejec
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jie-skills.git
-cd jie-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-International-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jie-* ~/.claude/skills/
 # or

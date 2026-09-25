@@ -43,7 +43,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jfe-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jfe-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/jfe-skills.git
-cd jfe-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Financial-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jfe-* ~/.claude/skills/
 # 或
@@ -147,8 +147,8 @@ jfe-rebuttal
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [Journal of Finance Skills](https://github.com/brycewang-stanford/journal-of-finance-skills) —— JF 投稿工具栈
-- [Review of Financial Studies Skills](https://github.com/brycewang-stanford/rfs-skills) —— RFS 投稿工具栈
+- [Journal of Finance Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Journal-of-Finance-Skills) —— JF 投稿工具栈
+- [Review of Financial Studies Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Review-of-Financial-Studies-Skills) —— RFS 投稿工具栈
 
 ---
 

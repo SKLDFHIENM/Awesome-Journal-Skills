@@ -49,7 +49,7 @@ JDE 的约束条件与综合性顶刊或方法类期刊不同：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jde-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jde-skills
 /reload-plugins
 ```
@@ -57,8 +57,8 @@ JDE 的约束条件与综合性顶刊或方法类期刊不同：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jde-skills.git
-cd jde-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Development-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jde-* ~/.claude/skills/
 # 或

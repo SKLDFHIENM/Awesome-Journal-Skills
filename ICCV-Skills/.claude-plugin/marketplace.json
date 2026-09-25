@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/iccv-submission",
-        "skills/iccv-author-response",
-        "skills/iccv-camera-ready",
-        "skills/iccv-artifact-evaluation",
-        "skills/iccv-reproducibility",
-        "skills/iccv-supplementary",
-        "skills/iccv-review-process",
-        "skills/iccv-writing-style",
-        "skills/iccv-related-work",
-        "skills/iccv-experiments",
-        "skills/iccv-workflow",
-        "skills/iccv-topic-selection"
+        "./skills/iccv-submission",
+        "./skills/iccv-author-response",
+        "./skills/iccv-camera-ready",
+        "./skills/iccv-artifact-evaluation",
+        "./skills/iccv-reproducibility",
+        "./skills/iccv-supplementary",
+        "./skills/iccv-review-process",
+        "./skills/iccv-writing-style",
+        "./skills/iccv-related-work",
+        "./skills/iccv-experiments",
+        "./skills/iccv-workflow",
+        "./skills/iccv-topic-selection"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/issta-submission",
-        "skills/issta-author-response",
-        "skills/issta-camera-ready",
-        "skills/issta-artifact-evaluation",
-        "skills/issta-reproducibility",
-        "skills/issta-supplementary",
-        "skills/issta-review-process",
-        "skills/issta-writing-style",
-        "skills/issta-related-work",
-        "skills/issta-experiments",
-        "skills/issta-workflow",
-        "skills/issta-topic-selection"
+        "./skills/issta-submission",
+        "./skills/issta-author-response",
+        "./skills/issta-camera-ready",
+        "./skills/issta-artifact-evaluation",
+        "./skills/issta-reproducibility",
+        "./skills/issta-supplementary",
+        "./skills/issta-review-process",
+        "./skills/issta-writing-style",
+        "./skills/issta-related-work",
+        "./skills/issta-experiments",
+        "./skills/issta-workflow",
+        "./skills/issta-topic-selection"
       ]
     }
   ]

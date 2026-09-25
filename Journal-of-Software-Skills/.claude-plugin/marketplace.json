@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jos-submission",
-        "skills/jos-author-response",
-        "skills/jos-camera-ready",
-        "skills/jos-artifact-evaluation",
-        "skills/jos-reproducibility",
-        "skills/jos-supplementary",
-        "skills/jos-review-process",
-        "skills/jos-writing-style",
-        "skills/jos-related-work",
-        "skills/jos-experiments",
-        "skills/jos-workflow",
-        "skills/jos-topic-selection"
+        "./skills/jos-submission",
+        "./skills/jos-author-response",
+        "./skills/jos-camera-ready",
+        "./skills/jos-artifact-evaluation",
+        "./skills/jos-reproducibility",
+        "./skills/jos-supplementary",
+        "./skills/jos-review-process",
+        "./skills/jos-writing-style",
+        "./skills/jos-related-work",
+        "./skills/jos-experiments",
+        "./skills/jos-workflow",
+        "./skills/jos-topic-selection"
       ]
     }
   ]

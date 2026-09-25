@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jbes-skills",
-      "repository": "https://github.com/brycewang-stanford/jbes-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-business-and-economic-statistics",
         "jbes",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jbes-workflow",
-        "skills/jbes-topic-selection",
-        "skills/jbes-literature-positioning",
-        "skills/jbes-contribution-framing",
-        "skills/jbes-identification-strategy",
-        "skills/jbes-data-analysis",
-        "skills/jbes-tables-figures",
-        "skills/jbes-writing-style",
-        "skills/jbes-replication-and-data-policy",
-        "skills/jbes-review-process",
-        "skills/jbes-submission",
-        "skills/jbes-rebuttal"
+        "./skills/jbes-workflow",
+        "./skills/jbes-topic-selection",
+        "./skills/jbes-literature-positioning",
+        "./skills/jbes-contribution-framing",
+        "./skills/jbes-identification-strategy",
+        "./skills/jbes-data-analysis",
+        "./skills/jbes-tables-figures",
+        "./skills/jbes-writing-style",
+        "./skills/jbes-replication-and-data-policy",
+        "./skills/jbes-review-process",
+        "./skills/jbes-submission",
+        "./skills/jbes-rebuttal"
       ]
     }
   ]

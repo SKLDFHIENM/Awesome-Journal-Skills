@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/mobicom-submission",
-        "skills/mobicom-author-response",
-        "skills/mobicom-camera-ready",
-        "skills/mobicom-artifact-evaluation",
-        "skills/mobicom-reproducibility",
-        "skills/mobicom-supplementary",
-        "skills/mobicom-review-process",
-        "skills/mobicom-writing-style",
-        "skills/mobicom-related-work",
-        "skills/mobicom-experiments",
-        "skills/mobicom-workflow",
-        "skills/mobicom-topic-selection"
+        "./skills/mobicom-submission",
+        "./skills/mobicom-author-response",
+        "./skills/mobicom-camera-ready",
+        "./skills/mobicom-artifact-evaluation",
+        "./skills/mobicom-reproducibility",
+        "./skills/mobicom-supplementary",
+        "./skills/mobicom-review-process",
+        "./skills/mobicom-writing-style",
+        "./skills/mobicom-related-work",
+        "./skills/mobicom-experiments",
+        "./skills/mobicom-workflow",
+        "./skills/mobicom-topic-selection"
       ]
     }
   ]

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/spq-skills",
-      "repository": "https://github.com/brycewang-stanford/spq-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "social-psychology-quarterly",
         "spq",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/spq-workflow",
-        "skills/spq-topic-selection",
-        "skills/spq-literature-positioning",
-        "skills/spq-theory-building",
-        "skills/spq-research-design",
-        "skills/spq-data-analysis",
-        "skills/spq-tables-figures",
-        "skills/spq-writing-style",
-        "skills/spq-data-and-transparency",
-        "skills/spq-review-process",
-        "skills/spq-submission",
-        "skills/spq-rebuttal"
+        "./skills/spq-workflow",
+        "./skills/spq-topic-selection",
+        "./skills/spq-literature-positioning",
+        "./skills/spq-theory-building",
+        "./skills/spq-research-design",
+        "./skills/spq-data-analysis",
+        "./skills/spq-tables-figures",
+        "./skills/spq-writing-style",
+        "./skills/spq-data-and-transparency",
+        "./skills/spq-review-process",
+        "./skills/spq-submission",
+        "./skills/spq-rebuttal"
       ]
     }
   ]

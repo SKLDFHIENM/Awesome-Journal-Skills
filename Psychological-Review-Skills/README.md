@@ -47,7 +47,7 @@ Generic "scientific writing" or empirical-psychology skill packs do not address 
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/psychological-review-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install psychological-review-skills
 /reload-plugins
 ```
@@ -55,8 +55,8 @@ Generic "scientific writing" or empirical-psychology skill packs do not address 
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/psychological-review-skills.git
-cd psychological-review-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Psychological-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/psychrev-* ~/.claude/skills/
 # or
@@ -145,7 +145,7 @@ If your project's contribution is data, a synthesis, or a debate format, a diffe
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/amr-skills) — A sibling theory-only depth pack
+- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Review-Skills) — A sibling theory-only depth pack
 
 ---
 

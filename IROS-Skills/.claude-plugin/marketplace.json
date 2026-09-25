@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/iros-submission",
-        "skills/iros-author-response",
-        "skills/iros-camera-ready",
-        "skills/iros-artifact-evaluation",
-        "skills/iros-reproducibility",
-        "skills/iros-supplementary",
-        "skills/iros-review-process",
-        "skills/iros-writing-style",
-        "skills/iros-related-work",
-        "skills/iros-experiments",
-        "skills/iros-workflow",
-        "skills/iros-topic-selection"
+        "./skills/iros-submission",
+        "./skills/iros-author-response",
+        "./skills/iros-camera-ready",
+        "./skills/iros-artifact-evaluation",
+        "./skills/iros-reproducibility",
+        "./skills/iros-supplementary",
+        "./skills/iros-review-process",
+        "./skills/iros-writing-style",
+        "./skills/iros-related-work",
+        "./skills/iros-experiments",
+        "./skills/iros-workflow",
+        "./skills/iros-topic-selection"
       ]
     }
   ]

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/pom-skills",
-      "repository": "https://github.com/brycewang-stanford/pom-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "production-and-operations-management",
         "pom",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/pom-workflow",
-        "skills/pom-topic-selection",
-        "skills/pom-theory-development",
-        "skills/pom-literature-positioning",
-        "skills/pom-methods",
-        "skills/pom-data-analysis",
-        "skills/pom-contribution-framing",
-        "skills/pom-tables-figures",
-        "skills/pom-writing-style",
-        "skills/pom-submission",
-        "skills/pom-review-process",
-        "skills/pom-rebuttal"
+        "./skills/pom-workflow",
+        "./skills/pom-topic-selection",
+        "./skills/pom-theory-development",
+        "./skills/pom-literature-positioning",
+        "./skills/pom-methods",
+        "./skills/pom-data-analysis",
+        "./skills/pom-contribution-framing",
+        "./skills/pom-tables-figures",
+        "./skills/pom-writing-style",
+        "./skills/pom-submission",
+        "./skills/pom-review-process",
+        "./skills/pom-rebuttal"
       ]
     }
   ]

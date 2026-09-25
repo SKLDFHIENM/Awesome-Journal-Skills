@@ -85,7 +85,7 @@ to deposit at the **Qualitative Data Repository (QDR)**.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/io-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install io-skills
 /reload-plugins
 ```
@@ -93,8 +93,8 @@ to deposit at the **Qualitative Data Repository (QDR)**.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/io-skills.git
-cd io-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/International-Organization-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/io-* ~/.claude/skills/
 # or

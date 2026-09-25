@@ -59,7 +59,7 @@ Development** (SRCD), **Developmental Science**, and **JPSP**. Unverified items 
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/developmental-psychology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install developmental-psychology-skills
 /reload-plugins
 ```
@@ -67,8 +67,8 @@ Development** (SRCD), **Developmental Science**, and **JPSP**. Unverified items 
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/developmental-psychology-skills.git
-cd developmental-psychology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Developmental-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/devpsych-* ~/.claude/skills/
 # or

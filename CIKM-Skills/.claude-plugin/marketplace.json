@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cikm-submission",
-        "skills/cikm-author-response",
-        "skills/cikm-camera-ready",
-        "skills/cikm-artifact-evaluation",
-        "skills/cikm-reproducibility",
-        "skills/cikm-supplementary",
-        "skills/cikm-review-process",
-        "skills/cikm-writing-style",
-        "skills/cikm-related-work",
-        "skills/cikm-experiments",
-        "skills/cikm-workflow",
-        "skills/cikm-topic-selection"
+        "./skills/cikm-submission",
+        "./skills/cikm-author-response",
+        "./skills/cikm-camera-ready",
+        "./skills/cikm-artifact-evaluation",
+        "./skills/cikm-reproducibility",
+        "./skills/cikm-supplementary",
+        "./skills/cikm-review-process",
+        "./skills/cikm-writing-style",
+        "./skills/cikm-related-work",
+        "./skills/cikm-experiments",
+        "./skills/cikm-workflow",
+        "./skills/cikm-topic-selection"
       ]
     }
   ]

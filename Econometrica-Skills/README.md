@@ -45,7 +45,7 @@ Generic "scientific writing" or "economics writing" skill packs do not address t
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/econometrica-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install econometrica-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" or "economics writing" skill packs do not address t
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/econometrica-skills.git
-cd econometrica-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Econometrica-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ecta-* ~/.claude/skills/
 # or

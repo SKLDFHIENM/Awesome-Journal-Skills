@@ -43,7 +43,7 @@ Generic "scientific writing" or "management writing" skill packs do not address 
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/asq-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install asq-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ Generic "scientific writing" or "management writing" skill packs do not address 
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/asq-skills.git
-cd asq-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Administrative-Science-Quarterly-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/asq-* ~/.claude/skills/
 # or
@@ -148,8 +148,8 @@ If the manuscript is purely conceptual with no data, an AMR-style stack fits bet
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [amj-skills](https://github.com/brycewang-stanford/amj-skills) — Academy of Management Journal
-- [smj-skills](https://github.com/brycewang-stanford/smj-skills) — Strategic Management Journal
+- [amj-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Journal-Skills) — Academy of Management Journal
+- [smj-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Strategic-Management-Journal-Skills) — Strategic Management Journal
 
 ---
 

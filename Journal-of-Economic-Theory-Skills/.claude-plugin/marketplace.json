@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jet-skills",
-      "repository": "https://github.com/brycewang-stanford/jet-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-economic-theory",
         "jet",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jet-workflow",
-        "skills/jet-topic-selection",
-        "skills/jet-literature-positioning",
-        "skills/jet-identification-strategy",
-        "skills/jet-contribution-framing",
-        "skills/jet-data-analysis",
-        "skills/jet-tables-figures",
-        "skills/jet-writing-style",
-        "skills/jet-replication-and-data-policy",
-        "skills/jet-review-process",
-        "skills/jet-submission",
-        "skills/jet-rebuttal"
+        "./skills/jet-workflow",
+        "./skills/jet-topic-selection",
+        "./skills/jet-literature-positioning",
+        "./skills/jet-identification-strategy",
+        "./skills/jet-contribution-framing",
+        "./skills/jet-data-analysis",
+        "./skills/jet-tables-figures",
+        "./skills/jet-writing-style",
+        "./skills/jet-replication-and-data-policy",
+        "./skills/jet-review-process",
+        "./skills/jet-submission",
+        "./skills/jet-rebuttal"
       ]
     }
   ]

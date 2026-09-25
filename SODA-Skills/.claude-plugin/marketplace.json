@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/soda-submission",
-        "skills/soda-author-response",
-        "skills/soda-camera-ready",
-        "skills/soda-artifact-evaluation",
-        "skills/soda-reproducibility",
-        "skills/soda-supplementary",
-        "skills/soda-review-process",
-        "skills/soda-writing-style",
-        "skills/soda-related-work",
-        "skills/soda-experiments",
-        "skills/soda-workflow",
-        "skills/soda-topic-selection"
+        "./skills/soda-submission",
+        "./skills/soda-author-response",
+        "./skills/soda-camera-ready",
+        "./skills/soda-artifact-evaluation",
+        "./skills/soda-reproducibility",
+        "./skills/soda-supplementary",
+        "./skills/soda-review-process",
+        "./skills/soda-writing-style",
+        "./skills/soda-related-work",
+        "./skills/soda-experiments",
+        "./skills/soda-workflow",
+        "./skills/soda-topic-selection"
       ]
     }
   ]

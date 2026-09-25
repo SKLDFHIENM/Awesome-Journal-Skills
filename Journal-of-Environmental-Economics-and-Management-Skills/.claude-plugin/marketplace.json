@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jeem-skills",
-      "repository": "https://github.com/brycewang-stanford/jeem-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jeem",
         "journal-of-environmental-economics-and-management",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jeem-workflow",
-        "skills/jeem-topic-selection",
-        "skills/jeem-literature-positioning",
-        "skills/jeem-identification",
-        "skills/jeem-theory-model",
-        "skills/jeem-robustness",
-        "skills/jeem-tables-figures",
-        "skills/jeem-writing-style",
-        "skills/jeem-replication-package",
-        "skills/jeem-referee-strategy",
-        "skills/jeem-submission",
-        "skills/jeem-rebuttal"
+        "./skills/jeem-workflow",
+        "./skills/jeem-topic-selection",
+        "./skills/jeem-literature-positioning",
+        "./skills/jeem-identification",
+        "./skills/jeem-theory-model",
+        "./skills/jeem-robustness",
+        "./skills/jeem-tables-figures",
+        "./skills/jeem-writing-style",
+        "./skills/jeem-replication-package",
+        "./skills/jeem-referee-strategy",
+        "./skills/jeem-submission",
+        "./skills/jeem-rebuttal"
       ]
     }
   ]

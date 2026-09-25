@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/sf-skills",
-      "repository": "https://github.com/brycewang-stanford/sf-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "social-forces",
         "sf",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/sf-workflow",
-        "skills/sf-topic-selection",
-        "skills/sf-literature-positioning",
-        "skills/sf-theory-building",
-        "skills/sf-research-design",
-        "skills/sf-data-analysis",
-        "skills/sf-tables-figures",
-        "skills/sf-writing-style",
-        "skills/sf-data-and-transparency",
-        "skills/sf-review-process",
-        "skills/sf-submission",
-        "skills/sf-rebuttal"
+        "./skills/sf-workflow",
+        "./skills/sf-topic-selection",
+        "./skills/sf-literature-positioning",
+        "./skills/sf-theory-building",
+        "./skills/sf-research-design",
+        "./skills/sf-data-analysis",
+        "./skills/sf-tables-figures",
+        "./skills/sf-writing-style",
+        "./skills/sf-data-and-transparency",
+        "./skills/sf-review-process",
+        "./skills/sf-submission",
+        "./skills/sf-rebuttal"
       ]
     }
   ]

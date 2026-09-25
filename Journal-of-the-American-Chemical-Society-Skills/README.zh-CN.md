@@ -45,7 +45,7 @@ JACS 的约束维度与物理快报、数学期刊、临床期刊**显著不同*
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jacs-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jacs-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ JACS 的约束维度与物理快报、数学期刊、临床期刊**显著不同*
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/jacs-skills.git
-cd jacs-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-the-American-Chemical-Society-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jacs-* ~/.claude/skills/
 # 或
@@ -150,7 +150,7 @@ jacs-revision
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》参考包
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》参考包
 - [ACS JACS 作者资源](https://pubs.acs.org/journal/jacsat) —— 官方指南（当前规则以此为准）
 
 ---

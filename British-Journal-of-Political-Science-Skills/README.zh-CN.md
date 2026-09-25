@@ -60,7 +60,7 @@ BJPS 的约束不同于美国旗舰刊、比较政治专刊或方法刊：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/british-journal-of-political-science-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install british-journal-of-political-science-skills
 /reload-plugins
 ```
@@ -68,8 +68,8 @@ BJPS 的约束不同于美国旗舰刊、比较政治专刊或方法刊：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/british-journal-of-political-science-skills.git
-cd british-journal-of-political-science-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/British-Journal-of-Political-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/bjps-* ~/.claude/skills/
 # 或

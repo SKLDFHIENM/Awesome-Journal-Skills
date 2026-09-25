@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/financial-management-skills",
-      "repository": "https://github.com/brycewang-stanford/financial-management-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "fm",
         "financial-management",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/finman-workflow",
-        "skills/finman-topic-selection",
-        "skills/finman-literature-positioning",
-        "skills/finman-identification",
-        "skills/finman-empirical-design",
-        "skills/finman-robustness",
-        "skills/finman-tables-figures",
-        "skills/finman-internet-appendix",
-        "skills/finman-writing-style",
-        "skills/finman-submission",
-        "skills/finman-referee-strategy",
-        "skills/finman-rebuttal"
+        "./skills/finman-workflow",
+        "./skills/finman-topic-selection",
+        "./skills/finman-literature-positioning",
+        "./skills/finman-identification",
+        "./skills/finman-empirical-design",
+        "./skills/finman-robustness",
+        "./skills/finman-tables-figures",
+        "./skills/finman-internet-appendix",
+        "./skills/finman-writing-style",
+        "./skills/finman-submission",
+        "./skills/finman-referee-strategy",
+        "./skills/finman-rebuttal"
       ]
     }
   ]

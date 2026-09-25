@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/comparative-political-studies-skills",
-      "repository": "https://github.com/brycewang-stanford/comparative-political-studies-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "comparative-political-studies",
         "cps",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cps-workflow",
-        "skills/cps-topic-selection",
-        "skills/cps-literature-positioning",
-        "skills/cps-theory-building",
-        "skills/cps-research-design",
-        "skills/cps-data-analysis",
-        "skills/cps-tables-figures",
-        "skills/cps-writing-style",
-        "skills/cps-transparency-and-data",
-        "skills/cps-review-process",
-        "skills/cps-submission",
-        "skills/cps-rebuttal"
+        "./skills/cps-workflow",
+        "./skills/cps-topic-selection",
+        "./skills/cps-literature-positioning",
+        "./skills/cps-theory-building",
+        "./skills/cps-research-design",
+        "./skills/cps-data-analysis",
+        "./skills/cps-tables-figures",
+        "./skills/cps-writing-style",
+        "./skills/cps-transparency-and-data",
+        "./skills/cps-review-process",
+        "./skills/cps-submission",
+        "./skills/cps-rebuttal"
       ]
     }
   ]

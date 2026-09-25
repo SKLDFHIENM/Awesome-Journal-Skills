@@ -49,7 +49,7 @@
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cognitive-psychology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cognitive-psychology-skills
 /reload-plugins
 ```
@@ -57,8 +57,8 @@
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/cognitive-psychology-skills.git
-cd cognitive-psychology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Cognitive-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cogpsych-* ~/.claude/skills/
 # 或

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/aej-economic-policy-skills",
-      "repository": "https://github.com/brycewang-stanford/aej-economic-policy-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "aej-economic-policy",
         "economic-policy",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aejpol-workflow",
-        "skills/aejpol-topic-selection",
-        "skills/aejpol-literature-positioning",
-        "skills/aejpol-identification",
-        "skills/aejpol-theory-model",
-        "skills/aejpol-robustness",
-        "skills/aejpol-tables-figures",
-        "skills/aejpol-writing-style",
-        "skills/aejpol-replication-package",
-        "skills/aejpol-referee-strategy",
-        "skills/aejpol-submission",
-        "skills/aejpol-rebuttal"
+        "./skills/aejpol-workflow",
+        "./skills/aejpol-topic-selection",
+        "./skills/aejpol-literature-positioning",
+        "./skills/aejpol-identification",
+        "./skills/aejpol-theory-model",
+        "./skills/aejpol-robustness",
+        "./skills/aejpol-tables-figures",
+        "./skills/aejpol-writing-style",
+        "./skills/aejpol-replication-package",
+        "./skills/aejpol-referee-strategy",
+        "./skills/aejpol-submission",
+        "./skills/aejpol-rebuttal"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jonc-submission",
-        "skills/jonc-author-response",
-        "skills/jonc-camera-ready",
-        "skills/jonc-artifact-evaluation",
-        "skills/jonc-reproducibility",
-        "skills/jonc-supplementary",
-        "skills/jonc-review-process",
-        "skills/jonc-writing-style",
-        "skills/jonc-related-work",
-        "skills/jonc-experiments",
-        "skills/jonc-workflow",
-        "skills/jonc-topic-selection"
+        "./skills/jonc-submission",
+        "./skills/jonc-author-response",
+        "./skills/jonc-camera-ready",
+        "./skills/jonc-artifact-evaluation",
+        "./skills/jonc-reproducibility",
+        "./skills/jonc-supplementary",
+        "./skills/jonc-review-process",
+        "./skills/jonc-writing-style",
+        "./skills/jonc-related-work",
+        "./skills/jonc-experiments",
+        "./skills/jonc-workflow",
+        "./skills/jonc-topic-selection"
       ]
     }
   ]

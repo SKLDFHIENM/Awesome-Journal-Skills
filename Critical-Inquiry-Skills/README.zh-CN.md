@@ -59,7 +59,7 @@ CI 的约束不同于领域刊、方法刊或社会科学刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ci-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ci-skills
 /reload-plugins
 ```
@@ -67,8 +67,8 @@ CI 的约束不同于领域刊、方法刊或社会科学刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/ci-skills.git
-cd ci-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Critical-Inquiry-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ci-* ~/.claude/skills/
 # 或

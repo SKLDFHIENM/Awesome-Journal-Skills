@@ -58,7 +58,7 @@ JMF 的约束不同于通用社会学、心理学或经济学期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jmf-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jmf-skills
 /reload-plugins
 ```
@@ -66,8 +66,8 @@ JMF 的约束不同于通用社会学、心理学或经济学期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jmf-skills.git
-cd jmf-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Marriage-and-Family-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jmf-* ~/.claude/skills/
 # 或

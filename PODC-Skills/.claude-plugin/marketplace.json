@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/podc-submission",
-        "skills/podc-author-response",
-        "skills/podc-camera-ready",
-        "skills/podc-artifact-evaluation",
-        "skills/podc-reproducibility",
-        "skills/podc-supplementary",
-        "skills/podc-review-process",
-        "skills/podc-writing-style",
-        "skills/podc-related-work",
-        "skills/podc-experiments",
-        "skills/podc-workflow",
-        "skills/podc-topic-selection"
+        "./skills/podc-submission",
+        "./skills/podc-author-response",
+        "./skills/podc-camera-ready",
+        "./skills/podc-artifact-evaluation",
+        "./skills/podc-reproducibility",
+        "./skills/podc-supplementary",
+        "./skills/podc-review-process",
+        "./skills/podc-writing-style",
+        "./skills/podc-related-work",
+        "./skills/podc-experiments",
+        "./skills/podc-workflow",
+        "./skills/podc-topic-selection"
       ]
     }
   ]

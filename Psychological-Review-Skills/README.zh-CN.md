@@ -47,7 +47,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/psychological-review-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install psychological-review-skills
 /reload-plugins
 ```
@@ -55,8 +55,8 @@
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/psychological-review-skills.git
-cd psychological-review-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Psychological-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/psychrev-* ~/.claude/skills/
 # 或
@@ -145,7 +145,7 @@ psychrev-rebuttal
 ## 相关链接
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊专属技能包索引
-- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/amr-skills) —— 一个姊妹的纯理论深度包
+- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Review-Skills) —— 一个姊妹的纯理论深度包
 
 ---
 

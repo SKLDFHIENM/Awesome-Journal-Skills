@@ -45,7 +45,7 @@ Generic "scientific writing" or "social-science methods" packs do not address th
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/mgsci-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install mgsci-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" or "social-science methods" packs do not address th
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/mgsci-skills.git
-cd mgsci-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Management-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/mgsci-* ~/.claude/skills/
 # or

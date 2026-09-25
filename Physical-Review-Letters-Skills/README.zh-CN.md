@@ -44,7 +44,7 @@ PRL 的约束与专业化的 Physical Review 系列期刊（PR A–E、PR Resear
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/prl-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install prl-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ PRL 的约束与专业化的 Physical Review 系列期刊（PR A–E、PR Resear
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/prl-skills.git
-cd prl-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Physical-Review-Letters-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/prl-* ~/.claude/skills/
 # 或

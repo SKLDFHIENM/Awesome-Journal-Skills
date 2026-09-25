@@ -44,7 +44,7 @@ Nature Geoscience 的约束与地球科学社区期刊（JGR、GRL、Climate Dyn
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ngeo-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ngeo-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Nature Geoscience 的约束与地球科学社区期刊（JGR、GRL、Climate Dyn
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/ngeo-skills.git
-cd ngeo-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Nature-Geoscience-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ngeo-* ~/.claude/skills/
 # 或

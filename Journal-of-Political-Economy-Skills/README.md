@@ -45,7 +45,7 @@ Generic "scientific writing" or "economics writing" packs do not address these c
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpe-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpe-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" or "economics writing" packs do not address these c
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpe-skills.git
-cd jpe-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Political-Economy-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpe-* ~/.claude/skills/
 # or
@@ -142,7 +142,7 @@ If the paper is methodological with no economic application, Econometrica may fi
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
 - [AER-skills](https://github.com/brycewang-stanford/AER-skills) — American Economic Review
-- [economic-research-skills](https://github.com/brycewang-stanford/economic-research-skills) — 《经济研究》 (Economic Research Journal)
+- [economic-research-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) — 《经济研究》 (Economic Research Journal)
 
 ---
 

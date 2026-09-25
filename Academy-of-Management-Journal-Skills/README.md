@@ -44,7 +44,7 @@ Generic "scientific writing" or "social-science methods" packs do not address th
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/amj-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install amj-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" or "social-science methods" packs do not address th
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/amj-skills.git
-cd amj-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Academy-of-Management-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/amj-* ~/.claude/skills/
 # or

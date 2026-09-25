@@ -60,7 +60,7 @@ Items not directly confirmed are marked **待核实** in
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/comparative-political-studies-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install comparative-political-studies-skills
 /reload-plugins
 ```
@@ -68,8 +68,8 @@ Items not directly confirmed are marked **待核实** in
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/comparative-political-studies-skills.git
-cd comparative-political-studies-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Comparative-Political-Studies-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cps-* ~/.claude/skills/
 # or

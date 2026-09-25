@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ndss-submission",
-        "skills/ndss-author-response",
-        "skills/ndss-camera-ready",
-        "skills/ndss-artifact-evaluation",
-        "skills/ndss-reproducibility",
-        "skills/ndss-supplementary",
-        "skills/ndss-review-process",
-        "skills/ndss-writing-style",
-        "skills/ndss-related-work",
-        "skills/ndss-experiments",
-        "skills/ndss-workflow",
-        "skills/ndss-topic-selection"
+        "./skills/ndss-submission",
+        "./skills/ndss-author-response",
+        "./skills/ndss-camera-ready",
+        "./skills/ndss-artifact-evaluation",
+        "./skills/ndss-reproducibility",
+        "./skills/ndss-supplementary",
+        "./skills/ndss-review-process",
+        "./skills/ndss-writing-style",
+        "./skills/ndss-related-work",
+        "./skills/ndss-experiments",
+        "./skills/ndss-workflow",
+        "./skills/ndss-topic-selection"
       ]
     }
   ]

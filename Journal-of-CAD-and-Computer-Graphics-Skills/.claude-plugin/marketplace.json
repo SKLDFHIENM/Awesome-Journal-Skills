@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jcadcg-submission",
-        "skills/jcadcg-author-response",
-        "skills/jcadcg-camera-ready",
-        "skills/jcadcg-artifact-evaluation",
-        "skills/jcadcg-reproducibility",
-        "skills/jcadcg-supplementary",
-        "skills/jcadcg-review-process",
-        "skills/jcadcg-writing-style",
-        "skills/jcadcg-related-work",
-        "skills/jcadcg-experiments",
-        "skills/jcadcg-workflow",
-        "skills/jcadcg-topic-selection"
+        "./skills/jcadcg-submission",
+        "./skills/jcadcg-author-response",
+        "./skills/jcadcg-camera-ready",
+        "./skills/jcadcg-artifact-evaluation",
+        "./skills/jcadcg-reproducibility",
+        "./skills/jcadcg-supplementary",
+        "./skills/jcadcg-review-process",
+        "./skills/jcadcg-writing-style",
+        "./skills/jcadcg-related-work",
+        "./skills/jcadcg-experiments",
+        "./skills/jcadcg-workflow",
+        "./skills/jcadcg-topic-selection"
       ]
     }
   ]

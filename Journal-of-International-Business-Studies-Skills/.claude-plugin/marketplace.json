@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jibs-skills",
-      "repository": "https://github.com/brycewang-stanford/jibs-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-international-business-studies",
         "jibs",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jibs-workflow",
-        "skills/jibs-topic-selection",
-        "skills/jibs-theory-development",
-        "skills/jibs-literature-positioning",
-        "skills/jibs-methods",
-        "skills/jibs-data-analysis",
-        "skills/jibs-contribution-framing",
-        "skills/jibs-tables-figures",
-        "skills/jibs-writing-style",
-        "skills/jibs-submission",
-        "skills/jibs-review-process",
-        "skills/jibs-rebuttal"
+        "./skills/jibs-workflow",
+        "./skills/jibs-topic-selection",
+        "./skills/jibs-theory-development",
+        "./skills/jibs-literature-positioning",
+        "./skills/jibs-methods",
+        "./skills/jibs-data-analysis",
+        "./skills/jibs-contribution-framing",
+        "./skills/jibs-tables-figures",
+        "./skills/jibs-writing-style",
+        "./skills/jibs-submission",
+        "./skills/jibs-review-process",
+        "./skills/jibs-rebuttal"
       ]
     }
   ]

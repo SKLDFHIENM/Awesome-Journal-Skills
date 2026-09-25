@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cscw-submission",
-        "skills/cscw-author-response",
-        "skills/cscw-camera-ready",
-        "skills/cscw-artifact-evaluation",
-        "skills/cscw-reproducibility",
-        "skills/cscw-supplementary",
-        "skills/cscw-review-process",
-        "skills/cscw-writing-style",
-        "skills/cscw-related-work",
-        "skills/cscw-experiments",
-        "skills/cscw-workflow",
-        "skills/cscw-topic-selection"
+        "./skills/cscw-submission",
+        "./skills/cscw-author-response",
+        "./skills/cscw-camera-ready",
+        "./skills/cscw-artifact-evaluation",
+        "./skills/cscw-reproducibility",
+        "./skills/cscw-supplementary",
+        "./skills/cscw-review-process",
+        "./skills/cscw-writing-style",
+        "./skills/cscw-related-work",
+        "./skills/cscw-experiments",
+        "./skills/cscw-workflow",
+        "./skills/cscw-topic-selection"
       ]
     }
   ]

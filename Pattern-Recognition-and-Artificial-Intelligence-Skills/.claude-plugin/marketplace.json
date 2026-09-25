@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/prai-submission",
-        "skills/prai-author-response",
-        "skills/prai-camera-ready",
-        "skills/prai-artifact-evaluation",
-        "skills/prai-reproducibility",
-        "skills/prai-supplementary",
-        "skills/prai-review-process",
-        "skills/prai-writing-style",
-        "skills/prai-related-work",
-        "skills/prai-experiments",
-        "skills/prai-workflow",
-        "skills/prai-topic-selection"
+        "./skills/prai-submission",
+        "./skills/prai-author-response",
+        "./skills/prai-camera-ready",
+        "./skills/prai-artifact-evaluation",
+        "./skills/prai-reproducibility",
+        "./skills/prai-supplementary",
+        "./skills/prai-review-process",
+        "./skills/prai-writing-style",
+        "./skills/prai-related-work",
+        "./skills/prai-experiments",
+        "./skills/prai-workflow",
+        "./skills/prai-topic-selection"
       ]
     }
   ]

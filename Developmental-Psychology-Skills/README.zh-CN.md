@@ -55,7 +55,7 @@ Developmental Psychology 是 **APA 旗下面向毕生发展的综合性期刊**�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/developmental-psychology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install developmental-psychology-skills
 /reload-plugins
 ```
@@ -63,8 +63,8 @@ Developmental Psychology 是 **APA 旗下面向毕生发展的综合性期刊**�
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/developmental-psychology-skills.git
-cd developmental-psychology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Developmental-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/devpsych-* ~/.claude/skills/
 # 或

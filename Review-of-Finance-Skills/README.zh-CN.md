@@ -45,7 +45,7 @@ RoF 的约束维度与一般金融期刊**显著不同**：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/rof-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install rof-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ RoF 的约束维度与一般金融期刊**显著不同**：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/rof-skills.git
-cd rof-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Review-of-Finance-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/rof-* ~/.claude/skills/
 # 或

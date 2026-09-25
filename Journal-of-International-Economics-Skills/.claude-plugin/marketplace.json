@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jie-skills",
-      "repository": "https://github.com/brycewang-stanford/jie-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-international-economics",
         "jie",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jie-workflow",
-        "skills/jie-topic-selection",
-        "skills/jie-literature-positioning",
-        "skills/jie-identification-strategy",
-        "skills/jie-contribution-framing",
-        "skills/jie-data-analysis",
-        "skills/jie-tables-figures",
-        "skills/jie-writing-style",
-        "skills/jie-replication-and-data-policy",
-        "skills/jie-review-process",
-        "skills/jie-submission",
-        "skills/jie-rebuttal"
+        "./skills/jie-workflow",
+        "./skills/jie-topic-selection",
+        "./skills/jie-literature-positioning",
+        "./skills/jie-identification-strategy",
+        "./skills/jie-contribution-framing",
+        "./skills/jie-data-analysis",
+        "./skills/jie-tables-figures",
+        "./skills/jie-writing-style",
+        "./skills/jie-replication-and-data-policy",
+        "./skills/jie-review-process",
+        "./skills/jie-submission",
+        "./skills/jie-rebuttal"
       ]
     }
   ]

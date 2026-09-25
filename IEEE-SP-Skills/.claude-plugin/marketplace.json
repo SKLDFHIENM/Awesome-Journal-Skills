@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ieeesp-submission",
-        "skills/ieeesp-author-response",
-        "skills/ieeesp-camera-ready",
-        "skills/ieeesp-artifact-evaluation",
-        "skills/ieeesp-reproducibility",
-        "skills/ieeesp-supplementary",
-        "skills/ieeesp-review-process",
-        "skills/ieeesp-writing-style",
-        "skills/ieeesp-related-work",
-        "skills/ieeesp-experiments",
-        "skills/ieeesp-workflow",
-        "skills/ieeesp-topic-selection"
+        "./skills/ieeesp-submission",
+        "./skills/ieeesp-author-response",
+        "./skills/ieeesp-camera-ready",
+        "./skills/ieeesp-artifact-evaluation",
+        "./skills/ieeesp-reproducibility",
+        "./skills/ieeesp-supplementary",
+        "./skills/ieeesp-review-process",
+        "./skills/ieeesp-writing-style",
+        "./skills/ieeesp-related-work",
+        "./skills/ieeesp-experiments",
+        "./skills/ieeesp-workflow",
+        "./skills/ieeesp-topic-selection"
       ]
     }
   ]

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/ectheory-skills",
-      "repository": "https://github.com/brycewang-stanford/ectheory-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "econometric-theory",
         "et",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ectheory-workflow",
-        "skills/ectheory-topic-selection",
-        "skills/ectheory-literature-positioning",
-        "skills/ectheory-identification-strategy",
-        "skills/ectheory-contribution-framing",
-        "skills/ectheory-data-analysis",
-        "skills/ectheory-tables-figures",
-        "skills/ectheory-writing-style",
-        "skills/ectheory-replication-and-data-policy",
-        "skills/ectheory-review-process",
-        "skills/ectheory-submission",
-        "skills/ectheory-rebuttal"
+        "./skills/ectheory-workflow",
+        "./skills/ectheory-topic-selection",
+        "./skills/ectheory-literature-positioning",
+        "./skills/ectheory-identification-strategy",
+        "./skills/ectheory-contribution-framing",
+        "./skills/ectheory-data-analysis",
+        "./skills/ectheory-tables-figures",
+        "./skills/ectheory-writing-style",
+        "./skills/ectheory-replication-and-data-policy",
+        "./skills/ectheory-review-process",
+        "./skills/ectheory-submission",
+        "./skills/ectheory-rebuttal"
       ]
     }
   ]

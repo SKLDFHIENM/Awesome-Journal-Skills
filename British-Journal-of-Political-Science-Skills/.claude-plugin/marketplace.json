@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/british-journal-of-political-science-skills",
-      "repository": "https://github.com/brycewang-stanford/british-journal-of-political-science-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "british-journal-of-political-science",
         "bjps",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/bjps-workflow",
-        "skills/bjps-topic-selection",
-        "skills/bjps-literature-positioning",
-        "skills/bjps-theory-building",
-        "skills/bjps-research-design",
-        "skills/bjps-data-analysis",
-        "skills/bjps-tables-figures",
-        "skills/bjps-writing-style",
-        "skills/bjps-transparency-and-data",
-        "skills/bjps-review-process",
-        "skills/bjps-submission",
-        "skills/bjps-rebuttal"
+        "./skills/bjps-workflow",
+        "./skills/bjps-topic-selection",
+        "./skills/bjps-literature-positioning",
+        "./skills/bjps-theory-building",
+        "./skills/bjps-research-design",
+        "./skills/bjps-data-analysis",
+        "./skills/bjps-tables-figures",
+        "./skills/bjps-writing-style",
+        "./skills/bjps-transparency-and-data",
+        "./skills/bjps-review-process",
+        "./skills/bjps-submission",
+        "./skills/bjps-rebuttal"
       ]
     }
   ]

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/annual-review-of-psychology-skills",
-      "repository": "https://github.com/brycewang-stanford/annual-review-of-psychology-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "arpsych",
         "annual-review-of-psychology",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/arpsych-workflow",
-        "skills/arpsych-topic-selection",
-        "skills/arpsych-proposal-and-commissioning",
-        "skills/arpsych-literature-synthesis",
-        "skills/arpsych-organizing-framework",
-        "skills/arpsych-comprehensiveness-and-balance",
-        "skills/arpsych-tables-figures",
-        "skills/arpsych-writing-style",
-        "skills/arpsych-transparency-and-reproducibility",
-        "skills/arpsych-editor-strategy",
-        "skills/arpsych-submission",
-        "skills/arpsych-revision"
+        "./skills/arpsych-workflow",
+        "./skills/arpsych-topic-selection",
+        "./skills/arpsych-proposal-and-commissioning",
+        "./skills/arpsych-literature-synthesis",
+        "./skills/arpsych-organizing-framework",
+        "./skills/arpsych-comprehensiveness-and-balance",
+        "./skills/arpsych-tables-figures",
+        "./skills/arpsych-writing-style",
+        "./skills/arpsych-transparency-and-reproducibility",
+        "./skills/arpsych-editor-strategy",
+        "./skills/arpsych-submission",
+        "./skills/arpsych-revision"
       ]
     }
   ]

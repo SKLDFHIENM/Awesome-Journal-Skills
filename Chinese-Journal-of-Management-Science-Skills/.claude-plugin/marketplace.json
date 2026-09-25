@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/cjms-skills",
-      "repository": "https://github.com/brycewang-stanford/cjms-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "chinese-journal-of-management-science",
         "management-science-and-engineering",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cjms-workflow",
-        "skills/cjms-topic-selection",
-        "skills/cjms-literature-review",
-        "skills/cjms-model-formulation",
-        "skills/cjms-solution-algorithm",
-        "skills/cjms-empirical-validation",
-        "skills/cjms-numerical-experiments",
-        "skills/cjms-managerial-insights",
-        "skills/cjms-tables-figures",
-        "skills/cjms-writing-style",
-        "skills/cjms-submission",
-        "skills/cjms-rebuttal"
+        "./skills/cjms-workflow",
+        "./skills/cjms-topic-selection",
+        "./skills/cjms-literature-review",
+        "./skills/cjms-model-formulation",
+        "./skills/cjms-solution-algorithm",
+        "./skills/cjms-empirical-validation",
+        "./skills/cjms-numerical-experiments",
+        "./skills/cjms-managerial-insights",
+        "./skills/cjms-tables-figures",
+        "./skills/cjms-writing-style",
+        "./skills/cjms-submission",
+        "./skills/cjms-rebuttal"
       ]
     }
   ]

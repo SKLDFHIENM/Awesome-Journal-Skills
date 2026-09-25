@@ -66,7 +66,7 @@ AA's constraints differ from a single-subfield journal or a quantitative social-
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/american-anthropologist-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install american-anthropologist-skills
 /reload-plugins
 ```
@@ -74,8 +74,8 @@ AA's constraints differ from a single-subfield journal or a quantitative social-
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/american-anthropologist-skills.git
-cd american-anthropologist-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/American-Anthropologist-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/amanthro-* ~/.claude/skills/
 # or

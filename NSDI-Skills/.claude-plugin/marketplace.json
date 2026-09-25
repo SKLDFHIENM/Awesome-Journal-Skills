@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/nsdi-submission",
-        "skills/nsdi-author-response",
-        "skills/nsdi-camera-ready",
-        "skills/nsdi-artifact-evaluation",
-        "skills/nsdi-reproducibility",
-        "skills/nsdi-supplementary",
-        "skills/nsdi-review-process",
-        "skills/nsdi-writing-style",
-        "skills/nsdi-related-work",
-        "skills/nsdi-experiments",
-        "skills/nsdi-workflow",
-        "skills/nsdi-topic-selection"
+        "./skills/nsdi-submission",
+        "./skills/nsdi-author-response",
+        "./skills/nsdi-camera-ready",
+        "./skills/nsdi-artifact-evaluation",
+        "./skills/nsdi-reproducibility",
+        "./skills/nsdi-supplementary",
+        "./skills/nsdi-review-process",
+        "./skills/nsdi-writing-style",
+        "./skills/nsdi-related-work",
+        "./skills/nsdi-experiments",
+        "./skills/nsdi-workflow",
+        "./skills/nsdi-topic-selection"
       ]
     }
   ]

@@ -60,7 +60,7 @@ AHR 的约束既不同于社会科学期刊，也不同于专门史期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ahr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ahr-skills
 /reload-plugins
 ```
@@ -68,8 +68,8 @@ AHR 的约束既不同于社会科学期刊，也不同于专门史期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/ahr-skills.git
-cd ahr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/American-Historical-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ahr-* ~/.claude/skills/
 # 或

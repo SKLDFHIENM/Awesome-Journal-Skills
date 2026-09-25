@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/ajps-skills",
-      "repository": "https://github.com/brycewang-stanford/ajps-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "american-journal-of-political-science",
         "ajps",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ajps-workflow",
-        "skills/ajps-topic-selection",
-        "skills/ajps-literature-positioning",
-        "skills/ajps-theory-building",
-        "skills/ajps-research-design",
-        "skills/ajps-data-analysis",
-        "skills/ajps-tables-figures",
-        "skills/ajps-writing-style",
-        "skills/ajps-replication-and-verification",
-        "skills/ajps-review-process",
-        "skills/ajps-submission",
-        "skills/ajps-rebuttal"
+        "./skills/ajps-workflow",
+        "./skills/ajps-topic-selection",
+        "./skills/ajps-literature-positioning",
+        "./skills/ajps-theory-building",
+        "./skills/ajps-research-design",
+        "./skills/ajps-data-analysis",
+        "./skills/ajps-tables-figures",
+        "./skills/ajps-writing-style",
+        "./skills/ajps-replication-and-verification",
+        "./skills/ajps-review-process",
+        "./skills/ajps-submission",
+        "./skills/ajps-rebuttal"
       ]
     }
   ]

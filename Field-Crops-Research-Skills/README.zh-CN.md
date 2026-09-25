@@ -62,7 +62,7 @@ FCR 明确**不予考虑**：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/fcr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install fcr-skills
 /reload-plugins
 ```
@@ -70,8 +70,8 @@ FCR 明确**不予考虑**：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/fcr-skills.git
-cd fcr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Field-Crops-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/fcr-* ~/.claude/skills/
 # 或

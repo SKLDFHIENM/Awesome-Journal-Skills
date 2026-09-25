@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/nejm-workflow",
-        "skills/nejm-fit",
-        "skills/nejm-study-design",
-        "skills/nejm-reporting",
-        "skills/nejm-abstract",
-        "skills/nejm-writing",
-        "skills/nejm-statistics",
-        "skills/nejm-figures-tables",
-        "skills/nejm-ethics",
-        "skills/nejm-citation",
-        "skills/nejm-submission",
-        "skills/nejm-rebuttal"
+        "./skills/nejm-workflow",
+        "./skills/nejm-fit",
+        "./skills/nejm-study-design",
+        "./skills/nejm-reporting",
+        "./skills/nejm-abstract",
+        "./skills/nejm-writing",
+        "./skills/nejm-statistics",
+        "./skills/nejm-figures-tables",
+        "./skills/nejm-ethics",
+        "./skills/nejm-citation",
+        "./skills/nejm-submission",
+        "./skills/nejm-rebuttal"
       ]
     }
   ]

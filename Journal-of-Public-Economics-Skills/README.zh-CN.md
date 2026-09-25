@@ -46,7 +46,7 @@ JPubE 的约束维度与"免费的综合性顶刊"或方法类期刊**显著不�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpube-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpube-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@ JPubE 的约束维度与"免费的综合性顶刊"或方法类期刊**显著不�
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpube-skills.git
-cd jpube-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Public-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpube-* ~/.claude/skills/
 # 或

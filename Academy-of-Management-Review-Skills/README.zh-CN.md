@@ -45,7 +45,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/amr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install amr-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/amr-skills.git
-cd amr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Academy-of-Management-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/amr-* ~/.claude/skills/
 # 或
@@ -142,7 +142,7 @@ amr-rebuttal
 ## 相关
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊专属技能包索引
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》
 
 ---
 

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/review-of-educational-research-skills",
-      "repository": "https://github.com/brycewang-stanford/review-of-educational-research-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "review-of-educational-research",
         "rer",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/revedres-workflow",
-        "skills/revedres-topic-selection",
-        "skills/revedres-proposal-and-commissioning",
-        "skills/revedres-literature-synthesis",
-        "skills/revedres-organizing-framework",
-        "skills/revedres-comprehensiveness-and-balance",
-        "skills/revedres-tables-figures",
-        "skills/revedres-writing-style",
-        "skills/revedres-transparency-and-reproducibility",
-        "skills/revedres-editor-strategy",
-        "skills/revedres-submission",
-        "skills/revedres-revision"
+        "./skills/revedres-workflow",
+        "./skills/revedres-topic-selection",
+        "./skills/revedres-proposal-and-commissioning",
+        "./skills/revedres-literature-synthesis",
+        "./skills/revedres-organizing-framework",
+        "./skills/revedres-comprehensiveness-and-balance",
+        "./skills/revedres-tables-figures",
+        "./skills/revedres-writing-style",
+        "./skills/revedres-transparency-and-reproducibility",
+        "./skills/revedres-editor-strategy",
+        "./skills/revedres-submission",
+        "./skills/revedres-revision"
       ]
     }
   ]

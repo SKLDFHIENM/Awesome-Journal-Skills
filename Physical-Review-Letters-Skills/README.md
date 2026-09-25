@@ -44,7 +44,7 @@ Generic "scientific writing" packs do not address the deductible length budget, 
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/prl-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install prl-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" packs do not address the deductible length budget, 
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/prl-skills.git
-cd prl-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Physical-Review-Letters-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/prl-* ~/.claude/skills/
 # or

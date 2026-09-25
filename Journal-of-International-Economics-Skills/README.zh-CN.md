@@ -45,7 +45,7 @@ JIE 的约束维度与综合性 top-5 期刊或方法类期刊**显著不同**�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jie-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jie-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ JIE 的约束维度与综合性 top-5 期刊或方法类期刊**显著不同**�
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/jie-skills.git
-cd jie-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-International-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jie-* ~/.claude/skills/
 # 或

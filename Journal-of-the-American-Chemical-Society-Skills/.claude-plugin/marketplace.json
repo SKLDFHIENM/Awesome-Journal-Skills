@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jacs-skills",
-      "repository": "https://github.com/brycewang-stanford/jacs-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jacs",
         "acs",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jacs-workflow",
-        "skills/jacs-scope-fit",
-        "skills/jacs-results-framing",
-        "skills/jacs-methods",
-        "skills/jacs-figures",
-        "skills/jacs-supplementary",
-        "skills/jacs-writing-style",
-        "skills/jacs-length-management",
-        "skills/jacs-cover-letter",
-        "skills/jacs-submission",
-        "skills/jacs-referee-strategy",
-        "skills/jacs-revision"
+        "./skills/jacs-workflow",
+        "./skills/jacs-scope-fit",
+        "./skills/jacs-results-framing",
+        "./skills/jacs-methods",
+        "./skills/jacs-figures",
+        "./skills/jacs-supplementary",
+        "./skills/jacs-writing-style",
+        "./skills/jacs-length-management",
+        "./skills/jacs-cover-letter",
+        "./skills/jacs-submission",
+        "./skills/jacs-referee-strategy",
+        "./skills/jacs-revision"
       ]
     }
   ]

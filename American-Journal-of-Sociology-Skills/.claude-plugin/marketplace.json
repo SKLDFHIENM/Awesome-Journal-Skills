@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/ajs-skills",
-      "repository": "https://github.com/brycewang-stanford/ajs-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "american-journal-of-sociology",
         "ajs",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ajs-workflow",
-        "skills/ajs-topic-selection",
-        "skills/ajs-literature-positioning",
-        "skills/ajs-theory-building",
-        "skills/ajs-research-design",
-        "skills/ajs-data-analysis",
-        "skills/ajs-tables-figures",
-        "skills/ajs-writing-style",
-        "skills/ajs-data-and-transparency",
-        "skills/ajs-review-process",
-        "skills/ajs-submission",
-        "skills/ajs-rebuttal"
+        "./skills/ajs-workflow",
+        "./skills/ajs-topic-selection",
+        "./skills/ajs-literature-positioning",
+        "./skills/ajs-theory-building",
+        "./skills/ajs-research-design",
+        "./skills/ajs-data-analysis",
+        "./skills/ajs-tables-figures",
+        "./skills/ajs-writing-style",
+        "./skills/ajs-data-and-transparency",
+        "./skills/ajs-review-process",
+        "./skills/ajs-submission",
+        "./skills/ajs-rebuttal"
       ]
     }
   ]

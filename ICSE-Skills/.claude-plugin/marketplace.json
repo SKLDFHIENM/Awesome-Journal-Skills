@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icse-submission",
-        "skills/icse-author-response",
-        "skills/icse-camera-ready",
-        "skills/icse-artifact-evaluation",
-        "skills/icse-reproducibility",
-        "skills/icse-supplementary",
-        "skills/icse-review-process",
-        "skills/icse-writing-style",
-        "skills/icse-related-work",
-        "skills/icse-experiments",
-        "skills/icse-workflow",
-        "skills/icse-topic-selection"
+        "./skills/icse-submission",
+        "./skills/icse-author-response",
+        "./skills/icse-camera-ready",
+        "./skills/icse-artifact-evaluation",
+        "./skills/icse-reproducibility",
+        "./skills/icse-supplementary",
+        "./skills/icse-review-process",
+        "./skills/icse-writing-style",
+        "./skills/icse-related-work",
+        "./skills/icse-experiments",
+        "./skills/icse-workflow",
+        "./skills/icse-topic-selection"
       ]
     }
   ]

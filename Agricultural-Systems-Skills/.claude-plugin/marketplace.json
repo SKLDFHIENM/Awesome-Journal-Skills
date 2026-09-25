@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/agsy-skills",
-      "repository": "https://github.com/brycewang-stanford/agsy-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "agricultural-systems",
         "agsy",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/agsy-workflow",
-        "skills/agsy-topic-selection",
-        "skills/agsy-literature-positioning",
-        "skills/agsy-systems-framing-and-modeling",
-        "skills/agsy-data-and-model-evaluation",
-        "skills/agsy-figures-and-tables",
-        "skills/agsy-reproducibility-and-data-policy",
-        "skills/agsy-writing-style",
-        "skills/agsy-impact-and-implications",
-        "skills/agsy-review-process",
-        "skills/agsy-submission",
-        "skills/agsy-revision-and-rebuttal"
+        "./skills/agsy-workflow",
+        "./skills/agsy-topic-selection",
+        "./skills/agsy-literature-positioning",
+        "./skills/agsy-systems-framing-and-modeling",
+        "./skills/agsy-data-and-model-evaluation",
+        "./skills/agsy-figures-and-tables",
+        "./skills/agsy-reproducibility-and-data-policy",
+        "./skills/agsy-writing-style",
+        "./skills/agsy-impact-and-implications",
+        "./skills/agsy-review-process",
+        "./skills/agsy-submission",
+        "./skills/agsy-revision-and-rebuttal"
       ]
     }
   ]

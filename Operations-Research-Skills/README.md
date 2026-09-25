@@ -60,7 +60,7 @@ Generic "scientific writing" or "ML methods" packs do not address these constrai
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ors-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ors-skills
 /reload-plugins
 ```
@@ -68,8 +68,8 @@ Generic "scientific writing" or "ML methods" packs do not address these constrai
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/ors-skills.git
-cd ors-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Operations-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ors-* ~/.claude/skills/
 # or

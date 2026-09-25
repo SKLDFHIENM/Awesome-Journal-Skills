@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/sci-workflow",
-        "skills/sci-fit",
-        "skills/sci-framing",
-        "skills/sci-abstract",
-        "skills/sci-writing",
-        "skills/sci-figures",
-        "skills/sci-statistics",
-        "skills/sci-data",
-        "skills/sci-citation",
-        "skills/sci-cover-letter",
-        "skills/sci-submission",
-        "skills/sci-rebuttal"
+        "./skills/sci-workflow",
+        "./skills/sci-fit",
+        "./skills/sci-framing",
+        "./skills/sci-abstract",
+        "./skills/sci-writing",
+        "./skills/sci-figures",
+        "./skills/sci-statistics",
+        "./skills/sci-data",
+        "./skills/sci-citation",
+        "./skills/sci-cover-letter",
+        "./skills/sci-submission",
+        "./skills/sci-rebuttal"
       ]
     }
   ]

@@ -59,7 +59,7 @@ APSR 的约束不同于领域刊或方法刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/apsr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install apsr-skills
 /reload-plugins
 ```
@@ -67,8 +67,8 @@ APSR 的约束不同于领域刊或方法刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/apsr-skills.git
-cd apsr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/American-Political-Science-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/apsr-* ~/.claude/skills/
 # 或

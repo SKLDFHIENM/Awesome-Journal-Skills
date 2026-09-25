@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/sigcomm-submission",
-        "skills/sigcomm-author-response",
-        "skills/sigcomm-camera-ready",
-        "skills/sigcomm-artifact-evaluation",
-        "skills/sigcomm-reproducibility",
-        "skills/sigcomm-supplementary",
-        "skills/sigcomm-review-process",
-        "skills/sigcomm-writing-style",
-        "skills/sigcomm-related-work",
-        "skills/sigcomm-experiments",
-        "skills/sigcomm-workflow",
-        "skills/sigcomm-topic-selection"
+        "./skills/sigcomm-submission",
+        "./skills/sigcomm-author-response",
+        "./skills/sigcomm-camera-ready",
+        "./skills/sigcomm-artifact-evaluation",
+        "./skills/sigcomm-reproducibility",
+        "./skills/sigcomm-supplementary",
+        "./skills/sigcomm-review-process",
+        "./skills/sigcomm-writing-style",
+        "./skills/sigcomm-related-work",
+        "./skills/sigcomm-experiments",
+        "./skills/sigcomm-workflow",
+        "./skills/sigcomm-topic-selection"
       ]
     }
   ]

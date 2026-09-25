@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/advmat-skills",
-      "repository": "https://github.com/brycewang-stanford/advmat-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "advanced-materials",
         "adv-mater",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/advmat-workflow",
-        "skills/advmat-scope-fit",
-        "skills/advmat-results-framing",
-        "skills/advmat-methods",
-        "skills/advmat-figures",
-        "skills/advmat-supplementary",
-        "skills/advmat-writing-style",
-        "skills/advmat-length-management",
-        "skills/advmat-cover-letter",
-        "skills/advmat-submission",
-        "skills/advmat-referee-strategy",
-        "skills/advmat-revision"
+        "./skills/advmat-workflow",
+        "./skills/advmat-scope-fit",
+        "./skills/advmat-results-framing",
+        "./skills/advmat-methods",
+        "./skills/advmat-figures",
+        "./skills/advmat-supplementary",
+        "./skills/advmat-writing-style",
+        "./skills/advmat-length-management",
+        "./skills/advmat-cover-letter",
+        "./skills/advmat-submission",
+        "./skills/advmat-referee-strategy",
+        "./skills/advmat-revision"
       ]
     }
   ]

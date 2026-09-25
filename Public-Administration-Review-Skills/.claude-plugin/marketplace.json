@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/public-administration-review-skills",
-      "repository": "https://github.com/brycewang-stanford/public-administration-review-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "public-administration-review",
         "par",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/pubar-workflow",
-        "skills/pubar-topic-selection",
-        "skills/pubar-literature-positioning",
-        "skills/pubar-theory-building",
-        "skills/pubar-research-design",
-        "skills/pubar-data-analysis",
-        "skills/pubar-tables-figures",
-        "skills/pubar-writing-style",
-        "skills/pubar-transparency-and-data",
-        "skills/pubar-review-process",
-        "skills/pubar-submission",
-        "skills/pubar-rebuttal"
+        "./skills/pubar-workflow",
+        "./skills/pubar-topic-selection",
+        "./skills/pubar-literature-positioning",
+        "./skills/pubar-theory-building",
+        "./skills/pubar-research-design",
+        "./skills/pubar-data-analysis",
+        "./skills/pubar-tables-figures",
+        "./skills/pubar-writing-style",
+        "./skills/pubar-transparency-and-data",
+        "./skills/pubar-review-process",
+        "./skills/pubar-submission",
+        "./skills/pubar-rebuttal"
       ]
     }
   ]

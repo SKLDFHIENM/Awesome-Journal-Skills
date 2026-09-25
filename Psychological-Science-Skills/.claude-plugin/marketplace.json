@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/psci-skills",
-      "repository": "https://github.com/brycewang-stanford/psci-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "psychological-science",
         "psci",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/psci-workflow",
-        "skills/psci-topic-selection",
-        "skills/psci-literature-positioning",
-        "skills/psci-theory-and-hypotheses",
-        "skills/psci-study-design",
-        "skills/psci-data-analysis",
-        "skills/psci-tables-figures",
-        "skills/psci-writing-style",
-        "skills/psci-open-science-and-transparency",
-        "skills/psci-review-process",
-        "skills/psci-submission",
-        "skills/psci-rebuttal"
+        "./skills/psci-workflow",
+        "./skills/psci-topic-selection",
+        "./skills/psci-literature-positioning",
+        "./skills/psci-theory-and-hypotheses",
+        "./skills/psci-study-design",
+        "./skills/psci-data-analysis",
+        "./skills/psci-tables-figures",
+        "./skills/psci-writing-style",
+        "./skills/psci-open-science-and-transparency",
+        "./skills/psci-review-process",
+        "./skills/psci-submission",
+        "./skills/psci-rebuttal"
       ]
     }
   ]

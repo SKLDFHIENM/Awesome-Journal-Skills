@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/journal-of-applied-psychology-skills",
-      "repository": "https://github.com/brycewang-stanford/journal-of-applied-psychology-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-applied-psychology",
         "joap",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/joap-workflow",
-        "skills/joap-topic-selection",
-        "skills/joap-theory-and-hypotheses",
-        "skills/joap-literature-positioning",
-        "skills/joap-study-design",
-        "skills/joap-data-analysis",
-        "skills/joap-tables-figures",
-        "skills/joap-writing-style",
-        "skills/joap-open-science-and-transparency",
-        "skills/joap-review-process",
-        "skills/joap-submission",
-        "skills/joap-rebuttal"
+        "./skills/joap-workflow",
+        "./skills/joap-topic-selection",
+        "./skills/joap-theory-and-hypotheses",
+        "./skills/joap-literature-positioning",
+        "./skills/joap-study-design",
+        "./skills/joap-data-analysis",
+        "./skills/joap-tables-figures",
+        "./skills/joap-writing-style",
+        "./skills/joap-open-science-and-transparency",
+        "./skills/joap-review-process",
+        "./skills/joap-submission",
+        "./skills/joap-rebuttal"
       ]
     }
   ]

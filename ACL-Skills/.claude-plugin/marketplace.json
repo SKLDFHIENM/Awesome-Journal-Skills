@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/acl-submission",
-        "skills/acl-author-response",
-        "skills/acl-camera-ready",
-        "skills/acl-artifact-evaluation",
-        "skills/acl-reproducibility",
-        "skills/acl-supplementary",
-        "skills/acl-review-process",
-        "skills/acl-writing-style",
-        "skills/acl-related-work",
-        "skills/acl-experiments",
-        "skills/acl-workflow",
-        "skills/acl-topic-selection"
+        "./skills/acl-submission",
+        "./skills/acl-author-response",
+        "./skills/acl-camera-ready",
+        "./skills/acl-artifact-evaluation",
+        "./skills/acl-reproducibility",
+        "./skills/acl-supplementary",
+        "./skills/acl-review-process",
+        "./skills/acl-writing-style",
+        "./skills/acl-related-work",
+        "./skills/acl-experiments",
+        "./skills/acl-workflow",
+        "./skills/acl-topic-selection"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/wacv-submission",
-        "skills/wacv-author-response",
-        "skills/wacv-camera-ready",
-        "skills/wacv-artifact-evaluation",
-        "skills/wacv-reproducibility",
-        "skills/wacv-supplementary",
-        "skills/wacv-review-process",
-        "skills/wacv-writing-style",
-        "skills/wacv-related-work",
-        "skills/wacv-experiments",
-        "skills/wacv-workflow",
-        "skills/wacv-topic-selection"
+        "./skills/wacv-submission",
+        "./skills/wacv-author-response",
+        "./skills/wacv-camera-ready",
+        "./skills/wacv-artifact-evaluation",
+        "./skills/wacv-reproducibility",
+        "./skills/wacv-supplementary",
+        "./skills/wacv-review-process",
+        "./skills/wacv-writing-style",
+        "./skills/wacv-related-work",
+        "./skills/wacv-experiments",
+        "./skills/wacv-workflow",
+        "./skills/wacv-topic-selection"
       ]
     }
   ]

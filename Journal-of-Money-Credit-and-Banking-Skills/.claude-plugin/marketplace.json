@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jmcb-skills",
-      "repository": "https://github.com/brycewang-stanford/jmcb-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jmcb",
         "journal-of-money-credit-and-banking",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jmcb-workflow",
-        "skills/jmcb-topic-selection",
-        "skills/jmcb-literature-positioning",
-        "skills/jmcb-identification",
-        "skills/jmcb-empirical-design",
-        "skills/jmcb-robustness",
-        "skills/jmcb-tables-figures",
-        "skills/jmcb-internet-appendix",
-        "skills/jmcb-writing-style",
-        "skills/jmcb-submission",
-        "skills/jmcb-referee-strategy",
-        "skills/jmcb-rebuttal"
+        "./skills/jmcb-workflow",
+        "./skills/jmcb-topic-selection",
+        "./skills/jmcb-literature-positioning",
+        "./skills/jmcb-identification",
+        "./skills/jmcb-empirical-design",
+        "./skills/jmcb-robustness",
+        "./skills/jmcb-tables-figures",
+        "./skills/jmcb-internet-appendix",
+        "./skills/jmcb-writing-style",
+        "./skills/jmcb-submission",
+        "./skills/jmcb-referee-strategy",
+        "./skills/jmcb-rebuttal"
       ]
     }
   ]

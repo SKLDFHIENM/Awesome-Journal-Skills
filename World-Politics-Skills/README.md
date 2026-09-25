@@ -82,7 +82,7 @@ HTTP 403 to automated fetches; **verify on the official journal page.**
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/wp-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install wp-skills
 /reload-plugins
 ```
@@ -90,8 +90,8 @@ HTTP 403 to automated fetches; **verify on the official journal page.**
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/wp-skills.git
-cd wp-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/World-Politics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/wp-* ~/.claude/skills/
 # or

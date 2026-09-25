@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aes-submission",
-        "skills/aes-author-response",
-        "skills/aes-camera-ready",
-        "skills/aes-artifact-evaluation",
-        "skills/aes-reproducibility",
-        "skills/aes-supplementary",
-        "skills/aes-review-process",
-        "skills/aes-writing-style",
-        "skills/aes-related-work",
-        "skills/aes-experiments",
-        "skills/aes-workflow",
-        "skills/aes-topic-selection"
+        "./skills/aes-submission",
+        "./skills/aes-author-response",
+        "./skills/aes-camera-ready",
+        "./skills/aes-artifact-evaluation",
+        "./skills/aes-reproducibility",
+        "./skills/aes-supplementary",
+        "./skills/aes-review-process",
+        "./skills/aes-writing-style",
+        "./skills/aes-related-work",
+        "./skills/aes-experiments",
+        "./skills/aes-workflow",
+        "./skills/aes-topic-selection"
       ]
     }
   ]

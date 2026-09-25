@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/annual-review-of-economics-skills",
-      "repository": "https://github.com/brycewang-stanford/annual-review-of-economics-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "arecon",
         "annual-review-of-economics",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/arecon-workflow",
-        "skills/arecon-topic-selection",
-        "skills/arecon-proposal-framing",
-        "skills/arecon-literature-synthesis",
-        "skills/arecon-organizing-framework",
-        "skills/arecon-evidence-standards",
-        "skills/arecon-tables-figures",
-        "skills/arecon-writing-style",
-        "skills/arecon-editor-strategy",
-        "skills/arecon-submission",
-        "skills/arecon-review-process",
-        "skills/arecon-revision"
+        "./skills/arecon-workflow",
+        "./skills/arecon-topic-selection",
+        "./skills/arecon-proposal-framing",
+        "./skills/arecon-literature-synthesis",
+        "./skills/arecon-organizing-framework",
+        "./skills/arecon-evidence-standards",
+        "./skills/arecon-tables-figures",
+        "./skills/arecon-writing-style",
+        "./skills/arecon-editor-strategy",
+        "./skills/arecon-submission",
+        "./skills/arecon-review-process",
+        "./skills/arecon-revision"
       ]
     }
   ]

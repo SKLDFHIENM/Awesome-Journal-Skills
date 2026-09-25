@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/vldb-submission",
-        "skills/vldb-author-response",
-        "skills/vldb-camera-ready",
-        "skills/vldb-artifact-evaluation",
-        "skills/vldb-reproducibility",
-        "skills/vldb-supplementary",
-        "skills/vldb-review-process",
-        "skills/vldb-writing-style",
-        "skills/vldb-related-work",
-        "skills/vldb-experiments",
-        "skills/vldb-workflow",
-        "skills/vldb-topic-selection"
+        "./skills/vldb-submission",
+        "./skills/vldb-author-response",
+        "./skills/vldb-camera-ready",
+        "./skills/vldb-artifact-evaluation",
+        "./skills/vldb-reproducibility",
+        "./skills/vldb-supplementary",
+        "./skills/vldb-review-process",
+        "./skills/vldb-writing-style",
+        "./skills/vldb-related-work",
+        "./skills/vldb-experiments",
+        "./skills/vldb-workflow",
+        "./skills/vldb-topic-selection"
       ]
     }
   ]

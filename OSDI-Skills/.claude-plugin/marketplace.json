@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/osdi-submission",
-        "skills/osdi-author-response",
-        "skills/osdi-camera-ready",
-        "skills/osdi-artifact-evaluation",
-        "skills/osdi-reproducibility",
-        "skills/osdi-supplementary",
-        "skills/osdi-review-process",
-        "skills/osdi-writing-style",
-        "skills/osdi-related-work",
-        "skills/osdi-experiments",
-        "skills/osdi-workflow",
-        "skills/osdi-topic-selection"
+        "./skills/osdi-submission",
+        "./skills/osdi-author-response",
+        "./skills/osdi-camera-ready",
+        "./skills/osdi-artifact-evaluation",
+        "./skills/osdi-reproducibility",
+        "./skills/osdi-supplementary",
+        "./skills/osdi-review-process",
+        "./skills/osdi-writing-style",
+        "./skills/osdi-related-work",
+        "./skills/osdi-experiments",
+        "./skills/osdi-workflow",
+        "./skills/osdi-topic-selection"
       ]
     }
   ]

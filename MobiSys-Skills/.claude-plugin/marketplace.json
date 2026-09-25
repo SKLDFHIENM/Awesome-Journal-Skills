@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/mobisys-submission",
-        "skills/mobisys-author-response",
-        "skills/mobisys-camera-ready",
-        "skills/mobisys-artifact-evaluation",
-        "skills/mobisys-reproducibility",
-        "skills/mobisys-supplementary",
-        "skills/mobisys-review-process",
-        "skills/mobisys-writing-style",
-        "skills/mobisys-related-work",
-        "skills/mobisys-experiments",
-        "skills/mobisys-workflow",
-        "skills/mobisys-topic-selection"
+        "./skills/mobisys-submission",
+        "./skills/mobisys-author-response",
+        "./skills/mobisys-camera-ready",
+        "./skills/mobisys-artifact-evaluation",
+        "./skills/mobisys-reproducibility",
+        "./skills/mobisys-supplementary",
+        "./skills/mobisys-review-process",
+        "./skills/mobisys-writing-style",
+        "./skills/mobisys-related-work",
+        "./skills/mobisys-experiments",
+        "./skills/mobisys-workflow",
+        "./skills/mobisys-topic-selection"
       ]
     }
   ]

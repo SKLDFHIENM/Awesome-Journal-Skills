@@ -71,7 +71,7 @@ rules rather than a generic open-data recipe.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ajps-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ajps-skills
 /reload-plugins
 ```
@@ -79,8 +79,8 @@ rules rather than a generic open-data recipe.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/ajps-skills.git
-cd ajps-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/American-Journal-of-Political-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ajps-* ~/.claude/skills/
 # or

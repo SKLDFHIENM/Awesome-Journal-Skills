@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aas-submission",
-        "skills/aas-author-response",
-        "skills/aas-camera-ready",
-        "skills/aas-artifact-evaluation",
-        "skills/aas-reproducibility",
-        "skills/aas-supplementary",
-        "skills/aas-review-process",
-        "skills/aas-writing-style",
-        "skills/aas-related-work",
-        "skills/aas-experiments",
-        "skills/aas-workflow",
-        "skills/aas-topic-selection"
+        "./skills/aas-submission",
+        "./skills/aas-author-response",
+        "./skills/aas-camera-ready",
+        "./skills/aas-artifact-evaluation",
+        "./skills/aas-reproducibility",
+        "./skills/aas-supplementary",
+        "./skills/aas-review-process",
+        "./skills/aas-writing-style",
+        "./skills/aas-related-work",
+        "./skills/aas-experiments",
+        "./skills/aas-workflow",
+        "./skills/aas-topic-selection"
       ]
     }
   ]

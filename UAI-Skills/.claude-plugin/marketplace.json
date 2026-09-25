@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/uai-submission",
-        "skills/uai-author-response",
-        "skills/uai-camera-ready",
-        "skills/uai-artifact-evaluation",
-        "skills/uai-reproducibility",
-        "skills/uai-supplementary",
-        "skills/uai-review-process",
-        "skills/uai-writing-style",
-        "skills/uai-related-work",
-        "skills/uai-experiments",
-        "skills/uai-workflow",
-        "skills/uai-topic-selection"
+        "./skills/uai-submission",
+        "./skills/uai-author-response",
+        "./skills/uai-camera-ready",
+        "./skills/uai-artifact-evaluation",
+        "./skills/uai-reproducibility",
+        "./skills/uai-supplementary",
+        "./skills/uai-review-process",
+        "./skills/uai-writing-style",
+        "./skills/uai-related-work",
+        "./skills/uai-experiments",
+        "./skills/uai-workflow",
+        "./skills/uai-topic-selection"
       ]
     }
   ]

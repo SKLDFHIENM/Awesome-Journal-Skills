@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/joe-skills",
-      "repository": "https://github.com/brycewang-stanford/joe-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-econometrics",
         "joe",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/joe-workflow",
-        "skills/joe-topic-selection",
-        "skills/joe-literature-positioning",
-        "skills/joe-identification-strategy",
-        "skills/joe-data-analysis",
-        "skills/joe-contribution-framing",
-        "skills/joe-tables-figures",
-        "skills/joe-writing-style",
-        "skills/joe-replication-and-data-policy",
-        "skills/joe-review-process",
-        "skills/joe-submission",
-        "skills/joe-rebuttal"
+        "./skills/joe-workflow",
+        "./skills/joe-topic-selection",
+        "./skills/joe-literature-positioning",
+        "./skills/joe-identification-strategy",
+        "./skills/joe-data-analysis",
+        "./skills/joe-contribution-framing",
+        "./skills/joe-tables-figures",
+        "./skills/joe-writing-style",
+        "./skills/joe-replication-and-data-policy",
+        "./skills/joe-review-process",
+        "./skills/joe-submission",
+        "./skills/joe-rebuttal"
       ]
     }
   ]

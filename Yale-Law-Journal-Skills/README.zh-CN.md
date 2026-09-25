@@ -57,7 +57,7 @@ YLJ 的约束既不同于同行评审期刊，也不同于其他法律评论：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/yale-law-journal-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install yale-law-journal-skills
 /reload-plugins
 ```
@@ -65,8 +65,8 @@ YLJ 的约束既不同于同行评审期刊，也不同于其他法律评论：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/yale-law-journal-skills.git
-cd yale-law-journal-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Yale-Law-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ylj-* ~/.claude/skills/
 # 或

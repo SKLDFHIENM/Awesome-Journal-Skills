@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jom-skills",
-      "repository": "https://github.com/brycewang-stanford/jom-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-operations-management",
         "jom",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jom-workflow",
-        "skills/jom-topic-selection",
-        "skills/jom-theory-development",
-        "skills/jom-literature-positioning",
-        "skills/jom-methods",
-        "skills/jom-data-analysis",
-        "skills/jom-contribution-framing",
-        "skills/jom-tables-figures",
-        "skills/jom-writing-style",
-        "skills/jom-submission",
-        "skills/jom-review-process",
-        "skills/jom-rebuttal"
+        "./skills/jom-workflow",
+        "./skills/jom-topic-selection",
+        "./skills/jom-theory-development",
+        "./skills/jom-literature-positioning",
+        "./skills/jom-methods",
+        "./skills/jom-data-analysis",
+        "./skills/jom-contribution-framing",
+        "./skills/jom-tables-figures",
+        "./skills/jom-writing-style",
+        "./skills/jom-submission",
+        "./skills/jom-review-process",
+        "./skills/jom-rebuttal"
       ]
     }
   ]

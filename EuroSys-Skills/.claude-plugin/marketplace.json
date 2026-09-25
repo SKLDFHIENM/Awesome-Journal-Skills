@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/eurosys-submission",
-        "skills/eurosys-author-response",
-        "skills/eurosys-camera-ready",
-        "skills/eurosys-artifact-evaluation",
-        "skills/eurosys-reproducibility",
-        "skills/eurosys-supplementary",
-        "skills/eurosys-review-process",
-        "skills/eurosys-writing-style",
-        "skills/eurosys-related-work",
-        "skills/eurosys-experiments",
-        "skills/eurosys-workflow",
-        "skills/eurosys-topic-selection"
+        "./skills/eurosys-submission",
+        "./skills/eurosys-author-response",
+        "./skills/eurosys-camera-ready",
+        "./skills/eurosys-artifact-evaluation",
+        "./skills/eurosys-reproducibility",
+        "./skills/eurosys-supplementary",
+        "./skills/eurosys-review-process",
+        "./skills/eurosys-writing-style",
+        "./skills/eurosys-related-work",
+        "./skills/eurosys-experiments",
+        "./skills/eurosys-workflow",
+        "./skills/eurosys-topic-selection"
       ]
     }
   ]

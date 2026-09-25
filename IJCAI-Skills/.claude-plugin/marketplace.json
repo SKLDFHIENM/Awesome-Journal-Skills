@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ijcai-submission",
-        "skills/ijcai-author-response",
-        "skills/ijcai-camera-ready",
-        "skills/ijcai-artifact-evaluation",
-        "skills/ijcai-reproducibility",
-        "skills/ijcai-supplementary",
-        "skills/ijcai-review-process",
-        "skills/ijcai-writing-style",
-        "skills/ijcai-related-work",
-        "skills/ijcai-experiments",
-        "skills/ijcai-workflow",
-        "skills/ijcai-topic-selection"
+        "./skills/ijcai-submission",
+        "./skills/ijcai-author-response",
+        "./skills/ijcai-camera-ready",
+        "./skills/ijcai-artifact-evaluation",
+        "./skills/ijcai-reproducibility",
+        "./skills/ijcai-supplementary",
+        "./skills/ijcai-review-process",
+        "./skills/ijcai-writing-style",
+        "./skills/ijcai-related-work",
+        "./skills/ijcai-experiments",
+        "./skills/ijcai-workflow",
+        "./skills/ijcai-topic-selection"
       ]
     }
   ]

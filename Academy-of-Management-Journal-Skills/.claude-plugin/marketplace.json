@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/amj-skills",
-      "repository": "https://github.com/brycewang-stanford/amj-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "academy-of-management-journal",
         "amj",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/amj-workflow",
-        "skills/amj-topic-selection",
-        "skills/amj-theory-development",
-        "skills/amj-literature-positioning",
-        "skills/amj-methods",
-        "skills/amj-data-analysis",
-        "skills/amj-contribution-framing",
-        "skills/amj-tables-figures",
-        "skills/amj-writing-style",
-        "skills/amj-submission",
-        "skills/amj-review-process",
-        "skills/amj-rebuttal"
+        "./skills/amj-workflow",
+        "./skills/amj-topic-selection",
+        "./skills/amj-theory-development",
+        "./skills/amj-literature-positioning",
+        "./skills/amj-methods",
+        "./skills/amj-data-analysis",
+        "./skills/amj-contribution-framing",
+        "./skills/amj-tables-figures",
+        "./skills/amj-writing-style",
+        "./skills/amj-submission",
+        "./skills/amj-review-process",
+        "./skills/amj-rebuttal"
       ]
     }
   ]

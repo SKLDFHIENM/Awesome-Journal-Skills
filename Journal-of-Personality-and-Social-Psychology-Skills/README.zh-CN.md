@@ -58,7 +58,7 @@ JPSP 的约束与短报告刊截然不同：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpsp-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpsp-skills
 /reload-plugins
 ```
@@ -66,8 +66,8 @@ JPSP 的约束与短报告刊截然不同：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpsp-skills.git
-cd jpsp-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Personality-and-Social-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpsp-* ~/.claude/skills/
 # 或

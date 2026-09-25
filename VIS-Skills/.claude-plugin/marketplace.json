@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/vis-submission",
-        "skills/vis-author-response",
-        "skills/vis-camera-ready",
-        "skills/vis-artifact-evaluation",
-        "skills/vis-reproducibility",
-        "skills/vis-supplementary",
-        "skills/vis-review-process",
-        "skills/vis-writing-style",
-        "skills/vis-related-work",
-        "skills/vis-experiments",
-        "skills/vis-workflow",
-        "skills/vis-topic-selection"
+        "./skills/vis-submission",
+        "./skills/vis-author-response",
+        "./skills/vis-camera-ready",
+        "./skills/vis-artifact-evaluation",
+        "./skills/vis-reproducibility",
+        "./skills/vis-supplementary",
+        "./skills/vis-review-process",
+        "./skills/vis-writing-style",
+        "./skills/vis-related-work",
+        "./skills/vis-experiments",
+        "./skills/vis-workflow",
+        "./skills/vis-topic-selection"
       ]
     }
   ]

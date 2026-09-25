@@ -45,7 +45,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/isr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install isr-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/isr-skills.git
-cd isr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Information-Systems-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/isr-* ~/.claude/skills/
 # 或

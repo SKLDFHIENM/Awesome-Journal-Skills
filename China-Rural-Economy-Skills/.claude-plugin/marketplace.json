@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/china-rural-economy-skills",
-      "repository": "https://github.com/brycewang-stanford/china-rural-economy-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "china-rural-economy",
         "zhongguo-nongcun-jingji",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cre-workflow",
-        "skills/cre-topic-selection",
-        "skills/cre-literature-review",
-        "skills/cre-identification",
-        "skills/cre-mechanism",
-        "skills/cre-heterogeneity",
-        "skills/cre-tables-figures",
-        "skills/cre-policy-implication",
-        "skills/cre-abstract",
-        "skills/cre-style",
-        "skills/cre-submission",
-        "skills/cre-rebuttal"
+        "./skills/cre-workflow",
+        "./skills/cre-topic-selection",
+        "./skills/cre-literature-review",
+        "./skills/cre-identification",
+        "./skills/cre-mechanism",
+        "./skills/cre-heterogeneity",
+        "./skills/cre-tables-figures",
+        "./skills/cre-policy-implication",
+        "./skills/cre-abstract",
+        "./skills/cre-style",
+        "./skills/cre-submission",
+        "./skills/cre-rebuttal"
       ]
     }
   ]

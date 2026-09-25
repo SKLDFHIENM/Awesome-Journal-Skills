@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/socc-submission",
-        "skills/socc-author-response",
-        "skills/socc-camera-ready",
-        "skills/socc-artifact-evaluation",
-        "skills/socc-reproducibility",
-        "skills/socc-supplementary",
-        "skills/socc-review-process",
-        "skills/socc-writing-style",
-        "skills/socc-related-work",
-        "skills/socc-experiments",
-        "skills/socc-workflow",
-        "skills/socc-topic-selection"
+        "./skills/socc-submission",
+        "./skills/socc-author-response",
+        "./skills/socc-camera-ready",
+        "./skills/socc-artifact-evaluation",
+        "./skills/socc-reproducibility",
+        "./skills/socc-supplementary",
+        "./skills/socc-review-process",
+        "./skills/socc-writing-style",
+        "./skills/socc-related-work",
+        "./skills/socc-experiments",
+        "./skills/socc-workflow",
+        "./skills/socc-topic-selection"
       ]
     }
   ]

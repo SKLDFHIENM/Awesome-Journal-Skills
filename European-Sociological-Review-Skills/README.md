@@ -58,7 +58,7 @@ ESR's constraints differ from a general or US-sociology journal:
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/european-sociological-review-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install european-sociological-review-skills
 /reload-plugins
 ```
@@ -66,8 +66,8 @@ ESR's constraints differ from a general or US-sociology journal:
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/european-sociological-review-skills.git
-cd european-sociological-review-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/European-Sociological-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/eursr-* ~/.claude/skills/
 # or

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/rss-submission",
-        "skills/rss-author-response",
-        "skills/rss-camera-ready",
-        "skills/rss-artifact-evaluation",
-        "skills/rss-reproducibility",
-        "skills/rss-supplementary",
-        "skills/rss-review-process",
-        "skills/rss-writing-style",
-        "skills/rss-related-work",
-        "skills/rss-experiments",
-        "skills/rss-workflow",
-        "skills/rss-topic-selection"
+        "./skills/rss-submission",
+        "./skills/rss-author-response",
+        "./skills/rss-camera-ready",
+        "./skills/rss-artifact-evaluation",
+        "./skills/rss-reproducibility",
+        "./skills/rss-supplementary",
+        "./skills/rss-review-process",
+        "./skills/rss-writing-style",
+        "./skills/rss-related-work",
+        "./skills/rss-experiments",
+        "./skills/rss-workflow",
+        "./skills/rss-topic-selection"
       ]
     }
   ]

@@ -50,7 +50,7 @@ NM&S 的约束不同于单一学科期刊或定量传播学期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/new-media-and-society-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install new-media-and-society-skills
 /reload-plugins
 ```
@@ -58,8 +58,8 @@ NM&S 的约束不同于单一学科期刊或定量传播学期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/new-media-and-society-skills.git
-cd new-media-and-society-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/New-Media-and-Society-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/newms-* ~/.claude/skills/
 # 或

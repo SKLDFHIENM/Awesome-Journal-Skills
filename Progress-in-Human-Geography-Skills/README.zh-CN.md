@@ -57,7 +57,7 @@ PiHG 的约束与实证人文地理期刊截然不同：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/phg-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install phg-skills
 /reload-plugins
 ```
@@ -65,8 +65,8 @@ PiHG 的约束与实证人文地理期刊截然不同：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/phg-skills.git
-cd phg-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Progress-in-Human-Geography-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/phg-* ~/.claude/skills/
 # 或

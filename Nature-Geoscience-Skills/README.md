@@ -44,7 +44,7 @@ Generic "scientific writing" packs do not address the broad-interest desk-triage
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ngeo-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ngeo-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" packs do not address the broad-interest desk-triage
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/ngeo-skills.git
-cd ngeo-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Nature-Geoscience-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ngeo-* ~/.claude/skills/
 # or

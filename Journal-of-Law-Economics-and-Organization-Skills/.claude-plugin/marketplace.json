@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jleo-skills",
-      "repository": "https://github.com/brycewang-stanford/jleo-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jleo",
         "journal-of-law-economics-and-organization",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jleo-workflow",
-        "skills/jleo-topic-selection",
-        "skills/jleo-literature-positioning",
-        "skills/jleo-identification",
-        "skills/jleo-theory-model",
-        "skills/jleo-robustness",
-        "skills/jleo-tables-figures",
-        "skills/jleo-writing-style",
-        "skills/jleo-replication-package",
-        "skills/jleo-referee-strategy",
-        "skills/jleo-submission",
-        "skills/jleo-rebuttal"
+        "./skills/jleo-workflow",
+        "./skills/jleo-topic-selection",
+        "./skills/jleo-literature-positioning",
+        "./skills/jleo-identification",
+        "./skills/jleo-theory-model",
+        "./skills/jleo-robustness",
+        "./skills/jleo-tables-figures",
+        "./skills/jleo-writing-style",
+        "./skills/jleo-replication-package",
+        "./skills/jleo-referee-strategy",
+        "./skills/jleo-submission",
+        "./skills/jleo-rebuttal"
       ]
     }
   ]

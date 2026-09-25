@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/mgsci-skills",
-      "repository": "https://github.com/brycewang-stanford/mgsci-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "management-science",
         "informs",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/mgsci-workflow",
-        "skills/mgsci-topic-selection",
-        "skills/mgsci-theory-development",
-        "skills/mgsci-literature-positioning",
-        "skills/mgsci-methods",
-        "skills/mgsci-data-analysis",
-        "skills/mgsci-contribution-framing",
-        "skills/mgsci-tables-figures",
-        "skills/mgsci-writing-style",
-        "skills/mgsci-submission",
-        "skills/mgsci-review-process",
-        "skills/mgsci-rebuttal"
+        "./skills/mgsci-workflow",
+        "./skills/mgsci-topic-selection",
+        "./skills/mgsci-theory-development",
+        "./skills/mgsci-literature-positioning",
+        "./skills/mgsci-methods",
+        "./skills/mgsci-data-analysis",
+        "./skills/mgsci-contribution-framing",
+        "./skills/mgsci-tables-figures",
+        "./skills/mgsci-writing-style",
+        "./skills/mgsci-submission",
+        "./skills/mgsci-review-process",
+        "./skills/mgsci-rebuttal"
       ]
     }
   ]

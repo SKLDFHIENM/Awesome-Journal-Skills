@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/psychbull-skills",
-      "repository": "https://github.com/brycewang-stanford/psychbull-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "psychological-bulletin",
         "psychbull",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/psychbull-workflow",
-        "skills/psychbull-topic-selection",
-        "skills/psychbull-literature-search-strategy",
-        "skills/psychbull-inclusion-and-coding",
-        "skills/psychbull-meta-analysis-methods",
-        "skills/psychbull-moderators-and-bias",
-        "skills/psychbull-theory-integration",
-        "skills/psychbull-tables-figures",
-        "skills/psychbull-writing-style",
-        "skills/psychbull-open-science-and-transparency",
-        "skills/psychbull-submission",
-        "skills/psychbull-rebuttal"
+        "./skills/psychbull-workflow",
+        "./skills/psychbull-topic-selection",
+        "./skills/psychbull-literature-search-strategy",
+        "./skills/psychbull-inclusion-and-coding",
+        "./skills/psychbull-meta-analysis-methods",
+        "./skills/psychbull-moderators-and-bias",
+        "./skills/psychbull-theory-integration",
+        "./skills/psychbull-tables-figures",
+        "./skills/psychbull-writing-style",
+        "./skills/psychbull-open-science-and-transparency",
+        "./skills/psychbull-submission",
+        "./skills/psychbull-rebuttal"
       ]
     }
   ]

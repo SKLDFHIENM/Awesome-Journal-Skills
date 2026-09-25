@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Journal](https://img.shields.io/badge/journal-Review%20of%20Educational%20Research-8a5a12)](https://journals.sagepub.com/home/rer)
 [![Index](https://img.shields.io/badge/index-AERA%20%C2%B7%20SAGE-1a1a1a)](https://www.aera.net/Publications/Journals/Review-of-Educational-Research)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-skills-d97757)](https://github.com/brycewang-stanford/review-of-educational-research-skills)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-skills-d97757)](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Review-of-Educational-Research-Skills)
 
 [English](README.md) | 简体中文
 

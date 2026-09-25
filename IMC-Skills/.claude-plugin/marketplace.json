@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/imc-submission",
-        "skills/imc-author-response",
-        "skills/imc-camera-ready",
-        "skills/imc-artifact-evaluation",
-        "skills/imc-reproducibility",
-        "skills/imc-supplementary",
-        "skills/imc-review-process",
-        "skills/imc-writing-style",
-        "skills/imc-related-work",
-        "skills/imc-experiments",
-        "skills/imc-workflow",
-        "skills/imc-topic-selection"
+        "./skills/imc-submission",
+        "./skills/imc-author-response",
+        "./skills/imc-camera-ready",
+        "./skills/imc-artifact-evaluation",
+        "./skills/imc-reproducibility",
+        "./skills/imc-supplementary",
+        "./skills/imc-review-process",
+        "./skills/imc-writing-style",
+        "./skills/imc-related-work",
+        "./skills/imc-experiments",
+        "./skills/imc-workflow",
+        "./skills/imc-topic-selection"
       ]
     }
   ]

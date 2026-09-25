@@ -66,7 +66,7 @@ file prompts.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/conbio-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install conbio-skills
 /reload-plugins
 ```
@@ -74,8 +74,8 @@ file prompts.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/conbio-skills.git
-cd conbio-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Conservation-Biology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/conbio-* ~/.claude/skills/
 # or

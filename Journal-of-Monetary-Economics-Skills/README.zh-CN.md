@@ -45,7 +45,7 @@ JME 的约束与通用 Top-5 期刊或方法类期刊有本质差异：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jme-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jme-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ JME 的约束与通用 Top-5 期刊或方法类期刊有本质差异：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jme-skills.git
-cd jme-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Monetary-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jme-* ~/.claude/skills/
 # 或
@@ -147,7 +147,7 @@ jme-rebuttal                  （"一次定生死"修改回复）
 ## 相关项目
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊专属技能包索引
-- [Quarterly-Journal-of-Economics-Skills](https://github.com/brycewang-stanford/qje-skills) —— QJE 技能包
+- [Quarterly-Journal-of-Economics-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Quarterly-Journal-of-Economics-Skills) —— QJE 技能包
 - [Journal of Monetary Economics（官方）](https://www.sciencedirect.com/journal/journal-of-monetary-economics) —— Elsevier / ScienceDirect
 
 ---

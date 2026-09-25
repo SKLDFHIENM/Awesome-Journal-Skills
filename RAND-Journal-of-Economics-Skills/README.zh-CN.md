@@ -42,7 +42,7 @@ RJE 的约束维度与综合性顶刊（QJE）或方法类期刊（Econometrica�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/rje-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install rje-skills
 /reload-plugins
 ```
@@ -50,8 +50,8 @@ RJE 的约束维度与综合性顶刊（QJE）或方法类期刊（Econometrica�
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/rje-skills.git
-cd rje-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/RAND-Journal-of-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/rje-* ~/.claude/skills/
 # 或

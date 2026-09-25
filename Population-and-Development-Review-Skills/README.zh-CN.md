@@ -58,7 +58,7 @@ PDR 的约束不同于方法导向的人口学期刊或发展经济学期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/population-and-development-review-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install population-and-development-review-skills
 /reload-plugins
 ```
@@ -66,8 +66,8 @@ PDR 的约束不同于方法导向的人口学期刊或发展经济学期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/population-and-development-review-skills.git
-cd population-and-development-review-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Population-and-Development-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/popdevr-* ~/.claude/skills/
 # 或

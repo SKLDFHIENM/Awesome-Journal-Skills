@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icalp-submission",
-        "skills/icalp-author-response",
-        "skills/icalp-camera-ready",
-        "skills/icalp-artifact-evaluation",
-        "skills/icalp-reproducibility",
-        "skills/icalp-supplementary",
-        "skills/icalp-review-process",
-        "skills/icalp-writing-style",
-        "skills/icalp-related-work",
-        "skills/icalp-experiments",
-        "skills/icalp-workflow",
-        "skills/icalp-topic-selection"
+        "./skills/icalp-submission",
+        "./skills/icalp-author-response",
+        "./skills/icalp-camera-ready",
+        "./skills/icalp-artifact-evaluation",
+        "./skills/icalp-reproducibility",
+        "./skills/icalp-supplementary",
+        "./skills/icalp-review-process",
+        "./skills/icalp-writing-style",
+        "./skills/icalp-related-work",
+        "./skills/icalp-experiments",
+        "./skills/icalp-workflow",
+        "./skills/icalp-topic-selection"
       ]
     }
   ]

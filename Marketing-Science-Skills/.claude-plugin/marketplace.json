@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/mksc-skills",
-      "repository": "https://github.com/brycewang-stanford/mksc-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "marketing-science",
         "mksc",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/mksc-workflow",
-        "skills/mksc-topic-selection",
-        "skills/mksc-theory-development",
-        "skills/mksc-literature-positioning",
-        "skills/mksc-methods",
-        "skills/mksc-data-analysis",
-        "skills/mksc-contribution-framing",
-        "skills/mksc-tables-figures",
-        "skills/mksc-writing-style",
-        "skills/mksc-submission",
-        "skills/mksc-review-process",
-        "skills/mksc-rebuttal"
+        "./skills/mksc-workflow",
+        "./skills/mksc-topic-selection",
+        "./skills/mksc-theory-development",
+        "./skills/mksc-literature-positioning",
+        "./skills/mksc-methods",
+        "./skills/mksc-data-analysis",
+        "./skills/mksc-contribution-framing",
+        "./skills/mksc-tables-figures",
+        "./skills/mksc-writing-style",
+        "./skills/mksc-submission",
+        "./skills/mksc-review-process",
+        "./skills/mksc-rebuttal"
       ]
     }
   ]

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/gcb-skills",
-      "repository": "https://github.com/brycewang-stanford/gcb-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "global-change-biology",
         "gcb",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/gcb-workflow",
-        "skills/gcb-topic-selection",
-        "skills/gcb-literature-positioning",
-        "skills/gcb-study-design",
-        "skills/gcb-data-analysis",
-        "skills/gcb-figures-and-tables",
-        "skills/gcb-reporting-and-data-policy",
-        "skills/gcb-writing-style",
-        "skills/gcb-cover-letter",
-        "skills/gcb-review-process",
-        "skills/gcb-submission",
-        "skills/gcb-revision-and-rebuttal"
+        "./skills/gcb-workflow",
+        "./skills/gcb-topic-selection",
+        "./skills/gcb-literature-positioning",
+        "./skills/gcb-study-design",
+        "./skills/gcb-data-analysis",
+        "./skills/gcb-figures-and-tables",
+        "./skills/gcb-reporting-and-data-policy",
+        "./skills/gcb-writing-style",
+        "./skills/gcb-cover-letter",
+        "./skills/gcb-review-process",
+        "./skills/gcb-submission",
+        "./skills/gcb-revision-and-rebuttal"
       ]
     }
   ]

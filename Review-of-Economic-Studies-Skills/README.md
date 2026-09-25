@@ -44,7 +44,7 @@ Generic "scientific writing" or "economics writing" skill packs do not address t
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/restud-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install restud-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" or "economics writing" skill packs do not address t
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/restud-skills.git
-cd restud-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Review-of-Economic-Studies-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/restud-* ~/.claude/skills/
 # or
@@ -140,7 +140,7 @@ If the paper is finance-specific (JF / JFE / RFS) or so abstract it is really a 
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
 - [AER-skills](https://github.com/brycewang-stanford/AER-skills) — American Economic Review
-- [qje-skills](https://github.com/brycewang-stanford/qje-skills) — Quarterly Journal of Economics
+- [qje-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Quarterly-Journal-of-Economics-Skills) — Quarterly Journal of Economics
 
 ---
 

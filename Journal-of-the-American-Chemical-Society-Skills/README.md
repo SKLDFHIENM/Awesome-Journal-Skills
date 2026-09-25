@@ -45,7 +45,7 @@ Generic "scientific writing" skill packs do not address these constraints.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jacs-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jacs-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" skill packs do not address these constraints.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jacs-skills.git
-cd jacs-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-the-American-Chemical-Society-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jacs-* ~/.claude/skills/
 # or
@@ -150,7 +150,7 @@ If your advance is narrow in scope, `jacs-scope-fit` will say so and point you t
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) — 《经济研究》 reference pack
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) — 《经济研究》 reference pack
 - [ACS author resources for JACS](https://pubs.acs.org/journal/jacsat) — official guidelines (verify current rules here)
 
 ---

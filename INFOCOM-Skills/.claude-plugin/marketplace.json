@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/infocom-submission",
-        "skills/infocom-author-response",
-        "skills/infocom-camera-ready",
-        "skills/infocom-artifact-evaluation",
-        "skills/infocom-reproducibility",
-        "skills/infocom-supplementary",
-        "skills/infocom-review-process",
-        "skills/infocom-writing-style",
-        "skills/infocom-related-work",
-        "skills/infocom-experiments",
-        "skills/infocom-workflow",
-        "skills/infocom-topic-selection"
+        "./skills/infocom-submission",
+        "./skills/infocom-author-response",
+        "./skills/infocom-camera-ready",
+        "./skills/infocom-artifact-evaluation",
+        "./skills/infocom-reproducibility",
+        "./skills/infocom-supplementary",
+        "./skills/infocom-review-process",
+        "./skills/infocom-writing-style",
+        "./skills/infocom-related-work",
+        "./skills/infocom-experiments",
+        "./skills/infocom-workflow",
+        "./skills/infocom-topic-selection"
       ]
     }
   ]

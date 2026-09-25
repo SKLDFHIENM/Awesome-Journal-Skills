@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/emnlp-submission",
-        "skills/emnlp-author-response",
-        "skills/emnlp-camera-ready",
-        "skills/emnlp-artifact-evaluation",
-        "skills/emnlp-reproducibility",
-        "skills/emnlp-supplementary",
-        "skills/emnlp-review-process",
-        "skills/emnlp-writing-style",
-        "skills/emnlp-related-work",
-        "skills/emnlp-experiments",
-        "skills/emnlp-workflow",
-        "skills/emnlp-topic-selection"
+        "./skills/emnlp-submission",
+        "./skills/emnlp-author-response",
+        "./skills/emnlp-camera-ready",
+        "./skills/emnlp-artifact-evaluation",
+        "./skills/emnlp-reproducibility",
+        "./skills/emnlp-supplementary",
+        "./skills/emnlp-review-process",
+        "./skills/emnlp-writing-style",
+        "./skills/emnlp-related-work",
+        "./skills/emnlp-experiments",
+        "./skills/emnlp-workflow",
+        "./skills/emnlp-topic-selection"
       ]
     }
   ]

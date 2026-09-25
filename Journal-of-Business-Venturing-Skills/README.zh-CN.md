@@ -44,7 +44,7 @@ JBV 的约束与一般管理学或经济学期刊有实质差异：
 ### 方式 A — Claude Code 插件(推荐)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jbv-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jbv-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ JBV 的约束与一般管理学或经济学期刊有实质差异：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jbv-skills.git
-cd jbv-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Business-Venturing-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jbv-* ~/.claude/skills/
 # 或

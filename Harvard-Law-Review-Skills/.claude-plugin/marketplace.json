@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/harvard-law-review-skills",
-      "repository": "https://github.com/brycewang-stanford/harvard-law-review-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "harvard-law-review",
         "hlr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/hlr-workflow",
-        "skills/hlr-topic-selection",
-        "skills/hlr-thesis-and-contribution",
-        "skills/hlr-preemption-check",
-        "skills/hlr-argument-structure",
-        "skills/hlr-sources-and-bluebook",
-        "skills/hlr-writing-style",
-        "skills/hlr-placement-strategy",
-        "skills/hlr-student-editor-review",
-        "skills/hlr-submission",
-        "skills/hlr-revision-and-editing",
-        "skills/hlr-footnotes-and-cite-check"
+        "./skills/hlr-workflow",
+        "./skills/hlr-topic-selection",
+        "./skills/hlr-thesis-and-contribution",
+        "./skills/hlr-preemption-check",
+        "./skills/hlr-argument-structure",
+        "./skills/hlr-sources-and-bluebook",
+        "./skills/hlr-writing-style",
+        "./skills/hlr-placement-strategy",
+        "./skills/hlr-student-editor-review",
+        "./skills/hlr-submission",
+        "./skills/hlr-revision-and-editing",
+        "./skills/hlr-footnotes-and-cite-check"
       ]
     }
   ]

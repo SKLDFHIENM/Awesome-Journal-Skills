@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/new-media-and-society-skills",
-      "repository": "https://github.com/brycewang-stanford/new-media-and-society-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "new-media-and-society",
         "nms",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/newms-workflow",
-        "skills/newms-topic-selection",
-        "skills/newms-literature-positioning",
-        "skills/newms-theory-building",
-        "skills/newms-research-design",
-        "skills/newms-data-analysis",
-        "skills/newms-tables-figures",
-        "skills/newms-writing-style",
-        "skills/newms-transparency-and-data",
-        "skills/newms-review-process",
-        "skills/newms-submission",
-        "skills/newms-rebuttal"
+        "./skills/newms-workflow",
+        "./skills/newms-topic-selection",
+        "./skills/newms-literature-positioning",
+        "./skills/newms-theory-building",
+        "./skills/newms-research-design",
+        "./skills/newms-data-analysis",
+        "./skills/newms-tables-figures",
+        "./skills/newms-writing-style",
+        "./skills/newms-transparency-and-data",
+        "./skills/newms-review-process",
+        "./skills/newms-submission",
+        "./skills/newms-rebuttal"
       ]
     }
   ]

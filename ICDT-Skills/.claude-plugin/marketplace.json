@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icdt-submission",
-        "skills/icdt-author-response",
-        "skills/icdt-camera-ready",
-        "skills/icdt-artifact-evaluation",
-        "skills/icdt-reproducibility",
-        "skills/icdt-supplementary",
-        "skills/icdt-review-process",
-        "skills/icdt-writing-style",
-        "skills/icdt-related-work",
-        "skills/icdt-experiments",
-        "skills/icdt-workflow",
-        "skills/icdt-topic-selection"
+        "./skills/icdt-submission",
+        "./skills/icdt-author-response",
+        "./skills/icdt-camera-ready",
+        "./skills/icdt-artifact-evaluation",
+        "./skills/icdt-reproducibility",
+        "./skills/icdt-supplementary",
+        "./skills/icdt-review-process",
+        "./skills/icdt-writing-style",
+        "./skills/icdt-related-work",
+        "./skills/icdt-experiments",
+        "./skills/icdt-workflow",
+        "./skills/icdt-topic-selection"
       ]
     }
   ]

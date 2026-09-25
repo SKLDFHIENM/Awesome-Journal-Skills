@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jape-skills",
-      "repository": "https://github.com/brycewang-stanford/jape-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-applied-econometrics",
         "jae",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jape-workflow",
-        "skills/jape-topic-selection",
-        "skills/jape-literature-positioning",
-        "skills/jape-contribution-framing",
-        "skills/jape-identification-strategy",
-        "skills/jape-data-analysis",
-        "skills/jape-tables-figures",
-        "skills/jape-writing-style",
-        "skills/jape-replication-and-data-policy",
-        "skills/jape-review-process",
-        "skills/jape-submission",
-        "skills/jape-rebuttal"
+        "./skills/jape-workflow",
+        "./skills/jape-topic-selection",
+        "./skills/jape-literature-positioning",
+        "./skills/jape-contribution-framing",
+        "./skills/jape-identification-strategy",
+        "./skills/jape-data-analysis",
+        "./skills/jape-tables-figures",
+        "./skills/jape-writing-style",
+        "./skills/jape-replication-and-data-policy",
+        "./skills/jape-review-process",
+        "./skills/jape-submission",
+        "./skills/jape-rebuttal"
       ]
     }
   ]

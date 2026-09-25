@@ -43,7 +43,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/chinese-public-administration-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install chinese-public-administration-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/chinese-public-administration-skills.git
-cd chinese-public-administration-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Chinese-Public-Administration-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cpa-* ~/.claude/skills/
 # 或
@@ -147,8 +147,8 @@ cpa-rebuttal
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》投稿工具栈
-- [management-world-skills](https://github.com/brycewang-stanford/management-world-skills) —— 《管理世界》投稿工具栈
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》投稿工具栈
+- [management-world-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Journal-of-Management-World-Skills) —— 《管理世界》投稿工具栈
 
 ---
 

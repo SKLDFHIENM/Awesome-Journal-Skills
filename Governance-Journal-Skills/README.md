@@ -72,7 +72,7 @@ official 9,000 as the working cap and see the **待核实** note on the discrepa
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/governance-journal-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install governance-journal-skills
 /reload-plugins
 ```
@@ -80,8 +80,8 @@ official 9,000 as the working cap and see the **待核实** note on the discrepa
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/governance-journal-skills.git
-cd governance-journal-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Governance-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/govern-* ~/.claude/skills/
 # or

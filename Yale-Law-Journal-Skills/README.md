@@ -61,7 +61,7 @@ directly confirmed are marked **待核实** in [`resources/official-source-map.m
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/yale-law-journal-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install yale-law-journal-skills
 /reload-plugins
 ```
@@ -69,8 +69,8 @@ directly confirmed are marked **待核实** in [`resources/official-source-map.m
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/yale-law-journal-skills.git
-cd yale-law-journal-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Yale-Law-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ylj-* ~/.claude/skills/
 # or

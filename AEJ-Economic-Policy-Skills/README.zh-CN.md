@@ -54,7 +54,7 @@ AEJ: Policy 的约束与领域型公共经济学期刊、其他 AEJ 子刊及 AE
 ### 作为 Claude Code 插件
 
 ```
-/plugin marketplace add brycewang-stanford/aej-economic-policy-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install aej-economic-policy-skills
 ```
 

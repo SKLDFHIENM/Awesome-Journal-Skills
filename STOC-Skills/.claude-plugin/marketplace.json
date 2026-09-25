@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/stoc-submission",
-        "skills/stoc-author-response",
-        "skills/stoc-camera-ready",
-        "skills/stoc-artifact-evaluation",
-        "skills/stoc-reproducibility",
-        "skills/stoc-supplementary",
-        "skills/stoc-review-process",
-        "skills/stoc-writing-style",
-        "skills/stoc-related-work",
-        "skills/stoc-experiments",
-        "skills/stoc-workflow",
-        "skills/stoc-topic-selection"
+        "./skills/stoc-submission",
+        "./skills/stoc-author-response",
+        "./skills/stoc-camera-ready",
+        "./skills/stoc-artifact-evaluation",
+        "./skills/stoc-reproducibility",
+        "./skills/stoc-supplementary",
+        "./skills/stoc-review-process",
+        "./skills/stoc-writing-style",
+        "./skills/stoc-related-work",
+        "./skills/stoc-experiments",
+        "./skills/stoc-workflow",
+        "./skills/stoc-topic-selection"
       ]
     }
   ]

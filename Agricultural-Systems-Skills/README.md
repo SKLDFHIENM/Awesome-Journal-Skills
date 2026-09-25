@@ -63,7 +63,7 @@ submission-system URL, graphical-abstract specs, and article-type consultation r
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/agsy-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install agsy-skills
 /reload-plugins
 ```
@@ -71,8 +71,8 @@ submission-system URL, graphical-abstract specs, and article-type consultation r
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/agsy-skills.git
-cd agsy-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Agricultural-Systems-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/agsy-* ~/.claude/skills/
 # or

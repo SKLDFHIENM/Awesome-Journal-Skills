@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/smj-skills",
-      "repository": "https://github.com/brycewang-stanford/smj-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "strategic-management-journal",
         "smj",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/smj-workflow",
-        "skills/smj-topic-selection",
-        "skills/smj-theory-development",
-        "skills/smj-literature-positioning",
-        "skills/smj-methods",
-        "skills/smj-data-analysis",
-        "skills/smj-contribution-framing",
-        "skills/smj-tables-figures",
-        "skills/smj-writing-style",
-        "skills/smj-submission",
-        "skills/smj-review-process",
-        "skills/smj-rebuttal"
+        "./skills/smj-workflow",
+        "./skills/smj-topic-selection",
+        "./skills/smj-theory-development",
+        "./skills/smj-literature-positioning",
+        "./skills/smj-methods",
+        "./skills/smj-data-analysis",
+        "./skills/smj-contribution-framing",
+        "./skills/smj-tables-figures",
+        "./skills/smj-writing-style",
+        "./skills/smj-submission",
+        "./skills/smj-review-process",
+        "./skills/smj-rebuttal"
       ]
     }
   ]

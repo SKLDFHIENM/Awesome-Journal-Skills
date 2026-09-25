@@ -64,7 +64,7 @@ PAR's constraints differ from a theory-driven PA journal or a policy-analysis jo
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/public-administration-review-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install public-administration-review-skills
 /reload-plugins
 ```
@@ -72,8 +72,8 @@ PAR's constraints differ from a theory-driven PA journal or a policy-analysis jo
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/public-administration-review-skills.git
-cd public-administration-review-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Public-Administration-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/pubar-* ~/.claude/skills/
 # or

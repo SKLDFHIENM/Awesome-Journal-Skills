@@ -45,7 +45,7 @@ AEJ: Macro 既非综合性旗舰，也非细分领域刊物，其流程含有通
 **作为 Claude Code 插件（推荐）。** 添加市场并安装：
 
 ```
-/plugin marketplace add brycewang-stanford/aej-macroeconomics-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install aej-macroeconomics-skills
 ```
 

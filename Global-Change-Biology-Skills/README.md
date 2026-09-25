@@ -65,7 +65,7 @@ browser immediately before upload.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/gcb-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install gcb-skills
 /reload-plugins
 ```
@@ -73,8 +73,8 @@ browser immediately before upload.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/gcb-skills.git
-cd gcb-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Global-Change-Biology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/gcb-* ~/.claude/skills/
 # or

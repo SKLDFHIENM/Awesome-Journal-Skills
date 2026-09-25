@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ipsn-submission",
-        "skills/ipsn-author-response",
-        "skills/ipsn-camera-ready",
-        "skills/ipsn-artifact-evaluation",
-        "skills/ipsn-reproducibility",
-        "skills/ipsn-supplementary",
-        "skills/ipsn-review-process",
-        "skills/ipsn-writing-style",
-        "skills/ipsn-related-work",
-        "skills/ipsn-experiments",
-        "skills/ipsn-workflow",
-        "skills/ipsn-topic-selection"
+        "./skills/ipsn-submission",
+        "./skills/ipsn-author-response",
+        "./skills/ipsn-camera-ready",
+        "./skills/ipsn-artifact-evaluation",
+        "./skills/ipsn-reproducibility",
+        "./skills/ipsn-supplementary",
+        "./skills/ipsn-review-process",
+        "./skills/ipsn-writing-style",
+        "./skills/ipsn-related-work",
+        "./skills/ipsn-experiments",
+        "./skills/ipsn-workflow",
+        "./skills/ipsn-topic-selection"
       ]
     }
   ]

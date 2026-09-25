@@ -50,7 +50,7 @@ JFI 的约束与综合性顶刊或方法类期刊有实质差异：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jfi-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jfi-skills
 /reload-plugins
 ```
@@ -58,8 +58,8 @@ JFI 的约束与综合性顶刊或方法类期刊有实质差异：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jfi-skills.git
-cd jfi-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Financial-Intermediation-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jfi-* ~/.claude/skills/
 # 或

@@ -110,6 +110,51 @@ class TestHeroAssets(unittest.TestCase):
         self.assertEqual(errors, [])
 
 
+class TestOwnRepoUrls(unittest.TestCase):
+    """Issue #21: install lines must not name repositories that were never created."""
+
+    def run_check(self, name: str, text: str) -> list[str]:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            path = root / "Pack-Skills" / name
+            path.parent.mkdir(parents=True)
+            path.write_text(text, encoding="utf-8")
+            errors: list[str] = []
+            with mock.patch.object(audit_repo, "ROOT", root):
+                audit_repo.check_own_repo_urls(errors)
+            return errors
+
+    def test_the_monorepo_marketplace_passes(self):
+        self.assertEqual(self.run_check(
+            "README.md",
+            "/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills\n"
+            "git clone https://github.com/brycewang-stanford/Awesome-Journal-Skills.git\n"
+            "[x](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/CI-Skills)\n"), [])
+
+    def test_a_standalone_pack_repo_that_does_not_exist_fails(self):
+        errors = self.run_check(
+            "README.md", "/plugin marketplace add https://github.com/brycewang-stanford/ci-skills\n")
+        self.assertEqual(len(errors), 1)
+        self.assertIn("brycewang-stanford/ci-skills", errors[0])
+
+    def test_the_short_owner_slash_repo_form_is_caught(self):
+        self.assertEqual(len(self.run_check(
+            "README.md", "/plugin marketplace add brycewang-stanford/qje-skills\n")), 1)
+
+    def test_manifest_urls_are_checked_and_git_suffix_is_ignored(self):
+        self.assertEqual(len(self.run_check(
+            ".claude-plugin/plugin.json",
+            '{"repository": "https://github.com/brycewang-stanford/ci-skills.git"}')), 1)
+        self.assertEqual(self.run_check(
+            ".claude-plugin/plugin.json",
+            '{"repository": "https://github.com/brycewang-stanford/AER-skills.git"}'), [])
+
+    def test_the_committed_tree_names_only_real_repositories(self):
+        errors: list[str] = []
+        audit_repo.check_own_repo_urls(errors)
+        self.assertEqual(errors, [])
+
+
 class TestReadmeParity(unittest.TestCase):
     """The English README must present the same catalogue as the Chinese one."""
 

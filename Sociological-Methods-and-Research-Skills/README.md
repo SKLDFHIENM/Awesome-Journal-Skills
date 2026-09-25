@@ -71,7 +71,7 @@ page.**
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/sociological-methods-and-research-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install sociological-methods-and-research-skills
 /reload-plugins
 ```
@@ -79,8 +79,8 @@ page.**
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/sociological-methods-and-research-skills.git
-cd sociological-methods-and-research-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Sociological-Methods-and-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/smr-* ~/.claude/skills/
 # or

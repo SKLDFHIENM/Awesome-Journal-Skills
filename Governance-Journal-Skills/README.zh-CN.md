@@ -63,7 +63,7 @@ Administration, and Institutions）** 投稿的 Agent 技能栈。该刊由 **Wi
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/governance-journal-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install governance-journal-skills
 /reload-plugins
 ```
@@ -71,8 +71,8 @@ Administration, and Institutions）** 投稿的 Agent 技能栈。该刊由 **Wi
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/governance-journal-skills.git
-cd governance-journal-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Governance-Journal-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/govern-* ~/.claude/skills/
 # 或

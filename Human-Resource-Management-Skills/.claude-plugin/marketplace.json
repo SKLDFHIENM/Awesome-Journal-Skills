@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/human-resource-management-skills",
-      "repository": "https://github.com/brycewang-stanford/human-resource-management-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "hrm",
         "human-resource-management",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/hrm-workflow",
-        "skills/hrm-topic-selection",
-        "skills/hrm-theory-development",
-        "skills/hrm-literature-positioning",
-        "skills/hrm-methods",
-        "skills/hrm-data-analysis",
-        "skills/hrm-contribution-framing",
-        "skills/hrm-tables-figures",
-        "skills/hrm-writing-style",
-        "skills/hrm-submission",
-        "skills/hrm-review-process",
-        "skills/hrm-rebuttal"
+        "./skills/hrm-workflow",
+        "./skills/hrm-topic-selection",
+        "./skills/hrm-theory-development",
+        "./skills/hrm-literature-positioning",
+        "./skills/hrm-methods",
+        "./skills/hrm-data-analysis",
+        "./skills/hrm-contribution-framing",
+        "./skills/hrm-tables-figures",
+        "./skills/hrm-writing-style",
+        "./skills/hrm-submission",
+        "./skills/hrm-review-process",
+        "./skills/hrm-rebuttal"
       ]
     }
   ]

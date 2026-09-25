@@ -45,7 +45,7 @@ Generic "scientific writing" or "econ writing" packs do not address these constr
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jfqa-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jfqa-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" or "econ writing" packs do not address these constr
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jfqa-skills.git
-cd jfqa-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Financial-and-Quantitative-Analysis-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jfqa-* ~/.claude/skills/
 # or

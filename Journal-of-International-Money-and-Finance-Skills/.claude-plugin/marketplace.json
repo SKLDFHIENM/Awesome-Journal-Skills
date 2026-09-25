@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jimf-skills",
-      "repository": "https://github.com/brycewang-stanford/jimf-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jimf",
         "journal-of-international-money-and-finance",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jimf-workflow",
-        "skills/jimf-topic-selection",
-        "skills/jimf-literature-positioning",
-        "skills/jimf-identification",
-        "skills/jimf-empirical-design",
-        "skills/jimf-robustness",
-        "skills/jimf-tables-figures",
-        "skills/jimf-internet-appendix",
-        "skills/jimf-writing-style",
-        "skills/jimf-submission",
-        "skills/jimf-referee-strategy",
-        "skills/jimf-rebuttal"
+        "./skills/jimf-workflow",
+        "./skills/jimf-topic-selection",
+        "./skills/jimf-literature-positioning",
+        "./skills/jimf-identification",
+        "./skills/jimf-empirical-design",
+        "./skills/jimf-robustness",
+        "./skills/jimf-tables-figures",
+        "./skills/jimf-internet-appendix",
+        "./skills/jimf-writing-style",
+        "./skills/jimf-submission",
+        "./skills/jimf-referee-strategy",
+        "./skills/jimf-rebuttal"
       ]
     }
   ]

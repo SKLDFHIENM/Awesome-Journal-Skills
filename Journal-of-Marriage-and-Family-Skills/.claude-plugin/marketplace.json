@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jmf-skills",
-      "repository": "https://github.com/brycewang-stanford/jmf-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-marriage-and-family",
         "jmf",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jmf-workflow",
-        "skills/jmf-topic-selection",
-        "skills/jmf-literature-positioning",
-        "skills/jmf-theory-and-conceptual-framework",
-        "skills/jmf-research-design",
-        "skills/jmf-data-analysis",
-        "skills/jmf-tables-figures",
-        "skills/jmf-writing-style",
-        "skills/jmf-transparency-and-data-policy",
-        "skills/jmf-review-process",
-        "skills/jmf-submission",
-        "skills/jmf-rebuttal"
+        "./skills/jmf-workflow",
+        "./skills/jmf-topic-selection",
+        "./skills/jmf-literature-positioning",
+        "./skills/jmf-theory-and-conceptual-framework",
+        "./skills/jmf-research-design",
+        "./skills/jmf-data-analysis",
+        "./skills/jmf-tables-figures",
+        "./skills/jmf-writing-style",
+        "./skills/jmf-transparency-and-data-policy",
+        "./skills/jmf-review-process",
+        "./skills/jmf-submission",
+        "./skills/jmf-rebuttal"
       ]
     }
   ]

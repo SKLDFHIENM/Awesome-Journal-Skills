@@ -45,7 +45,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jar-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jar-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jar-skills.git
-cd jar-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Accounting-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jar-* ~/.claude/skills/
 # 或

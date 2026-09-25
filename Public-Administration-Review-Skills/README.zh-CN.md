@@ -61,7 +61,7 @@ PAR 的约束不同于理论导向的 PA 期刊或政策分析期刊：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/public-administration-review-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install public-administration-review-skills
 /reload-plugins
 ```
@@ -69,8 +69,8 @@ PAR 的约束不同于理论导向的 PA 期刊或政策分析期刊：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/public-administration-review-skills.git
-cd public-administration-review-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Public-Administration-Review-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/pubar-* ~/.claude/skills/
 # 或

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jais-skills",
-      "repository": "https://github.com/brycewang-stanford/jais-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jais",
         "journal-of-the-association-for-information-systems",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jais-workflow",
-        "skills/jais-topic-selection",
-        "skills/jais-theory-development",
-        "skills/jais-literature-positioning",
-        "skills/jais-methods",
-        "skills/jais-data-analysis",
-        "skills/jais-contribution-framing",
-        "skills/jais-tables-figures",
-        "skills/jais-writing-style",
-        "skills/jais-submission",
-        "skills/jais-review-process",
-        "skills/jais-rebuttal"
+        "./skills/jais-workflow",
+        "./skills/jais-topic-selection",
+        "./skills/jais-theory-development",
+        "./skills/jais-literature-positioning",
+        "./skills/jais-methods",
+        "./skills/jais-data-analysis",
+        "./skills/jais-contribution-framing",
+        "./skills/jais-tables-figures",
+        "./skills/jais-writing-style",
+        "./skills/jais-submission",
+        "./skills/jais-review-process",
+        "./skills/jais-rebuttal"
       ]
     }
   ]

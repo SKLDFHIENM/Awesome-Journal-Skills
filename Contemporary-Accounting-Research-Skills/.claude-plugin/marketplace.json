@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/car-skills",
-      "repository": "https://github.com/brycewang-stanford/car-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "contemporary-accounting-research",
         "car",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/car-workflow",
-        "skills/car-topic-selection",
-        "skills/car-theory-development",
-        "skills/car-literature-positioning",
-        "skills/car-methods",
-        "skills/car-data-analysis",
-        "skills/car-contribution-framing",
-        "skills/car-tables-figures",
-        "skills/car-writing-style",
-        "skills/car-submission",
-        "skills/car-review-process",
-        "skills/car-rebuttal"
+        "./skills/car-workflow",
+        "./skills/car-topic-selection",
+        "./skills/car-theory-development",
+        "./skills/car-literature-positioning",
+        "./skills/car-methods",
+        "./skills/car-data-analysis",
+        "./skills/car-contribution-framing",
+        "./skills/car-tables-figures",
+        "./skills/car-writing-style",
+        "./skills/car-submission",
+        "./skills/car-review-process",
+        "./skills/car-rebuttal"
       ]
     }
   ]

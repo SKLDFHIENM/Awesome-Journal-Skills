@@ -65,7 +65,7 @@ word/page cap or abstract cap; use the live Wiley author-guidelines page at uplo
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/crim-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install crim-skills
 /reload-plugins
 ```
@@ -73,8 +73,8 @@ word/page cap or abstract cap; use the live Wiley author-guidelines page at uplo
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/crim-skills.git
-cd crim-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Criminology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/crim-* ~/.claude/skills/
 # or

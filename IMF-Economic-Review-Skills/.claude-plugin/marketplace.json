@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/imf-economic-review-skills",
-      "repository": "https://github.com/brycewang-stanford/imf-economic-review-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "imfer",
         "imf-economic-review",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/imfer-workflow",
-        "skills/imfer-topic-selection",
-        "skills/imfer-literature-positioning",
-        "skills/imfer-identification",
-        "skills/imfer-theory-model",
-        "skills/imfer-robustness",
-        "skills/imfer-tables-figures",
-        "skills/imfer-writing-style",
-        "skills/imfer-replication-package",
-        "skills/imfer-referee-strategy",
-        "skills/imfer-submission",
-        "skills/imfer-rebuttal"
+        "./skills/imfer-workflow",
+        "./skills/imfer-topic-selection",
+        "./skills/imfer-literature-positioning",
+        "./skills/imfer-identification",
+        "./skills/imfer-theory-model",
+        "./skills/imfer-robustness",
+        "./skills/imfer-tables-figures",
+        "./skills/imfer-writing-style",
+        "./skills/imfer-replication-package",
+        "./skills/imfer-referee-strategy",
+        "./skills/imfer-submission",
+        "./skills/imfer-rebuttal"
       ]
     }
   ]

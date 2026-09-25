@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jeg-skills",
-      "repository": "https://github.com/brycewang-stanford/jeg-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-economic-growth",
         "jeg",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jeg-workflow",
-        "skills/jeg-topic-selection",
-        "skills/jeg-literature-positioning",
-        "skills/jeg-identification-strategy",
-        "skills/jeg-data-analysis",
-        "skills/jeg-tables-figures",
-        "skills/jeg-contribution-framing",
-        "skills/jeg-writing-style",
-        "skills/jeg-replication-and-data-policy",
-        "skills/jeg-review-process",
-        "skills/jeg-submission",
-        "skills/jeg-rebuttal"
+        "./skills/jeg-workflow",
+        "./skills/jeg-topic-selection",
+        "./skills/jeg-literature-positioning",
+        "./skills/jeg-identification-strategy",
+        "./skills/jeg-data-analysis",
+        "./skills/jeg-tables-figures",
+        "./skills/jeg-contribution-framing",
+        "./skills/jeg-writing-style",
+        "./skills/jeg-replication-and-data-policy",
+        "./skills/jeg-review-process",
+        "./skills/jeg-submission",
+        "./skills/jeg-rebuttal"
       ]
     }
   ]

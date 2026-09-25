@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ccs-submission",
-        "skills/ccs-author-response",
-        "skills/ccs-camera-ready",
-        "skills/ccs-artifact-evaluation",
-        "skills/ccs-reproducibility",
-        "skills/ccs-supplementary",
-        "skills/ccs-review-process",
-        "skills/ccs-writing-style",
-        "skills/ccs-related-work",
-        "skills/ccs-experiments",
-        "skills/ccs-workflow",
-        "skills/ccs-topic-selection"
+        "./skills/ccs-submission",
+        "./skills/ccs-author-response",
+        "./skills/ccs-camera-ready",
+        "./skills/ccs-artifact-evaluation",
+        "./skills/ccs-reproducibility",
+        "./skills/ccs-supplementary",
+        "./skills/ccs-review-process",
+        "./skills/ccs-writing-style",
+        "./skills/ccs-related-work",
+        "./skills/ccs-experiments",
+        "./skills/ccs-workflow",
+        "./skills/ccs-topic-selection"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ceq-workflow",
-        "skills/ceq-fit-positioning",
-        "skills/ceq-topic-selection",
-        "skills/ceq-literature-review",
-        "skills/ceq-identification",
-        "skills/ceq-modern-did",
-        "skills/ceq-inference",
-        "skills/ceq-mechanism",
-        "skills/ceq-figures",
-        "skills/ceq-abstract-english",
-        "skills/ceq-submission",
-        "skills/ceq-rebuttal"
+        "./skills/ceq-workflow",
+        "./skills/ceq-fit-positioning",
+        "./skills/ceq-topic-selection",
+        "./skills/ceq-literature-review",
+        "./skills/ceq-identification",
+        "./skills/ceq-modern-did",
+        "./skills/ceq-inference",
+        "./skills/ceq-mechanism",
+        "./skills/ceq-figures",
+        "./skills/ceq-abstract-english",
+        "./skills/ceq-submission",
+        "./skills/ceq-rebuttal"
       ]
     }
   ]

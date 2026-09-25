@@ -64,7 +64,7 @@ the live-check items to reopen immediately before upload.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ci-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ci-skills
 /reload-plugins
 ```
@@ -72,8 +72,8 @@ the live-check items to reopen immediately before upload.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/ci-skills.git
-cd ci-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Critical-Inquiry-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ci-* ~/.claude/skills/
 # or

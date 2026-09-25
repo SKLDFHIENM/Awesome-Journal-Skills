@@ -63,7 +63,7 @@ any APC) change — such items are flagged **re-check** in
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/epsl-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install epsl-skills
 /reload-plugins
 ```
@@ -71,8 +71,8 @@ any APC) change — such items are flagged **re-check** in
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/epsl-skills.git
-cd epsl-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Earth-and-Planetary-Science-Letters-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/epsl-* ~/.claude/skills/
 # or

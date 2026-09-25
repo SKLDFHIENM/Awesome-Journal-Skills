@@ -56,7 +56,7 @@ in [`resources/official-source-map.md`](resources/official-source-map.md).
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ectheory-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ectheory-skills
 /reload-plugins
 ```
@@ -64,8 +64,8 @@ in [`resources/official-source-map.md`](resources/official-source-map.md).
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/ectheory-skills.git
-cd ectheory-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Econometric-Theory-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ectheory-* ~/.claude/skills/
 # or

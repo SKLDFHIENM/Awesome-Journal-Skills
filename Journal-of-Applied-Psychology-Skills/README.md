@@ -56,7 +56,7 @@ Official basis checked **2026-06** (检索于 2026-06；以官网为准).
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/journal-of-applied-psychology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install journal-of-applied-psychology-skills
 /reload-plugins
 ```
@@ -64,8 +64,8 @@ Official basis checked **2026-06** (检索于 2026-06；以官网为准).
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/journal-of-applied-psychology-skills.git
-cd journal-of-applied-psychology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Applied-Psychology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/joap-* ~/.claude/skills/
 # or

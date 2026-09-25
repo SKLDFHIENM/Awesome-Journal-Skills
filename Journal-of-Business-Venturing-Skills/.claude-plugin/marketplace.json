@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jbv-skills",
-      "repository": "https://github.com/brycewang-stanford/jbv-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-business-venturing",
         "jbv",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jbv-workflow",
-        "skills/jbv-topic-selection",
-        "skills/jbv-theory-development",
-        "skills/jbv-literature-positioning",
-        "skills/jbv-methods",
-        "skills/jbv-data-analysis",
-        "skills/jbv-contribution-framing",
-        "skills/jbv-tables-figures",
-        "skills/jbv-writing-style",
-        "skills/jbv-submission",
-        "skills/jbv-review-process",
-        "skills/jbv-rebuttal"
+        "./skills/jbv-workflow",
+        "./skills/jbv-topic-selection",
+        "./skills/jbv-theory-development",
+        "./skills/jbv-literature-positioning",
+        "./skills/jbv-methods",
+        "./skills/jbv-data-analysis",
+        "./skills/jbv-contribution-framing",
+        "./skills/jbv-tables-figures",
+        "./skills/jbv-writing-style",
+        "./skills/jbv-submission",
+        "./skills/jbv-review-process",
+        "./skills/jbv-rebuttal"
       ]
     }
   ]

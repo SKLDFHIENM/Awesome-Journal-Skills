@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/demog-skills",
-      "repository": "https://github.com/brycewang-stanford/demog-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "demography",
         "demog",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/demog-workflow",
-        "skills/demog-topic-selection",
-        "skills/demog-literature-positioning",
-        "skills/demog-theory-building",
-        "skills/demog-research-design",
-        "skills/demog-data-analysis",
-        "skills/demog-tables-figures",
-        "skills/demog-writing-style",
-        "skills/demog-data-and-reproducibility",
-        "skills/demog-review-process",
-        "skills/demog-submission",
-        "skills/demog-rebuttal"
+        "./skills/demog-workflow",
+        "./skills/demog-topic-selection",
+        "./skills/demog-literature-positioning",
+        "./skills/demog-theory-building",
+        "./skills/demog-research-design",
+        "./skills/demog-data-analysis",
+        "./skills/demog-tables-figures",
+        "./skills/demog-writing-style",
+        "./skills/demog-data-and-reproducibility",
+        "./skills/demog-review-process",
+        "./skills/demog-submission",
+        "./skills/demog-rebuttal"
       ]
     }
   ]

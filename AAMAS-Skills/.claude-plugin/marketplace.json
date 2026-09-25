@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aamas-submission",
-        "skills/aamas-author-response",
-        "skills/aamas-camera-ready",
-        "skills/aamas-artifact-evaluation",
-        "skills/aamas-reproducibility",
-        "skills/aamas-supplementary",
-        "skills/aamas-review-process",
-        "skills/aamas-writing-style",
-        "skills/aamas-related-work",
-        "skills/aamas-experiments",
-        "skills/aamas-workflow",
-        "skills/aamas-topic-selection"
+        "./skills/aamas-submission",
+        "./skills/aamas-author-response",
+        "./skills/aamas-camera-ready",
+        "./skills/aamas-artifact-evaluation",
+        "./skills/aamas-reproducibility",
+        "./skills/aamas-supplementary",
+        "./skills/aamas-review-process",
+        "./skills/aamas-writing-style",
+        "./skills/aamas-related-work",
+        "./skills/aamas-experiments",
+        "./skills/aamas-workflow",
+        "./skills/aamas-topic-selection"
       ]
     }
   ]

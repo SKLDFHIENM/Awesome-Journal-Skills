@@ -65,7 +65,7 @@ CA 的约束不同于单一分支期刊或量化社会科学期刊：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/current-anthropology-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install current-anthropology-skills
 /reload-plugins
 ```
@@ -73,8 +73,8 @@ CA 的约束不同于单一分支期刊或量化社会科学期刊：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/current-anthropology-skills.git
-cd current-anthropology-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Current-Anthropology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/curranthro-* ~/.claude/skills/
 # 或

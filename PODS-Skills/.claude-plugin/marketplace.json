@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/pods-submission",
-        "skills/pods-author-response",
-        "skills/pods-camera-ready",
-        "skills/pods-artifact-evaluation",
-        "skills/pods-reproducibility",
-        "skills/pods-supplementary",
-        "skills/pods-review-process",
-        "skills/pods-writing-style",
-        "skills/pods-related-work",
-        "skills/pods-experiments",
-        "skills/pods-workflow",
-        "skills/pods-topic-selection"
+        "./skills/pods-submission",
+        "./skills/pods-author-response",
+        "./skills/pods-camera-ready",
+        "./skills/pods-artifact-evaluation",
+        "./skills/pods-reproducibility",
+        "./skills/pods-supplementary",
+        "./skills/pods-review-process",
+        "./skills/pods-writing-style",
+        "./skills/pods-related-work",
+        "./skills/pods-experiments",
+        "./skills/pods-workflow",
+        "./skills/pods-topic-selection"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icra-submission",
-        "skills/icra-author-response",
-        "skills/icra-camera-ready",
-        "skills/icra-artifact-evaluation",
-        "skills/icra-reproducibility",
-        "skills/icra-supplementary",
-        "skills/icra-review-process",
-        "skills/icra-writing-style",
-        "skills/icra-related-work",
-        "skills/icra-experiments",
-        "skills/icra-workflow",
-        "skills/icra-topic-selection"
+        "./skills/icra-submission",
+        "./skills/icra-author-response",
+        "./skills/icra-camera-ready",
+        "./skills/icra-artifact-evaluation",
+        "./skills/icra-reproducibility",
+        "./skills/icra-supplementary",
+        "./skills/icra-review-process",
+        "./skills/icra-writing-style",
+        "./skills/icra-related-work",
+        "./skills/icra-experiments",
+        "./skills/icra-workflow",
+        "./skills/icra-topic-selection"
       ]
     }
   ]

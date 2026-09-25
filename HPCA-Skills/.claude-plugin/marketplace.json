@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/hpca-submission",
-        "skills/hpca-author-response",
-        "skills/hpca-camera-ready",
-        "skills/hpca-artifact-evaluation",
-        "skills/hpca-reproducibility",
-        "skills/hpca-supplementary",
-        "skills/hpca-review-process",
-        "skills/hpca-writing-style",
-        "skills/hpca-related-work",
-        "skills/hpca-experiments",
-        "skills/hpca-workflow",
-        "skills/hpca-topic-selection"
+        "./skills/hpca-submission",
+        "./skills/hpca-author-response",
+        "./skills/hpca-camera-ready",
+        "./skills/hpca-artifact-evaluation",
+        "./skills/hpca-reproducibility",
+        "./skills/hpca-supplementary",
+        "./skills/hpca-review-process",
+        "./skills/hpca-writing-style",
+        "./skills/hpca-related-work",
+        "./skills/hpca-experiments",
+        "./skills/hpca-workflow",
+        "./skills/hpca-topic-selection"
       ]
     }
   ]

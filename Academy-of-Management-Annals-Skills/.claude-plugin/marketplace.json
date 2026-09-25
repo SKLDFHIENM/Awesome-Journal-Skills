@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/academy-of-management-annals-skills",
-      "repository": "https://github.com/brycewang-stanford/academy-of-management-annals-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "annals",
         "academy-of-management-annals",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/amann-workflow",
-        "skills/amann-topic-selection",
-        "skills/amann-proposal-framing",
-        "skills/amann-literature-synthesis",
-        "skills/amann-organizing-framework",
-        "skills/amann-evidence-standards",
-        "skills/amann-tables-figures",
-        "skills/amann-writing-style",
-        "skills/amann-editor-strategy",
-        "skills/amann-submission",
-        "skills/amann-review-process",
-        "skills/amann-revision"
+        "./skills/amann-workflow",
+        "./skills/amann-topic-selection",
+        "./skills/amann-proposal-framing",
+        "./skills/amann-literature-synthesis",
+        "./skills/amann-organizing-framework",
+        "./skills/amann-evidence-standards",
+        "./skills/amann-tables-figures",
+        "./skills/amann-writing-style",
+        "./skills/amann-editor-strategy",
+        "./skills/amann-submission",
+        "./skills/amann-review-process",
+        "./skills/amann-revision"
       ]
     }
   ]

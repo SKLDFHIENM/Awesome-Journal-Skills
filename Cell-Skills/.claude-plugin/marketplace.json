@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cell-workflow",
-        "skills/cell-fit",
-        "skills/cell-framing",
-        "skills/cell-highlights",
-        "skills/cell-summary",
-        "skills/cell-writing",
-        "skills/cell-figures",
-        "skills/cell-star-methods",
-        "skills/cell-data",
-        "skills/cell-citation",
-        "skills/cell-submission",
-        "skills/cell-rebuttal"
+        "./skills/cell-workflow",
+        "./skills/cell-fit",
+        "./skills/cell-framing",
+        "./skills/cell-highlights",
+        "./skills/cell-summary",
+        "./skills/cell-writing",
+        "./skills/cell-figures",
+        "./skills/cell-star-methods",
+        "./skills/cell-data",
+        "./skills/cell-citation",
+        "./skills/cell-submission",
+        "./skills/cell-rebuttal"
       ]
     }
   ]

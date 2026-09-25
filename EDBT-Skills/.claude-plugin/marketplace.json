@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/edbt-submission",
-        "skills/edbt-author-response",
-        "skills/edbt-camera-ready",
-        "skills/edbt-artifact-evaluation",
-        "skills/edbt-reproducibility",
-        "skills/edbt-supplementary",
-        "skills/edbt-review-process",
-        "skills/edbt-writing-style",
-        "skills/edbt-related-work",
-        "skills/edbt-experiments",
-        "skills/edbt-workflow",
-        "skills/edbt-topic-selection"
+        "./skills/edbt-submission",
+        "./skills/edbt-author-response",
+        "./skills/edbt-camera-ready",
+        "./skills/edbt-artifact-evaluation",
+        "./skills/edbt-reproducibility",
+        "./skills/edbt-supplementary",
+        "./skills/edbt-review-process",
+        "./skills/edbt-writing-style",
+        "./skills/edbt-related-work",
+        "./skills/edbt-experiments",
+        "./skills/edbt-workflow",
+        "./skills/edbt-topic-selection"
       ]
     }
   ]

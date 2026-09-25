@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/sosp-submission",
-        "skills/sosp-author-response",
-        "skills/sosp-camera-ready",
-        "skills/sosp-artifact-evaluation",
-        "skills/sosp-reproducibility",
-        "skills/sosp-supplementary",
-        "skills/sosp-review-process",
-        "skills/sosp-writing-style",
-        "skills/sosp-related-work",
-        "skills/sosp-experiments",
-        "skills/sosp-workflow",
-        "skills/sosp-topic-selection"
+        "./skills/sosp-submission",
+        "./skills/sosp-author-response",
+        "./skills/sosp-camera-ready",
+        "./skills/sosp-artifact-evaluation",
+        "./skills/sosp-reproducibility",
+        "./skills/sosp-supplementary",
+        "./skills/sosp-review-process",
+        "./skills/sosp-writing-style",
+        "./skills/sosp-related-work",
+        "./skills/sosp-experiments",
+        "./skills/sosp-workflow",
+        "./skills/sosp-topic-selection"
       ]
     }
   ]

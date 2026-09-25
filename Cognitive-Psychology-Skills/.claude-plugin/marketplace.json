@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/cognitive-psychology-skills",
-      "repository": "https://github.com/brycewang-stanford/cognitive-psychology-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "cognitive-psychology",
         "cognitive-science",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cogpsych-workflow",
-        "skills/cogpsych-topic-selection",
-        "skills/cogpsych-theory-and-hypotheses",
-        "skills/cogpsych-literature-positioning",
-        "skills/cogpsych-study-design",
-        "skills/cogpsych-data-analysis",
-        "skills/cogpsych-tables-figures",
-        "skills/cogpsych-writing-style",
-        "skills/cogpsych-open-science-and-transparency",
-        "skills/cogpsych-review-process",
-        "skills/cogpsych-submission",
-        "skills/cogpsych-rebuttal"
+        "./skills/cogpsych-workflow",
+        "./skills/cogpsych-topic-selection",
+        "./skills/cogpsych-theory-and-hypotheses",
+        "./skills/cogpsych-literature-positioning",
+        "./skills/cogpsych-study-design",
+        "./skills/cogpsych-data-analysis",
+        "./skills/cogpsych-tables-figures",
+        "./skills/cogpsych-writing-style",
+        "./skills/cogpsych-open-science-and-transparency",
+        "./skills/cogpsych-review-process",
+        "./skills/cogpsych-submission",
+        "./skills/cogpsych-rebuttal"
       ]
     }
   ]

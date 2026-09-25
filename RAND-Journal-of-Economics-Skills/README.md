@@ -42,7 +42,7 @@ Generic "scientific writing" or "econ writing" packs do not address these constr
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/rje-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install rje-skills
 /reload-plugins
 ```
@@ -50,8 +50,8 @@ Generic "scientific writing" or "econ writing" packs do not address these constr
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/rje-skills.git
-cd rje-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/RAND-Journal-of-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/rje-* ~/.claude/skills/
 # or

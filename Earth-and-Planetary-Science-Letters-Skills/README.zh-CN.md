@@ -58,7 +58,7 @@ EPSL 的约束既不同于专业地学期刊，也不同于泛科学期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/epsl-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install epsl-skills
 /reload-plugins
 ```
@@ -66,8 +66,8 @@ EPSL 的约束既不同于专业地学期刊，也不同于泛科学期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/epsl-skills.git
-cd epsl-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Earth-and-Planetary-Science-Letters-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/epsl-* ~/.claude/skills/
 # 或

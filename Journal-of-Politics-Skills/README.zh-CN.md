@@ -68,7 +68,7 @@ SPSA/Dataverse 的直接证据与芝加哥大学出版社官方搜索片段中�
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jop-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jop-skills
 /reload-plugins
 ```
@@ -76,8 +76,8 @@ SPSA/Dataverse 的直接证据与芝加哥大学出版社官方搜索片段中�
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jop-skills.git
-cd jop-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Politics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jop-* ~/.claude/skills/
 # 或

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/journal-of-economic-geography-skills",
-      "repository": "https://github.com/brycewang-stanford/journal-of-economic-geography-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jeg",
         "journal-of-economic-geography",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jegeo-workflow",
-        "skills/jegeo-topic-selection",
-        "skills/jegeo-literature-positioning",
-        "skills/jegeo-identification",
-        "skills/jegeo-theory-model",
-        "skills/jegeo-robustness",
-        "skills/jegeo-tables-figures",
-        "skills/jegeo-writing-style",
-        "skills/jegeo-replication-package",
-        "skills/jegeo-referee-strategy",
-        "skills/jegeo-submission",
-        "skills/jegeo-rebuttal"
+        "./skills/jegeo-workflow",
+        "./skills/jegeo-topic-selection",
+        "./skills/jegeo-literature-positioning",
+        "./skills/jegeo-identification",
+        "./skills/jegeo-theory-model",
+        "./skills/jegeo-robustness",
+        "./skills/jegeo-tables-figures",
+        "./skills/jegeo-writing-style",
+        "./skills/jegeo-replication-package",
+        "./skills/jegeo-referee-strategy",
+        "./skills/jegeo-submission",
+        "./skills/jegeo-rebuttal"
       ]
     }
   ]

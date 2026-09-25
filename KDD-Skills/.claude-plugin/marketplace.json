@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/kdd-submission",
-        "skills/kdd-author-response",
-        "skills/kdd-camera-ready",
-        "skills/kdd-artifact-evaluation",
-        "skills/kdd-reproducibility",
-        "skills/kdd-supplementary",
-        "skills/kdd-review-process",
-        "skills/kdd-writing-style",
-        "skills/kdd-related-work",
-        "skills/kdd-experiments",
-        "skills/kdd-workflow",
-        "skills/kdd-topic-selection"
+        "./skills/kdd-submission",
+        "./skills/kdd-author-response",
+        "./skills/kdd-camera-ready",
+        "./skills/kdd-artifact-evaluation",
+        "./skills/kdd-reproducibility",
+        "./skills/kdd-supplementary",
+        "./skills/kdd-review-process",
+        "./skills/kdd-writing-style",
+        "./skills/kdd-related-work",
+        "./skills/kdd-experiments",
+        "./skills/kdd-workflow",
+        "./skills/kdd-topic-selection"
       ]
     }
   ]

@@ -46,7 +46,7 @@ ST 的约束与实证社会学期刊（ASR / AJS）有实质差异：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/sociological-theory-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install sociological-theory-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@ ST 的约束与实证社会学期刊（ASR / AJS）有实质差异：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/sociological-theory-skills.git
-cd sociological-theory-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Sociological-Theory-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/soctheory-* ~/.claude/skills/
 # 或
@@ -144,7 +144,7 @@ soctheory-rebuttal
 ## 相关链接
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — 期刊专用技能包索引
-- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/amr-skills) — AMR，纯理论的管理学期刊
+- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Review-Skills) — AMR，纯理论的管理学期刊
 
 ---
 

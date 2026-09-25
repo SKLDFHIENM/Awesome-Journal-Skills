@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jaar-skills",
-      "repository": "https://github.com/brycewang-stanford/jaar-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-the-american-academy-of-religion",
         "jaar",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jaar-workflow",
-        "skills/jaar-topic-selection",
-        "skills/jaar-scholarly-positioning",
-        "skills/jaar-argument-development",
-        "skills/jaar-sources-and-evidence",
-        "skills/jaar-theory-and-method",
-        "skills/jaar-structure-and-exposition",
-        "skills/jaar-writing-style",
-        "skills/jaar-citation-and-style",
-        "skills/jaar-review-process",
-        "skills/jaar-submission",
-        "skills/jaar-revision-and-response"
+        "./skills/jaar-workflow",
+        "./skills/jaar-topic-selection",
+        "./skills/jaar-scholarly-positioning",
+        "./skills/jaar-argument-development",
+        "./skills/jaar-sources-and-evidence",
+        "./skills/jaar-theory-and-method",
+        "./skills/jaar-structure-and-exposition",
+        "./skills/jaar-writing-style",
+        "./skills/jaar-citation-and-style",
+        "./skills/jaar-review-process",
+        "./skills/jaar-submission",
+        "./skills/jaar-revision-and-response"
       ]
     }
   ]

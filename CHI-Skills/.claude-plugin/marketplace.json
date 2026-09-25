@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/chi-submission",
-        "skills/chi-author-response",
-        "skills/chi-camera-ready",
-        "skills/chi-artifact-evaluation",
-        "skills/chi-reproducibility",
-        "skills/chi-supplementary",
-        "skills/chi-review-process",
-        "skills/chi-writing-style",
-        "skills/chi-related-work",
-        "skills/chi-experiments",
-        "skills/chi-workflow",
-        "skills/chi-topic-selection"
+        "./skills/chi-submission",
+        "./skills/chi-author-response",
+        "./skills/chi-camera-ready",
+        "./skills/chi-artifact-evaluation",
+        "./skills/chi-reproducibility",
+        "./skills/chi-supplementary",
+        "./skills/chi-review-process",
+        "./skills/chi-writing-style",
+        "./skills/chi-related-work",
+        "./skills/chi-experiments",
+        "./skills/chi-workflow",
+        "./skills/chi-topic-selection"
       ]
     }
   ]

@@ -43,7 +43,7 @@ JF 的约束与 JFE、RFS 及领域期刊存在实质差异：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jf-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jf-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ JF 的约束与 JFE、RFS 及领域期刊存在实质差异：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jf-skills.git
-cd jf-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Finance-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jf-* ~/.claude/skills/
 # 或
@@ -137,7 +137,7 @@ jf-rebuttal
 ## 相关项目
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊专属技能包索引
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》
 
 ---
 

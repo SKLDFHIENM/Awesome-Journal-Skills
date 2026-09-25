@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/experimental-economics-skills",
-      "repository": "https://github.com/brycewang-stanford/experimental-economics-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "experimental-economics",
         "econ",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/expecon-workflow",
-        "skills/expecon-topic-selection",
-        "skills/expecon-literature-positioning",
-        "skills/expecon-identification",
-        "skills/expecon-theory-model",
-        "skills/expecon-robustness",
-        "skills/expecon-tables-figures",
-        "skills/expecon-writing-style",
-        "skills/expecon-replication-package",
-        "skills/expecon-referee-strategy",
-        "skills/expecon-submission",
-        "skills/expecon-rebuttal"
+        "./skills/expecon-workflow",
+        "./skills/expecon-topic-selection",
+        "./skills/expecon-literature-positioning",
+        "./skills/expecon-identification",
+        "./skills/expecon-theory-model",
+        "./skills/expecon-robustness",
+        "./skills/expecon-tables-figures",
+        "./skills/expecon-writing-style",
+        "./skills/expecon-replication-package",
+        "./skills/expecon-referee-strategy",
+        "./skills/expecon-submission",
+        "./skills/expecon-rebuttal"
       ]
     }
   ]

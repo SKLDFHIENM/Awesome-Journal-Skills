@@ -46,7 +46,7 @@ Generic "scientific writing" or empirical-sociology skill packs do not address t
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/sociological-theory-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install sociological-theory-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@ Generic "scientific writing" or empirical-sociology skill packs do not address t
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/sociological-theory-skills.git
-cd sociological-theory-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Sociological-Theory-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/soctheory-* ~/.claude/skills/
 # or
@@ -144,7 +144,7 @@ If your project has a finding to demonstrate in data, an empirical-sociology sta
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/amr-skills) — AMR, a theory-only management journal
+- [Academy-of-Management-Review-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Academy-of-Management-Review-Skills) — AMR, a theory-only management journal
 
 ---
 

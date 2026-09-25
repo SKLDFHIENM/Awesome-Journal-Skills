@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/prl-skills",
-      "repository": "https://github.com/brycewang-stanford/prl-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "physical-review-letters",
         "prl",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/prl-workflow",
-        "skills/prl-scope-fit",
-        "skills/prl-results-framing",
-        "skills/prl-methods",
-        "skills/prl-figures",
-        "skills/prl-supplementary",
-        "skills/prl-writing-style",
-        "skills/prl-length-management",
-        "skills/prl-cover-letter",
-        "skills/prl-submission",
-        "skills/prl-referee-strategy",
-        "skills/prl-revision"
+        "./skills/prl-workflow",
+        "./skills/prl-scope-fit",
+        "./skills/prl-results-framing",
+        "./skills/prl-methods",
+        "./skills/prl-figures",
+        "./skills/prl-supplementary",
+        "./skills/prl-writing-style",
+        "./skills/prl-length-management",
+        "./skills/prl-cover-letter",
+        "./skills/prl-submission",
+        "./skills/prl-referee-strategy",
+        "./skills/prl-revision"
       ]
     }
   ]

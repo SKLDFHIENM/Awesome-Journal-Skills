@@ -44,7 +44,7 @@ Generic "scientific writing" packs, and even the sibling 管理科学学报 pack
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/cjms-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install cjms-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" packs, and even the sibling 管理科学学报 pack
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/cjms-skills.git
-cd cjms-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Chinese-Journal-of-Management-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cjms-* ~/.claude/skills/
 # or

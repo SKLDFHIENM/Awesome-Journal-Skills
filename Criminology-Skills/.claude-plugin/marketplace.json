@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/crim-skills",
-      "repository": "https://github.com/brycewang-stanford/crim-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "criminology",
         "american-society-of-criminology",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/crim-workflow",
-        "skills/crim-topic-selection",
-        "skills/crim-literature-positioning",
-        "skills/crim-theory-building",
-        "skills/crim-research-design",
-        "skills/crim-data-analysis",
-        "skills/crim-tables-figures",
-        "skills/crim-writing-style",
-        "skills/crim-data-and-transparency",
-        "skills/crim-review-process",
-        "skills/crim-submission",
-        "skills/crim-rebuttal"
+        "./skills/crim-workflow",
+        "./skills/crim-topic-selection",
+        "./skills/crim-literature-positioning",
+        "./skills/crim-theory-building",
+        "./skills/crim-research-design",
+        "./skills/crim-data-analysis",
+        "./skills/crim-tables-figures",
+        "./skills/crim-writing-style",
+        "./skills/crim-data-and-transparency",
+        "./skills/crim-review-process",
+        "./skills/crim-submission",
+        "./skills/crim-rebuttal"
       ]
     }
   ]

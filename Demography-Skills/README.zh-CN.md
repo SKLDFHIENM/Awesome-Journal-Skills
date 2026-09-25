@@ -59,7 +59,7 @@ Demography 的约束不同于通用社会科学刊或方法刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/demog-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install demog-skills
 /reload-plugins
 ```
@@ -67,8 +67,8 @@ Demography 的约束不同于通用社会科学刊或方法刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/demog-skills.git
-cd demog-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Demography-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/demog-* ~/.claude/skills/
 # 或

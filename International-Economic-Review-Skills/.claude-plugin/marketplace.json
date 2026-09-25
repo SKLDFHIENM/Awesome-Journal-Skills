@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/ier-skills",
-      "repository": "https://github.com/brycewang-stanford/ier-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "ier",
         "international-economic-review",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ier-workflow",
-        "skills/ier-topic-selection",
-        "skills/ier-literature-positioning",
-        "skills/ier-identification",
-        "skills/ier-theory-model",
-        "skills/ier-robustness",
-        "skills/ier-tables-figures",
-        "skills/ier-writing-style",
-        "skills/ier-replication-package",
-        "skills/ier-referee-strategy",
-        "skills/ier-submission",
-        "skills/ier-rebuttal"
+        "./skills/ier-workflow",
+        "./skills/ier-topic-selection",
+        "./skills/ier-literature-positioning",
+        "./skills/ier-identification",
+        "./skills/ier-theory-model",
+        "./skills/ier-robustness",
+        "./skills/ier-tables-figures",
+        "./skills/ier-writing-style",
+        "./skills/ier-replication-package",
+        "./skills/ier-referee-strategy",
+        "./skills/ier-submission",
+        "./skills/ier-rebuttal"
       ]
     }
   ]

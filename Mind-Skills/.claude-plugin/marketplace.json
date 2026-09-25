@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/mind-skills",
-      "repository": "https://github.com/brycewang-stanford/mind-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "mind",
         "philosophy",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/mind-workflow",
-        "skills/mind-topic-selection",
-        "skills/mind-literature-positioning",
-        "skills/mind-thesis-and-argument",
-        "skills/mind-objections-and-replies",
-        "skills/mind-conceptual-analysis-and-method",
-        "skills/mind-structure-and-exposition",
-        "skills/mind-writing-style",
-        "skills/mind-citation-and-style",
-        "skills/mind-review-process",
-        "skills/mind-submission",
-        "skills/mind-revision-and-response"
+        "./skills/mind-workflow",
+        "./skills/mind-topic-selection",
+        "./skills/mind-literature-positioning",
+        "./skills/mind-thesis-and-argument",
+        "./skills/mind-objections-and-replies",
+        "./skills/mind-conceptual-analysis-and-method",
+        "./skills/mind-structure-and-exposition",
+        "./skills/mind-writing-style",
+        "./skills/mind-citation-and-style",
+        "./skills/mind-review-process",
+        "./skills/mind-submission",
+        "./skills/mind-revision-and-response"
       ]
     }
   ]

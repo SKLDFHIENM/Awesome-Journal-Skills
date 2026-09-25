@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/naacl-submission",
-        "skills/naacl-author-response",
-        "skills/naacl-camera-ready",
-        "skills/naacl-artifact-evaluation",
-        "skills/naacl-reproducibility",
-        "skills/naacl-supplementary",
-        "skills/naacl-review-process",
-        "skills/naacl-writing-style",
-        "skills/naacl-related-work",
-        "skills/naacl-experiments",
-        "skills/naacl-workflow",
-        "skills/naacl-topic-selection"
+        "./skills/naacl-submission",
+        "./skills/naacl-author-response",
+        "./skills/naacl-camera-ready",
+        "./skills/naacl-artifact-evaluation",
+        "./skills/naacl-reproducibility",
+        "./skills/naacl-supplementary",
+        "./skills/naacl-review-process",
+        "./skills/naacl-writing-style",
+        "./skills/naacl-related-work",
+        "./skills/naacl-experiments",
+        "./skills/naacl-workflow",
+        "./skills/naacl-topic-selection"
       ]
     }
   ]

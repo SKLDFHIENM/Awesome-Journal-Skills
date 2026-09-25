@@ -45,7 +45,7 @@ M&SOM 的约束与纯理论管理期刊或通用运筹期刊有本质差异：
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/msom-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install msom-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ M&SOM 的约束与纯理论管理期刊或通用运筹期刊有本质差异：
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/msom-skills.git
-cd msom-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Manufacturing-and-Service-Operations-Management-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/msom-* ~/.claude/skills/
 # 或

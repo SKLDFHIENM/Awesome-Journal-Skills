@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icsme-submission",
-        "skills/icsme-author-response",
-        "skills/icsme-camera-ready",
-        "skills/icsme-artifact-evaluation",
-        "skills/icsme-reproducibility",
-        "skills/icsme-supplementary",
-        "skills/icsme-review-process",
-        "skills/icsme-writing-style",
-        "skills/icsme-related-work",
-        "skills/icsme-experiments",
-        "skills/icsme-workflow",
-        "skills/icsme-topic-selection"
+        "./skills/icsme-submission",
+        "./skills/icsme-author-response",
+        "./skills/icsme-camera-ready",
+        "./skills/icsme-artifact-evaluation",
+        "./skills/icsme-reproducibility",
+        "./skills/icsme-supplementary",
+        "./skills/icsme-review-process",
+        "./skills/icsme-writing-style",
+        "./skills/icsme-related-work",
+        "./skills/icsme-experiments",
+        "./skills/icsme-workflow",
+        "./skills/icsme-topic-selection"
       ]
     }
   ]

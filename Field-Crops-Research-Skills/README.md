@@ -67,7 +67,7 @@ If your project is on the wrong side of any of these, fix the framing or design 
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/fcr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install fcr-skills
 /reload-plugins
 ```
@@ -75,8 +75,8 @@ If your project is on the wrong side of any of these, fix the framing or design 
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/fcr-skills.git
-cd fcr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Field-Crops-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/fcr-* ~/.claude/skills/
 # or

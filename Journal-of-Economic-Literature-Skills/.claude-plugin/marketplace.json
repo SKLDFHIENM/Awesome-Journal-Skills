@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jel-skills",
-      "repository": "https://github.com/brycewang-stanford/jel-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-economic-literature",
         "jel",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jel-workflow",
-        "skills/jel-topic-selection",
-        "skills/jel-proposal-and-commissioning",
-        "skills/jel-literature-synthesis",
-        "skills/jel-organizing-framework",
-        "skills/jel-comprehensiveness-and-balance",
-        "skills/jel-tables-figures",
-        "skills/jel-writing-style",
-        "skills/jel-classification-system",
-        "skills/jel-editor-strategy",
-        "skills/jel-submission",
-        "skills/jel-revision"
+        "./skills/jel-workflow",
+        "./skills/jel-topic-selection",
+        "./skills/jel-proposal-and-commissioning",
+        "./skills/jel-literature-synthesis",
+        "./skills/jel-organizing-framework",
+        "./skills/jel-comprehensiveness-and-balance",
+        "./skills/jel-tables-figures",
+        "./skills/jel-writing-style",
+        "./skills/jel-classification-system",
+        "./skills/jel-editor-strategy",
+        "./skills/jel-submission",
+        "./skills/jel-revision"
       ]
     }
   ]

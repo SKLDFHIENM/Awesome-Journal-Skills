@@ -45,7 +45,7 @@ Core policy facts were refreshed from official ScienceDirect pages on 2026-06-20
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jet-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jet-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Core policy facts were refreshed from official ScienceDirect pages on 2026-06-20
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jet-skills.git
-cd jet-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Economic-Theory-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jet-* ~/.claude/skills/
 # or

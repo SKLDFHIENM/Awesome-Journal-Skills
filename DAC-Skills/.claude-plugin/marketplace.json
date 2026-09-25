@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/dac-submission",
-        "skills/dac-author-response",
-        "skills/dac-camera-ready",
-        "skills/dac-artifact-evaluation",
-        "skills/dac-reproducibility",
-        "skills/dac-supplementary",
-        "skills/dac-review-process",
-        "skills/dac-writing-style",
-        "skills/dac-related-work",
-        "skills/dac-experiments",
-        "skills/dac-workflow",
-        "skills/dac-topic-selection"
+        "./skills/dac-submission",
+        "./skills/dac-author-response",
+        "./skills/dac-camera-ready",
+        "./skills/dac-artifact-evaluation",
+        "./skills/dac-reproducibility",
+        "./skills/dac-supplementary",
+        "./skills/dac-review-process",
+        "./skills/dac-writing-style",
+        "./skills/dac-related-work",
+        "./skills/dac-experiments",
+        "./skills/dac-workflow",
+        "./skills/dac-topic-selection"
       ]
     }
   ]

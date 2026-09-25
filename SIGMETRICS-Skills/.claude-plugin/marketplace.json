@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/sigmetrics-submission",
-        "skills/sigmetrics-author-response",
-        "skills/sigmetrics-camera-ready",
-        "skills/sigmetrics-artifact-evaluation",
-        "skills/sigmetrics-reproducibility",
-        "skills/sigmetrics-supplementary",
-        "skills/sigmetrics-review-process",
-        "skills/sigmetrics-writing-style",
-        "skills/sigmetrics-related-work",
-        "skills/sigmetrics-experiments",
-        "skills/sigmetrics-workflow",
-        "skills/sigmetrics-topic-selection"
+        "./skills/sigmetrics-submission",
+        "./skills/sigmetrics-author-response",
+        "./skills/sigmetrics-camera-ready",
+        "./skills/sigmetrics-artifact-evaluation",
+        "./skills/sigmetrics-reproducibility",
+        "./skills/sigmetrics-supplementary",
+        "./skills/sigmetrics-review-process",
+        "./skills/sigmetrics-writing-style",
+        "./skills/sigmetrics-related-work",
+        "./skills/sigmetrics-experiments",
+        "./skills/sigmetrics-workflow",
+        "./skills/sigmetrics-topic-selection"
       ]
     }
   ]

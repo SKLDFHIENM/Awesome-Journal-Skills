@@ -56,7 +56,7 @@ AEJ: Micro 的约束与实证旗舰期刊、专业理论期刊都有实质差异
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/aej-microeconomics-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install aej-microeconomics-skills
 /reload-plugins
 ```
@@ -64,8 +64,8 @@ AEJ: Micro 的约束与实证旗舰期刊、专业理论期刊都有实质差异
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/aej-microeconomics-skills.git
-cd aej-microeconomics-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/AEJ-Microeconomics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/aejmic-* ~/.claude/skills/
 # 或

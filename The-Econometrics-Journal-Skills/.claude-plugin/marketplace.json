@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/ectj-skills",
-      "repository": "https://github.com/brycewang-stanford/ectj-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "the-econometrics-journal",
         "ectj",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ectj-workflow",
-        "skills/ectj-topic-selection",
-        "skills/ectj-literature-positioning",
-        "skills/ectj-identification-strategy",
-        "skills/ectj-data-analysis",
-        "skills/ectj-tables-figures",
-        "skills/ectj-contribution-framing",
-        "skills/ectj-writing-style",
-        "skills/ectj-replication-and-data-policy",
-        "skills/ectj-review-process",
-        "skills/ectj-submission",
-        "skills/ectj-rebuttal"
+        "./skills/ectj-workflow",
+        "./skills/ectj-topic-selection",
+        "./skills/ectj-literature-positioning",
+        "./skills/ectj-identification-strategy",
+        "./skills/ectj-data-analysis",
+        "./skills/ectj-tables-figures",
+        "./skills/ectj-contribution-framing",
+        "./skills/ectj-writing-style",
+        "./skills/ectj-replication-and-data-policy",
+        "./skills/ectj-review-process",
+        "./skills/ectj-submission",
+        "./skills/ectj-rebuttal"
       ]
     }
   ]

@@ -51,7 +51,7 @@ JAAR 的约束既不同于宗教学的专门刊，也不同于任何社会科学
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jaar-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jaar-skills
 /reload-plugins
 ```
@@ -59,8 +59,8 @@ JAAR 的约束既不同于宗教学的专门刊，也不同于任何社会科学
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jaar-skills.git
-cd jaar-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-the-American-Academy-of-Religion-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jaar-* ~/.claude/skills/
 # 或

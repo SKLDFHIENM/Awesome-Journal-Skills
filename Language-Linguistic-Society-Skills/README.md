@@ -68,7 +68,7 @@ immediately before upload.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/lang-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install lang-skills
 /reload-plugins
 ```
@@ -76,8 +76,8 @@ immediately before upload.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/lang-skills.git
-cd lang-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Language-Linguistic-Society-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/lang-* ~/.claude/skills/
 # or

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ase-submission",
-        "skills/ase-author-response",
-        "skills/ase-camera-ready",
-        "skills/ase-artifact-evaluation",
-        "skills/ase-reproducibility",
-        "skills/ase-supplementary",
-        "skills/ase-review-process",
-        "skills/ase-writing-style",
-        "skills/ase-related-work",
-        "skills/ase-experiments",
-        "skills/ase-workflow",
-        "skills/ase-topic-selection"
+        "./skills/ase-submission",
+        "./skills/ase-author-response",
+        "./skills/ase-camera-ready",
+        "./skills/ase-artifact-evaluation",
+        "./skills/ase-reproducibility",
+        "./skills/ase-supplementary",
+        "./skills/ase-review-process",
+        "./skills/ase-writing-style",
+        "./skills/ase-related-work",
+        "./skills/ase-experiments",
+        "./skills/ase-workflow",
+        "./skills/ase-topic-selection"
       ]
     }
   ]

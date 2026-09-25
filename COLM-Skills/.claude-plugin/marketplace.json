@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/colm-submission",
-        "skills/colm-author-response",
-        "skills/colm-camera-ready",
-        "skills/colm-artifact-evaluation",
-        "skills/colm-reproducibility",
-        "skills/colm-supplementary",
-        "skills/colm-review-process",
-        "skills/colm-writing-style",
-        "skills/colm-related-work",
-        "skills/colm-experiments",
-        "skills/colm-workflow",
-        "skills/colm-topic-selection"
+        "./skills/colm-submission",
+        "./skills/colm-author-response",
+        "./skills/colm-camera-ready",
+        "./skills/colm-artifact-evaluation",
+        "./skills/colm-reproducibility",
+        "./skills/colm-supplementary",
+        "./skills/colm-review-process",
+        "./skills/colm-writing-style",
+        "./skills/colm-related-work",
+        "./skills/colm-experiments",
+        "./skills/colm-workflow",
+        "./skills/colm-topic-selection"
       ]
     }
   ]

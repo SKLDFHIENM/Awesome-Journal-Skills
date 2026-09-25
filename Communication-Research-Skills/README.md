@@ -54,7 +54,7 @@ journal page** (检索于 2026-06；以官网为准).
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/communication-research-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install communication-research-skills
 /reload-plugins
 ```
@@ -62,8 +62,8 @@ journal page** (检索于 2026-06；以官网为准).
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/communication-research-skills.git
-cd communication-research-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Communication-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/commres-* ~/.claude/skills/
 # or

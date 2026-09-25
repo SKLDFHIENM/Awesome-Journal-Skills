@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jcrd-submission",
-        "skills/jcrd-author-response",
-        "skills/jcrd-camera-ready",
-        "skills/jcrd-artifact-evaluation",
-        "skills/jcrd-reproducibility",
-        "skills/jcrd-supplementary",
-        "skills/jcrd-review-process",
-        "skills/jcrd-writing-style",
-        "skills/jcrd-related-work",
-        "skills/jcrd-experiments",
-        "skills/jcrd-workflow",
-        "skills/jcrd-topic-selection"
+        "./skills/jcrd-submission",
+        "./skills/jcrd-author-response",
+        "./skills/jcrd-camera-ready",
+        "./skills/jcrd-artifact-evaluation",
+        "./skills/jcrd-reproducibility",
+        "./skills/jcrd-supplementary",
+        "./skills/jcrd-review-process",
+        "./skills/jcrd-writing-style",
+        "./skills/jcrd-related-work",
+        "./skills/jcrd-experiments",
+        "./skills/jcrd-workflow",
+        "./skills/jcrd-topic-selection"
       ]
     }
   ]

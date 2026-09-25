@@ -61,7 +61,7 @@ Volatile specifics — the **current submission fee**, the exact **JEL-requireme
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/aej-microeconomics-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install aej-microeconomics-skills
 /reload-plugins
 ```
@@ -69,8 +69,8 @@ Volatile specifics — the **current submission fee**, the exact **JEL-requireme
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/aej-microeconomics-skills.git
-cd aej-microeconomics-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/AEJ-Microeconomics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/aejmic-* ~/.claude/skills/
 # or

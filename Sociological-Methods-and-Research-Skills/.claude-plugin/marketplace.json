@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/sociological-methods-and-research-skills",
-      "repository": "https://github.com/brycewang-stanford/sociological-methods-and-research-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "sociological-methods-and-research",
         "smr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/smr-workflow",
-        "skills/smr-topic-selection",
-        "skills/smr-method-contribution",
-        "skills/smr-literature-positioning",
-        "skills/smr-derivation-and-properties",
-        "skills/smr-simulation-studies",
-        "skills/smr-empirical-illustration",
-        "skills/smr-tables-figures",
-        "skills/smr-writing-style",
-        "skills/smr-software-and-reproducibility",
-        "skills/smr-submission",
-        "skills/smr-rebuttal"
+        "./skills/smr-workflow",
+        "./skills/smr-topic-selection",
+        "./skills/smr-method-contribution",
+        "./skills/smr-literature-positioning",
+        "./skills/smr-derivation-and-properties",
+        "./skills/smr-simulation-studies",
+        "./skills/smr-empirical-illustration",
+        "./skills/smr-tables-figures",
+        "./skills/smr-writing-style",
+        "./skills/smr-software-and-reproducibility",
+        "./skills/smr-submission",
+        "./skills/smr-rebuttal"
       ]
     }
   ]

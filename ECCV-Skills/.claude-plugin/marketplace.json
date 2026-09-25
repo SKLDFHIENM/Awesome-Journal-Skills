@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/eccv-submission",
-        "skills/eccv-author-response",
-        "skills/eccv-camera-ready",
-        "skills/eccv-artifact-evaluation",
-        "skills/eccv-reproducibility",
-        "skills/eccv-supplementary",
-        "skills/eccv-review-process",
-        "skills/eccv-writing-style",
-        "skills/eccv-related-work",
-        "skills/eccv-experiments",
-        "skills/eccv-workflow",
-        "skills/eccv-topic-selection"
+        "./skills/eccv-submission",
+        "./skills/eccv-author-response",
+        "./skills/eccv-camera-ready",
+        "./skills/eccv-artifact-evaluation",
+        "./skills/eccv-reproducibility",
+        "./skills/eccv-supplementary",
+        "./skills/eccv-review-process",
+        "./skills/eccv-writing-style",
+        "./skills/eccv-related-work",
+        "./skills/eccv-experiments",
+        "./skills/eccv-workflow",
+        "./skills/eccv-topic-selection"
       ]
     }
   ]

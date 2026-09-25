@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/current-anthropology-skills",
-      "repository": "https://github.com/brycewang-stanford/current-anthropology-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "current-anthropology",
         "anthropology",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/curranthro-workflow",
-        "skills/curranthro-topic-selection",
-        "skills/curranthro-literature-positioning",
-        "skills/curranthro-theory-building",
-        "skills/curranthro-research-design",
-        "skills/curranthro-data-analysis",
-        "skills/curranthro-tables-figures",
-        "skills/curranthro-writing-style",
-        "skills/curranthro-transparency-and-data",
-        "skills/curranthro-review-process",
-        "skills/curranthro-submission",
-        "skills/curranthro-rebuttal"
+        "./skills/curranthro-workflow",
+        "./skills/curranthro-topic-selection",
+        "./skills/curranthro-literature-positioning",
+        "./skills/curranthro-theory-building",
+        "./skills/curranthro-research-design",
+        "./skills/curranthro-data-analysis",
+        "./skills/curranthro-tables-figures",
+        "./skills/curranthro-writing-style",
+        "./skills/curranthro-transparency-and-data",
+        "./skills/curranthro-review-process",
+        "./skills/curranthro-submission",
+        "./skills/curranthro-rebuttal"
       ]
     }
   ]

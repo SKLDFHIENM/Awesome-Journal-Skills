@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jhr-skills",
-      "repository": "https://github.com/brycewang-stanford/jhr-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-human-resources",
         "jhr",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jhr-workflow",
-        "skills/jhr-topic-selection",
-        "skills/jhr-literature-positioning",
-        "skills/jhr-identification-strategy",
-        "skills/jhr-data-analysis",
-        "skills/jhr-contribution-framing",
-        "skills/jhr-tables-figures",
-        "skills/jhr-writing-style",
-        "skills/jhr-replication-and-data-policy",
-        "skills/jhr-review-process",
-        "skills/jhr-submission",
-        "skills/jhr-rebuttal"
+        "./skills/jhr-workflow",
+        "./skills/jhr-topic-selection",
+        "./skills/jhr-literature-positioning",
+        "./skills/jhr-identification-strategy",
+        "./skills/jhr-data-analysis",
+        "./skills/jhr-contribution-framing",
+        "./skills/jhr-tables-figures",
+        "./skills/jhr-writing-style",
+        "./skills/jhr-replication-and-data-policy",
+        "./skills/jhr-review-process",
+        "./skills/jhr-submission",
+        "./skills/jhr-rebuttal"
       ]
     }
   ]

@@ -43,7 +43,7 @@ JCF 的约束与综合性 top-5 期刊或方法类期刊有实质差异：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jcf-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jcf-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ JCF 的约束与综合性 top-5 期刊或方法类期刊有实质差异：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jcf-skills.git
-cd jcf-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Corporate-Finance-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jcf-* ~/.claude/skills/
 # 或

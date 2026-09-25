@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/eer-skills",
-      "repository": "https://github.com/brycewang-stanford/eer-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "european-economic-review",
         "eer",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/eer-workflow",
-        "skills/eer-topic-selection",
-        "skills/eer-literature-positioning",
-        "skills/eer-identification",
-        "skills/eer-theory-model",
-        "skills/eer-robustness",
-        "skills/eer-tables-figures",
-        "skills/eer-writing-style",
-        "skills/eer-replication-package",
-        "skills/eer-referee-strategy",
-        "skills/eer-submission",
-        "skills/eer-rebuttal"
+        "./skills/eer-workflow",
+        "./skills/eer-topic-selection",
+        "./skills/eer-literature-positioning",
+        "./skills/eer-identification",
+        "./skills/eer-theory-model",
+        "./skills/eer-robustness",
+        "./skills/eer-tables-figures",
+        "./skills/eer-writing-style",
+        "./skills/eer-replication-package",
+        "./skills/eer-referee-strategy",
+        "./skills/eer-submission",
+        "./skills/eer-rebuttal"
       ]
     }
   ]

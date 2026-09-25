@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/focs-submission",
-        "skills/focs-author-response",
-        "skills/focs-camera-ready",
-        "skills/focs-artifact-evaluation",
-        "skills/focs-reproducibility",
-        "skills/focs-supplementary",
-        "skills/focs-review-process",
-        "skills/focs-writing-style",
-        "skills/focs-related-work",
-        "skills/focs-experiments",
-        "skills/focs-workflow",
-        "skills/focs-topic-selection"
+        "./skills/focs-submission",
+        "./skills/focs-author-response",
+        "./skills/focs-camera-ready",
+        "./skills/focs-artifact-evaluation",
+        "./skills/focs-reproducibility",
+        "./skills/focs-supplementary",
+        "./skills/focs-review-process",
+        "./skills/focs-writing-style",
+        "./skills/focs-related-work",
+        "./skills/focs-experiments",
+        "./skills/focs-workflow",
+        "./skills/focs-topic-selection"
       ]
     }
   ]

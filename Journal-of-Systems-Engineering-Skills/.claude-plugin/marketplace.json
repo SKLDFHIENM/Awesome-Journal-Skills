@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jse-tju-workflow",
-        "skills/jse-tju-fit-positioning",
-        "skills/jse-tju-topic-selection",
-        "skills/jse-tju-literature-review",
-        "skills/jse-tju-system-modeling",
-        "skills/jse-tju-theory-analysis",
-        "skills/jse-tju-algorithm-computation",
-        "skills/jse-tju-validation",
-        "skills/jse-tju-robustness-reproducibility",
-        "skills/jse-tju-writing-tables-figures",
-        "skills/jse-tju-submission",
-        "skills/jse-tju-rebuttal"
+        "./skills/jse-tju-workflow",
+        "./skills/jse-tju-fit-positioning",
+        "./skills/jse-tju-topic-selection",
+        "./skills/jse-tju-literature-review",
+        "./skills/jse-tju-system-modeling",
+        "./skills/jse-tju-theory-analysis",
+        "./skills/jse-tju-algorithm-computation",
+        "./skills/jse-tju-validation",
+        "./skills/jse-tju-robustness-reproducibility",
+        "./skills/jse-tju-writing-tables-figures",
+        "./skills/jse-tju-submission",
+        "./skills/jse-tju-rebuttal"
       ]
     }
   ]

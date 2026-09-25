@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/wber-skills",
-      "repository": "https://github.com/brycewang-stanford/wber-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "wber",
         "the-world-bank-economic-review",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/wber-workflow",
-        "skills/wber-topic-selection",
-        "skills/wber-literature-positioning",
-        "skills/wber-identification",
-        "skills/wber-theory-model",
-        "skills/wber-robustness",
-        "skills/wber-tables-figures",
-        "skills/wber-writing-style",
-        "skills/wber-replication-package",
-        "skills/wber-referee-strategy",
-        "skills/wber-submission",
-        "skills/wber-rebuttal"
+        "./skills/wber-workflow",
+        "./skills/wber-topic-selection",
+        "./skills/wber-literature-positioning",
+        "./skills/wber-identification",
+        "./skills/wber-theory-model",
+        "./skills/wber-robustness",
+        "./skills/wber-tables-figures",
+        "./skills/wber-writing-style",
+        "./skills/wber-replication-package",
+        "./skills/wber-referee-strategy",
+        "./skills/wber-submission",
+        "./skills/wber-rebuttal"
       ]
     }
   ]

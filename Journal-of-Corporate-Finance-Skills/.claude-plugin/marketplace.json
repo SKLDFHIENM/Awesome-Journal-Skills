@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jcf-skills",
-      "repository": "https://github.com/brycewang-stanford/jcf-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-corporate-finance",
         "jcf",
@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jcf-workflow",
-        "skills/jcf-topic-selection",
-        "skills/jcf-literature-positioning",
-        "skills/jcf-identification-strategy",
-        "skills/jcf-data-analysis",
-        "skills/jcf-tables-figures",
-        "skills/jcf-contribution-framing",
-        "skills/jcf-writing-style",
-        "skills/jcf-replication-and-data-policy",
-        "skills/jcf-review-process",
-        "skills/jcf-submission",
-        "skills/jcf-rebuttal"
+        "./skills/jcf-workflow",
+        "./skills/jcf-topic-selection",
+        "./skills/jcf-literature-positioning",
+        "./skills/jcf-identification-strategy",
+        "./skills/jcf-data-analysis",
+        "./skills/jcf-tables-figures",
+        "./skills/jcf-contribution-framing",
+        "./skills/jcf-writing-style",
+        "./skills/jcf-replication-and-data-policy",
+        "./skills/jcf-review-process",
+        "./skills/jcf-submission",
+        "./skills/jcf-rebuttal"
       ]
     }
   ]

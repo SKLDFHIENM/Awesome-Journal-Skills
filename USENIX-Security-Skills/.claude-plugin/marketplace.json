@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/usenixsec-submission",
-        "skills/usenixsec-author-response",
-        "skills/usenixsec-camera-ready",
-        "skills/usenixsec-artifact-evaluation",
-        "skills/usenixsec-reproducibility",
-        "skills/usenixsec-supplementary",
-        "skills/usenixsec-review-process",
-        "skills/usenixsec-writing-style",
-        "skills/usenixsec-related-work",
-        "skills/usenixsec-experiments",
-        "skills/usenixsec-workflow",
-        "skills/usenixsec-topic-selection"
+        "./skills/usenixsec-submission",
+        "./skills/usenixsec-author-response",
+        "./skills/usenixsec-camera-ready",
+        "./skills/usenixsec-artifact-evaluation",
+        "./skills/usenixsec-reproducibility",
+        "./skills/usenixsec-supplementary",
+        "./skills/usenixsec-review-process",
+        "./skills/usenixsec-writing-style",
+        "./skills/usenixsec-related-work",
+        "./skills/usenixsec-experiments",
+        "./skills/usenixsec-workflow",
+        "./skills/usenixsec-topic-selection"
       ]
     }
   ]

@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jae-skills",
-      "repository": "https://github.com/brycewang-stanford/jae-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-accounting-and-economics",
         "jae",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jae-workflow",
-        "skills/jae-topic-selection",
-        "skills/jae-theory-development",
-        "skills/jae-literature-positioning",
-        "skills/jae-methods",
-        "skills/jae-data-analysis",
-        "skills/jae-contribution-framing",
-        "skills/jae-tables-figures",
-        "skills/jae-writing-style",
-        "skills/jae-submission",
-        "skills/jae-review-process",
-        "skills/jae-rebuttal"
+        "./skills/jae-workflow",
+        "./skills/jae-topic-selection",
+        "./skills/jae-theory-development",
+        "./skills/jae-literature-positioning",
+        "./skills/jae-methods",
+        "./skills/jae-data-analysis",
+        "./skills/jae-contribution-framing",
+        "./skills/jae-tables-figures",
+        "./skills/jae-writing-style",
+        "./skills/jae-submission",
+        "./skills/jae-review-process",
+        "./skills/jae-rebuttal"
       ]
     }
   ]

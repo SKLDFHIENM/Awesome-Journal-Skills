@@ -43,7 +43,7 @@ QJE 的约束维度与方法类期刊（Econometrica）或顶级领域刊**显�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/qje-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install qje-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ QJE 的约束维度与方法类期刊（Econometrica）或顶级领域刊**显�
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/qje-skills.git
-cd qje-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Quarterly-Journal-of-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/qje-* ~/.claude/skills/
 # 或
@@ -145,7 +145,7 @@ qje-rebuttal
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》投稿工具栈
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》投稿工具栈
 - [Quarterly Journal of Economics（官网）](https://academic.oup.com/qje) —— 牛津大学出版社
 
 ---

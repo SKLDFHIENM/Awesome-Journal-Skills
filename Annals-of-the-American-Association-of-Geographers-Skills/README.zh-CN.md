@@ -63,7 +63,7 @@ Environmental Sciences）**——定量/空间、GIScience、遥感、定性与�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/annals-aag-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install annals-aag-skills
 /reload-plugins
 ```
@@ -71,8 +71,8 @@ Environmental Sciences）**——定量/空间、GIScience、遥感、定性与�
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/annals-aag-skills.git
-cd annals-aag-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Annals-of-the-American-Association-of-Geographers-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/aaag-* ~/.claude/skills/
 # 或

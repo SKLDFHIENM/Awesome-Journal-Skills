@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jmsc-workflow",
-        "skills/jmsc-fit-positioning",
-        "skills/jmsc-problem-formulation",
-        "skills/jmsc-model-building",
-        "skills/jmsc-proofs",
-        "skills/jmsc-algorithm",
-        "skills/jmsc-numerical-experiments",
-        "skills/jmsc-behavioral-om",
-        "skills/jmsc-managerial-insights",
-        "skills/jmsc-notation-style",
-        "skills/jmsc-submission",
-        "skills/jmsc-rebuttal"
+        "./skills/jmsc-workflow",
+        "./skills/jmsc-fit-positioning",
+        "./skills/jmsc-problem-formulation",
+        "./skills/jmsc-model-building",
+        "./skills/jmsc-proofs",
+        "./skills/jmsc-algorithm",
+        "./skills/jmsc-numerical-experiments",
+        "./skills/jmsc-behavioral-om",
+        "./skills/jmsc-managerial-insights",
+        "./skills/jmsc-notation-style",
+        "./skills/jmsc-submission",
+        "./skills/jmsc-rebuttal"
       ]
     }
   ]

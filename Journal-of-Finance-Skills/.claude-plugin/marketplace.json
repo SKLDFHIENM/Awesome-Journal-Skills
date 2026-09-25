@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jf-skills",
-      "repository": "https://github.com/brycewang-stanford/jf-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-finance",
         "american-finance-association",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jf-workflow",
-        "skills/jf-topic-selection",
-        "skills/jf-literature-positioning",
-        "skills/jf-identification",
-        "skills/jf-empirical-design",
-        "skills/jf-robustness",
-        "skills/jf-tables-figures",
-        "skills/jf-internet-appendix",
-        "skills/jf-writing-style",
-        "skills/jf-submission",
-        "skills/jf-referee-strategy",
-        "skills/jf-rebuttal"
+        "./skills/jf-workflow",
+        "./skills/jf-topic-selection",
+        "./skills/jf-literature-positioning",
+        "./skills/jf-identification",
+        "./skills/jf-empirical-design",
+        "./skills/jf-robustness",
+        "./skills/jf-tables-figures",
+        "./skills/jf-internet-appendix",
+        "./skills/jf-writing-style",
+        "./skills/jf-submission",
+        "./skills/jf-referee-strategy",
+        "./skills/jf-rebuttal"
       ]
     }
   ]

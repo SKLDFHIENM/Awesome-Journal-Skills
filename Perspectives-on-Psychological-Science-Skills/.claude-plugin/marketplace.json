@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/perspectives-on-psychological-science-skills",
-      "repository": "https://github.com/brycewang-stanford/perspectives-on-psychological-science-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "ppsych",
         "perspectives-on-psychological-science",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ppsych-workflow",
-        "skills/ppsych-topic-selection",
-        "skills/ppsych-proposal-and-commissioning",
-        "skills/ppsych-literature-synthesis",
-        "skills/ppsych-organizing-framework",
-        "skills/ppsych-comprehensiveness-and-balance",
-        "skills/ppsych-tables-figures",
-        "skills/ppsych-writing-style",
-        "skills/ppsych-transparency-and-reproducibility",
-        "skills/ppsych-editor-strategy",
-        "skills/ppsych-submission",
-        "skills/ppsych-revision"
+        "./skills/ppsych-workflow",
+        "./skills/ppsych-topic-selection",
+        "./skills/ppsych-proposal-and-commissioning",
+        "./skills/ppsych-literature-synthesis",
+        "./skills/ppsych-organizing-framework",
+        "./skills/ppsych-comprehensiveness-and-balance",
+        "./skills/ppsych-tables-figures",
+        "./skills/ppsych-writing-style",
+        "./skills/ppsych-transparency-and-reproducibility",
+        "./skills/ppsych-editor-strategy",
+        "./skills/ppsych-submission",
+        "./skills/ppsych-revision"
       ]
     }
   ]

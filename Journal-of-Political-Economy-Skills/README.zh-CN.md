@@ -45,7 +45,7 @@ JPE 虽属五大刊，但其办刊口味与 QJE / Econometrica / REStud 存在�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpe-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpe-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ JPE 虽属五大刊，但其办刊口味与 QJE / Econometrica / REStud 存在�
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpe-skills.git
-cd jpe-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Political-Economy-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpe-* ~/.claude/skills/
 # 或
@@ -142,7 +142,7 @@ jpe-rebuttal
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊专属技能包索引
 - [AER-skills](https://github.com/brycewang-stanford/AER-skills) —— American Economic Review
-- [economic-research-skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》
+- [economic-research-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》
 
 ---
 

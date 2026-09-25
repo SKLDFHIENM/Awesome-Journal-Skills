@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ppopp-submission",
-        "skills/ppopp-author-response",
-        "skills/ppopp-camera-ready",
-        "skills/ppopp-artifact-evaluation",
-        "skills/ppopp-reproducibility",
-        "skills/ppopp-supplementary",
-        "skills/ppopp-review-process",
-        "skills/ppopp-writing-style",
-        "skills/ppopp-related-work",
-        "skills/ppopp-experiments",
-        "skills/ppopp-workflow",
-        "skills/ppopp-topic-selection"
+        "./skills/ppopp-submission",
+        "./skills/ppopp-author-response",
+        "./skills/ppopp-camera-ready",
+        "./skills/ppopp-artifact-evaluation",
+        "./skills/ppopp-reproducibility",
+        "./skills/ppopp-supplementary",
+        "./skills/ppopp-review-process",
+        "./skills/ppopp-writing-style",
+        "./skills/ppopp-related-work",
+        "./skills/ppopp-experiments",
+        "./skills/ppopp-workflow",
+        "./skills/ppopp-topic-selection"
       ]
     }
   ]

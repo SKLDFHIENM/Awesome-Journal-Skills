@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/governance-journal-skills",
-      "repository": "https://github.com/brycewang-stanford/governance-journal-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "governance-journal",
         "public-administration",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/govern-workflow",
-        "skills/govern-topic-selection",
-        "skills/govern-literature-positioning",
-        "skills/govern-theory-building",
-        "skills/govern-research-design",
-        "skills/govern-data-analysis",
-        "skills/govern-tables-figures",
-        "skills/govern-writing-style",
-        "skills/govern-transparency-and-data",
-        "skills/govern-review-process",
-        "skills/govern-submission",
-        "skills/govern-rebuttal"
+        "./skills/govern-workflow",
+        "./skills/govern-topic-selection",
+        "./skills/govern-literature-positioning",
+        "./skills/govern-theory-building",
+        "./skills/govern-research-design",
+        "./skills/govern-data-analysis",
+        "./skills/govern-tables-figures",
+        "./skills/govern-writing-style",
+        "./skills/govern-transparency-and-data",
+        "./skills/govern-review-process",
+        "./skills/govern-submission",
+        "./skills/govern-rebuttal"
       ]
     }
   ]

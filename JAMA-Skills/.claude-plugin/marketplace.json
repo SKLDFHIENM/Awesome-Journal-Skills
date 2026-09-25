@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jama-skills",
-      "repository": "https://github.com/brycewang-stanford/jama-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jama",
         "clinical-research",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jama-workflow",
-        "skills/jama-scope-fit",
-        "skills/jama-study-design",
-        "skills/jama-reporting-standards",
-        "skills/jama-statistics",
-        "skills/jama-figures-tables",
-        "skills/jama-structured-abstract",
-        "skills/jama-ethics-registration",
-        "skills/jama-writing-style",
-        "skills/jama-cover-letter",
-        "skills/jama-submission",
-        "skills/jama-peer-review-revision"
+        "./skills/jama-workflow",
+        "./skills/jama-scope-fit",
+        "./skills/jama-study-design",
+        "./skills/jama-reporting-standards",
+        "./skills/jama-statistics",
+        "./skills/jama-figures-tables",
+        "./skills/jama-structured-abstract",
+        "./skills/jama-ethics-registration",
+        "./skills/jama-writing-style",
+        "./skills/jama-cover-letter",
+        "./skills/jama-submission",
+        "./skills/jama-peer-review-revision"
       ]
     }
   ]

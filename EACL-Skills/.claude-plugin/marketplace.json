@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/eacl-submission",
-        "skills/eacl-author-response",
-        "skills/eacl-camera-ready",
-        "skills/eacl-artifact-evaluation",
-        "skills/eacl-reproducibility",
-        "skills/eacl-supplementary",
-        "skills/eacl-review-process",
-        "skills/eacl-writing-style",
-        "skills/eacl-related-work",
-        "skills/eacl-experiments",
-        "skills/eacl-workflow",
-        "skills/eacl-topic-selection"
+        "./skills/eacl-submission",
+        "./skills/eacl-author-response",
+        "./skills/eacl-camera-ready",
+        "./skills/eacl-artifact-evaluation",
+        "./skills/eacl-reproducibility",
+        "./skills/eacl-supplementary",
+        "./skills/eacl-review-process",
+        "./skills/eacl-writing-style",
+        "./skills/eacl-related-work",
+        "./skills/eacl-experiments",
+        "./skills/eacl-workflow",
+        "./skills/eacl-topic-selection"
       ]
     }
   ]

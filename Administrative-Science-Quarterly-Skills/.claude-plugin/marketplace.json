@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/asq-skills",
-      "repository": "https://github.com/brycewang-stanford/asq-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "administrative-science-quarterly",
         "asq",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/asq-workflow",
-        "skills/asq-topic-selection",
-        "skills/asq-theory-development",
-        "skills/asq-literature-positioning",
-        "skills/asq-methods",
-        "skills/asq-data-analysis",
-        "skills/asq-contribution-framing",
-        "skills/asq-tables-figures",
-        "skills/asq-writing-style",
-        "skills/asq-submission",
-        "skills/asq-review-process",
-        "skills/asq-rebuttal"
+        "./skills/asq-workflow",
+        "./skills/asq-topic-selection",
+        "./skills/asq-theory-development",
+        "./skills/asq-literature-positioning",
+        "./skills/asq-methods",
+        "./skills/asq-data-analysis",
+        "./skills/asq-contribution-framing",
+        "./skills/asq-tables-figures",
+        "./skills/asq-writing-style",
+        "./skills/asq-submission",
+        "./skills/asq-review-process",
+        "./skills/asq-rebuttal"
       ]
     }
   ]

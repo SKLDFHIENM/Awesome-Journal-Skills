@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/world-development-skills",
-      "repository": "https://github.com/brycewang-stanford/world-development-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "world-development",
         "econ",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/worlddev-workflow",
-        "skills/worlddev-topic-selection",
-        "skills/worlddev-literature-positioning",
-        "skills/worlddev-identification",
-        "skills/worlddev-theory-model",
-        "skills/worlddev-robustness",
-        "skills/worlddev-tables-figures",
-        "skills/worlddev-writing-style",
-        "skills/worlddev-replication-package",
-        "skills/worlddev-referee-strategy",
-        "skills/worlddev-submission",
-        "skills/worlddev-rebuttal"
+        "./skills/worlddev-workflow",
+        "./skills/worlddev-topic-selection",
+        "./skills/worlddev-literature-positioning",
+        "./skills/worlddev-identification",
+        "./skills/worlddev-theory-model",
+        "./skills/worlddev-robustness",
+        "./skills/worlddev-tables-figures",
+        "./skills/worlddev-writing-style",
+        "./skills/worlddev-replication-package",
+        "./skills/worlddev-referee-strategy",
+        "./skills/worlddev-submission",
+        "./skills/worlddev-rebuttal"
       ]
     }
   ]

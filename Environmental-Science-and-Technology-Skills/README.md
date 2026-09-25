@@ -66,7 +66,7 @@ current editor, metrics, any APC) change — items not directly confirmed are ma
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/est-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install est-skills
 /reload-plugins
 ```
@@ -74,8 +74,8 @@ current editor, metrics, any APC) change — items not directly confirmed are ma
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/est-skills.git
-cd est-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Environmental-Science-and-Technology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/est-* ~/.claude/skills/
 # or

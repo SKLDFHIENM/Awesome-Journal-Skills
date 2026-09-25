@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/review-of-accounting-studies-skills",
-      "repository": "https://github.com/brycewang-stanford/review-of-accounting-studies-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "rast",
         "review-of-accounting-studies",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/revacc-workflow",
-        "skills/revacc-topic-selection",
-        "skills/revacc-theory-development",
-        "skills/revacc-literature-positioning",
-        "skills/revacc-methods",
-        "skills/revacc-data-analysis",
-        "skills/revacc-contribution-framing",
-        "skills/revacc-tables-figures",
-        "skills/revacc-writing-style",
-        "skills/revacc-submission",
-        "skills/revacc-review-process",
-        "skills/revacc-rebuttal"
+        "./skills/revacc-workflow",
+        "./skills/revacc-topic-selection",
+        "./skills/revacc-theory-development",
+        "./skills/revacc-literature-positioning",
+        "./skills/revacc-methods",
+        "./skills/revacc-data-analysis",
+        "./skills/revacc-contribution-framing",
+        "./skills/revacc-tables-figures",
+        "./skills/revacc-writing-style",
+        "./skills/revacc-submission",
+        "./skills/revacc-review-process",
+        "./skills/revacc-rebuttal"
       ]
     }
   ]

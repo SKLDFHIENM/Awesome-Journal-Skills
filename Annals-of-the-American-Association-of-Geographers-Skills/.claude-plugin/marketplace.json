@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/annals-aag-skills",
-      "repository": "https://github.com/brycewang-stanford/annals-aag-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "annals-of-the-aag",
         "american-association-of-geographers",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aaag-workflow",
-        "skills/aaag-topic-selection",
-        "skills/aaag-literature-positioning",
-        "skills/aaag-theory-building",
-        "skills/aaag-research-design",
-        "skills/aaag-data-analysis",
-        "skills/aaag-tables-figures",
-        "skills/aaag-writing-style",
-        "skills/aaag-transparency-and-data",
-        "skills/aaag-review-process",
-        "skills/aaag-submission",
-        "skills/aaag-rebuttal"
+        "./skills/aaag-workflow",
+        "./skills/aaag-topic-selection",
+        "./skills/aaag-literature-positioning",
+        "./skills/aaag-theory-building",
+        "./skills/aaag-research-design",
+        "./skills/aaag-data-analysis",
+        "./skills/aaag-tables-figures",
+        "./skills/aaag-writing-style",
+        "./skills/aaag-transparency-and-data",
+        "./skills/aaag-review-process",
+        "./skills/aaag-submission",
+        "./skills/aaag-rebuttal"
       ]
     }
   ]

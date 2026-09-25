@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/rje-skills",
-      "repository": "https://github.com/brycewang-stanford/rje-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "rand-journal-of-economics",
         "rje",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/rje-workflow",
-        "skills/rje-topic-selection",
-        "skills/rje-contribution-framing",
-        "skills/rje-literature-positioning",
-        "skills/rje-identification-strategy",
-        "skills/rje-data-analysis",
-        "skills/rje-tables-figures",
-        "skills/rje-writing-style",
-        "skills/rje-replication-and-data-policy",
-        "skills/rje-review-process",
-        "skills/rje-submission",
-        "skills/rje-rebuttal"
+        "./skills/rje-workflow",
+        "./skills/rje-topic-selection",
+        "./skills/rje-contribution-framing",
+        "./skills/rje-literature-positioning",
+        "./skills/rje-identification-strategy",
+        "./skills/rje-data-analysis",
+        "./skills/rje-tables-figures",
+        "./skills/rje-writing-style",
+        "./skills/rje-replication-and-data-policy",
+        "./skills/rje-review-process",
+        "./skills/rje-submission",
+        "./skills/rje-rebuttal"
       ]
     }
   ]

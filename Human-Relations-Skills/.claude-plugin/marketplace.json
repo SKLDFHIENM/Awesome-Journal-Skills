@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/human-relations-skills",
-      "repository": "https://github.com/brycewang-stanford/human-relations-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "human-relations",
         "management",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/humrel-workflow",
-        "skills/humrel-topic-selection",
-        "skills/humrel-theory-development",
-        "skills/humrel-literature-positioning",
-        "skills/humrel-methods",
-        "skills/humrel-data-analysis",
-        "skills/humrel-contribution-framing",
-        "skills/humrel-tables-figures",
-        "skills/humrel-writing-style",
-        "skills/humrel-submission",
-        "skills/humrel-review-process",
-        "skills/humrel-rebuttal"
+        "./skills/humrel-workflow",
+        "./skills/humrel-topic-selection",
+        "./skills/humrel-theory-development",
+        "./skills/humrel-literature-positioning",
+        "./skills/humrel-methods",
+        "./skills/humrel-data-analysis",
+        "./skills/humrel-contribution-framing",
+        "./skills/humrel-tables-figures",
+        "./skills/humrel-writing-style",
+        "./skills/humrel-submission",
+        "./skills/humrel-review-process",
+        "./skills/humrel-rebuttal"
       ]
     }
   ]

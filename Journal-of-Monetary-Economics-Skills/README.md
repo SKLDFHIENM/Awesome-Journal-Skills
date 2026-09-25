@@ -45,7 +45,7 @@ Editors are **S. Borağan Aruoba** (University of Maryland) and **Eric Swanson**
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jme-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jme-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Editors are **S. Borağan Aruoba** (University of Maryland) and **Eric Swanson**
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jme-skills.git
-cd jme-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Monetary-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jme-* ~/.claude/skills/
 # or
@@ -147,7 +147,7 @@ jme-rebuttal                 (the "up or out" revision)
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Quarterly-Journal-of-Economics-Skills](https://github.com/brycewang-stanford/qje-skills) — QJE pack
+- [Quarterly-Journal-of-Economics-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Quarterly-Journal-of-Economics-Skills) — QJE pack
 - [Journal of Monetary Economics (official)](https://www.sciencedirect.com/journal/journal-of-monetary-economics) — Elsevier / ScienceDirect
 
 ---

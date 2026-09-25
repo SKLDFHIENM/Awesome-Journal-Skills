@@ -62,7 +62,7 @@ AEJs, and the AER (rows marked **[official]** are verified against AEA sources):
 ### As a Claude Code plugin
 
 ```
-/plugin marketplace add brycewang-stanford/aej-economic-policy-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install aej-economic-policy-skills
 ```
 

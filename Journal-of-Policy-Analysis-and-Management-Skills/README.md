@@ -66,7 +66,7 @@ Exchange prompts that must be checked at upload.
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpam-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpam-skills
 /reload-plugins
 ```
@@ -74,8 +74,8 @@ Exchange prompts that must be checked at upload.
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpam-skills.git
-cd jpam-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Policy-Analysis-and-Management-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpam-* ~/.claude/skills/
 # or

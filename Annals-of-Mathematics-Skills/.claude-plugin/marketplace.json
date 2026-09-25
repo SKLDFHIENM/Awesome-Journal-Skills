@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/annals-of-mathematics-skills",
-      "repository": "https://github.com/brycewang-stanford/annals-of-mathematics-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "annals-of-mathematics",
         "pure-mathematics",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/anmath-workflow",
-        "skills/anmath-scope-fit",
-        "skills/anmath-results-framing",
-        "skills/anmath-methods",
-        "skills/anmath-figures",
-        "skills/anmath-supplementary",
-        "skills/anmath-writing-style",
-        "skills/anmath-length-management",
-        "skills/anmath-cover-letter",
-        "skills/anmath-submission",
-        "skills/anmath-referee-strategy",
-        "skills/anmath-revision"
+        "./skills/anmath-workflow",
+        "./skills/anmath-scope-fit",
+        "./skills/anmath-results-framing",
+        "./skills/anmath-methods",
+        "./skills/anmath-figures",
+        "./skills/anmath-supplementary",
+        "./skills/anmath-writing-style",
+        "./skills/anmath-length-management",
+        "./skills/anmath-cover-letter",
+        "./skills/anmath-submission",
+        "./skills/anmath-referee-strategy",
+        "./skills/anmath-revision"
       ]
     }
   ]

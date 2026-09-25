@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/epsl-skills",
-      "repository": "https://github.com/brycewang-stanford/epsl-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "earth-and-planetary-science-letters",
         "epsl",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/epsl-workflow",
-        "skills/epsl-topic-selection",
-        "skills/epsl-literature-positioning",
-        "skills/epsl-study-design",
-        "skills/epsl-data-analysis",
-        "skills/epsl-figures-and-tables",
-        "skills/epsl-reporting-and-reproducibility",
-        "skills/epsl-writing-style",
-        "skills/epsl-cover-letter",
-        "skills/epsl-review-process",
-        "skills/epsl-submission",
-        "skills/epsl-revision-and-rebuttal"
+        "./skills/epsl-workflow",
+        "./skills/epsl-topic-selection",
+        "./skills/epsl-literature-positioning",
+        "./skills/epsl-study-design",
+        "./skills/epsl-data-analysis",
+        "./skills/epsl-figures-and-tables",
+        "./skills/epsl-reporting-and-reproducibility",
+        "./skills/epsl-writing-style",
+        "./skills/epsl-cover-letter",
+        "./skills/epsl-review-process",
+        "./skills/epsl-submission",
+        "./skills/epsl-revision-and-rebuttal"
       ]
     }
   ]

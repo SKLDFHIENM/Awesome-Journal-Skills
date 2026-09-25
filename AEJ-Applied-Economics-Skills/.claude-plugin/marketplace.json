@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/aej-applied-economics-skills",
-      "repository": "https://github.com/brycewang-stanford/aej-applied-economics-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "applied-economics",
         "aej-applied",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/aeja-workflow",
-        "skills/aeja-topic-selection",
-        "skills/aeja-literature-positioning",
-        "skills/aeja-identification",
-        "skills/aeja-theory-model",
-        "skills/aeja-robustness",
-        "skills/aeja-tables-figures",
-        "skills/aeja-writing-style",
-        "skills/aeja-replication-package",
-        "skills/aeja-referee-strategy",
-        "skills/aeja-submission",
-        "skills/aeja-rebuttal"
+        "./skills/aeja-workflow",
+        "./skills/aeja-topic-selection",
+        "./skills/aeja-literature-positioning",
+        "./skills/aeja-identification",
+        "./skills/aeja-theory-model",
+        "./skills/aeja-robustness",
+        "./skills/aeja-tables-figures",
+        "./skills/aeja-writing-style",
+        "./skills/aeja-replication-package",
+        "./skills/aeja-referee-strategy",
+        "./skills/aeja-submission",
+        "./skills/aeja-rebuttal"
       ]
     }
   ]

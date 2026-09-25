@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/recsys-submission",
-        "skills/recsys-author-response",
-        "skills/recsys-camera-ready",
-        "skills/recsys-artifact-evaluation",
-        "skills/recsys-reproducibility",
-        "skills/recsys-supplementary",
-        "skills/recsys-review-process",
-        "skills/recsys-writing-style",
-        "skills/recsys-related-work",
-        "skills/recsys-experiments",
-        "skills/recsys-workflow",
-        "skills/recsys-topic-selection"
+        "./skills/recsys-submission",
+        "./skills/recsys-author-response",
+        "./skills/recsys-camera-ready",
+        "./skills/recsys-artifact-evaluation",
+        "./skills/recsys-reproducibility",
+        "./skills/recsys-supplementary",
+        "./skills/recsys-review-process",
+        "./skills/recsys-writing-style",
+        "./skills/recsys-related-work",
+        "./skills/recsys-experiments",
+        "./skills/recsys-workflow",
+        "./skills/recsys-topic-selection"
       ]
     }
   ]

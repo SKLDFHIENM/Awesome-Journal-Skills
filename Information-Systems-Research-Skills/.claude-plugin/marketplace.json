@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/isr-skills",
-      "repository": "https://github.com/brycewang-stanford/isr-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "information-systems-research",
         "isr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/isr-workflow",
-        "skills/isr-topic-selection",
-        "skills/isr-theory-development",
-        "skills/isr-literature-positioning",
-        "skills/isr-methods",
-        "skills/isr-data-analysis",
-        "skills/isr-contribution-framing",
-        "skills/isr-tables-figures",
-        "skills/isr-writing-style",
-        "skills/isr-submission",
-        "skills/isr-review-process",
-        "skills/isr-rebuttal"
+        "./skills/isr-workflow",
+        "./skills/isr-topic-selection",
+        "./skills/isr-theory-development",
+        "./skills/isr-literature-positioning",
+        "./skills/isr-methods",
+        "./skills/isr-data-analysis",
+        "./skills/isr-contribution-framing",
+        "./skills/isr-tables-figures",
+        "./skills/isr-writing-style",
+        "./skills/isr-submission",
+        "./skills/isr-review-process",
+        "./skills/isr-rebuttal"
       ]
     }
   ]

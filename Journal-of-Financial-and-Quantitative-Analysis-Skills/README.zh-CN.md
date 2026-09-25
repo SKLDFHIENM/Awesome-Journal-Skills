@@ -45,7 +45,7 @@ JFQA 的约束与顶级经济学旗刊或方法类期刊存在实质差异：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jfqa-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jfqa-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ JFQA 的约束与顶级经济学旗刊或方法类期刊存在实质差异：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jfqa-skills.git
-cd jfqa-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Financial-and-Quantitative-Analysis-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jfqa-* ~/.claude/skills/
 # 或

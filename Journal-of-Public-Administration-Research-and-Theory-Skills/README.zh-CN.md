@@ -58,7 +58,7 @@ JPART 的约束不同于宽口径 PA 刊或政策分析刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpart-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpart-skills
 /reload-plugins
 ```
@@ -66,8 +66,8 @@ JPART 的约束不同于宽口径 PA 刊或政策分析刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpart-skills.git
-cd jpart-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Public-Administration-Research-and-Theory-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpart-* ~/.claude/skills/
 # 或

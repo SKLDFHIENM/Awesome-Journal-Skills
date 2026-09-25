@@ -64,7 +64,7 @@ journal page.**
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/mind-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install mind-skills
 /reload-plugins
 ```
@@ -72,8 +72,8 @@ journal page.**
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/mind-skills.git
-cd mind-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Mind-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/mind-* ~/.claude/skills/
 # or

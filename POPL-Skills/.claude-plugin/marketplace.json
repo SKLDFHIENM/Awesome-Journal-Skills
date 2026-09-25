@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/popl-submission",
-        "skills/popl-author-response",
-        "skills/popl-camera-ready",
-        "skills/popl-artifact-evaluation",
-        "skills/popl-reproducibility",
-        "skills/popl-supplementary",
-        "skills/popl-review-process",
-        "skills/popl-writing-style",
-        "skills/popl-related-work",
-        "skills/popl-experiments",
-        "skills/popl-workflow",
-        "skills/popl-topic-selection"
+        "./skills/popl-submission",
+        "./skills/popl-author-response",
+        "./skills/popl-camera-ready",
+        "./skills/popl-artifact-evaluation",
+        "./skills/popl-reproducibility",
+        "./skills/popl-supplementary",
+        "./skills/popl-review-process",
+        "./skills/popl-writing-style",
+        "./skills/popl-related-work",
+        "./skills/popl-experiments",
+        "./skills/popl-workflow",
+        "./skills/popl-topic-selection"
       ]
     }
   ]

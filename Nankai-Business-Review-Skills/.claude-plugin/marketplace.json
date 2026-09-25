@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/nbr-workflow",
-        "skills/nbr-fit-positioning",
-        "skills/nbr-theory-gap",
-        "skills/nbr-hypothesis-development",
-        "skills/nbr-measurement",
-        "skills/nbr-survey-sem",
-        "skills/nbr-experiment",
-        "skills/nbr-qualitative-case",
-        "skills/nbr-china-context",
-        "skills/nbr-discussion-contribution",
-        "skills/nbr-submission",
-        "skills/nbr-rebuttal"
+        "./skills/nbr-workflow",
+        "./skills/nbr-fit-positioning",
+        "./skills/nbr-theory-gap",
+        "./skills/nbr-hypothesis-development",
+        "./skills/nbr-measurement",
+        "./skills/nbr-survey-sem",
+        "./skills/nbr-experiment",
+        "./skills/nbr-qualitative-case",
+        "./skills/nbr-china-context",
+        "./skills/nbr-discussion-contribution",
+        "./skills/nbr-submission",
+        "./skills/nbr-rebuttal"
       ]
     }
   ]

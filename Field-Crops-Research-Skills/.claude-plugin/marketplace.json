@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/fcr-skills",
-      "repository": "https://github.com/brycewang-stanford/fcr-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "field-crops-research",
         "fcr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/fcr-workflow",
-        "skills/fcr-topic-selection",
-        "skills/fcr-literature-positioning",
-        "skills/fcr-experimental-design",
-        "skills/fcr-data-analysis",
-        "skills/fcr-figures-and-tables",
-        "skills/fcr-reporting-and-data-policy",
-        "skills/fcr-writing-style",
-        "skills/fcr-cover-letter",
-        "skills/fcr-review-process",
-        "skills/fcr-submission",
-        "skills/fcr-revision-and-rebuttal"
+        "./skills/fcr-workflow",
+        "./skills/fcr-topic-selection",
+        "./skills/fcr-literature-positioning",
+        "./skills/fcr-experimental-design",
+        "./skills/fcr-data-analysis",
+        "./skills/fcr-figures-and-tables",
+        "./skills/fcr-reporting-and-data-policy",
+        "./skills/fcr-writing-style",
+        "./skills/fcr-cover-letter",
+        "./skills/fcr-review-process",
+        "./skills/fcr-submission",
+        "./skills/fcr-revision-and-rebuttal"
       ]
     }
   ]

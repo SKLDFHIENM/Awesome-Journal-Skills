@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jle-skills",
-      "repository": "https://github.com/brycewang-stanford/jle-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jle",
         "the-journal-of-law-and-economics",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jle-workflow",
-        "skills/jle-topic-selection",
-        "skills/jle-literature-positioning",
-        "skills/jle-identification",
-        "skills/jle-theory-model",
-        "skills/jle-robustness",
-        "skills/jle-tables-figures",
-        "skills/jle-writing-style",
-        "skills/jle-replication-package",
-        "skills/jle-referee-strategy",
-        "skills/jle-submission",
-        "skills/jle-rebuttal"
+        "./skills/jle-workflow",
+        "./skills/jle-topic-selection",
+        "./skills/jle-literature-positioning",
+        "./skills/jle-identification",
+        "./skills/jle-theory-model",
+        "./skills/jle-robustness",
+        "./skills/jle-tables-figures",
+        "./skills/jle-writing-style",
+        "./skills/jle-replication-package",
+        "./skills/jle-referee-strategy",
+        "./skills/jle-submission",
+        "./skills/jle-rebuttal"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/atc-submission",
-        "skills/atc-author-response",
-        "skills/atc-camera-ready",
-        "skills/atc-artifact-evaluation",
-        "skills/atc-reproducibility",
-        "skills/atc-supplementary",
-        "skills/atc-review-process",
-        "skills/atc-writing-style",
-        "skills/atc-related-work",
-        "skills/atc-experiments",
-        "skills/atc-workflow",
-        "skills/atc-topic-selection"
+        "./skills/atc-submission",
+        "./skills/atc-author-response",
+        "./skills/atc-camera-ready",
+        "./skills/atc-artifact-evaluation",
+        "./skills/atc-reproducibility",
+        "./skills/atc-supplementary",
+        "./skills/atc-review-process",
+        "./skills/atc-writing-style",
+        "./skills/atc-related-work",
+        "./skills/atc-experiments",
+        "./skills/atc-workflow",
+        "./skills/atc-topic-selection"
       ]
     }
   ]

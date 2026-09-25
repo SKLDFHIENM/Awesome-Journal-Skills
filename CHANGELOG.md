@@ -52,7 +52,7 @@ combined.
   files claiming 1,725 and 1,507 ladder edges against each other and against the 1,511
   rows in `ladder.tsv`. Every occurrence is checked, and a sentence that stops stating
   its count fails rather than passing quietly.
-- **`tools/tests/`** — 359 offline unit tests, stdlib `unittest`, under a second, run
+- **`tools/tests/`** — 366 offline unit tests, stdlib `unittest`, under a second, run
   first in `run_checks.py`. `py_compile` was the entire test suite for 200 KB of Python
   that every gate depends on, and the generators' `--check` runs are not a substitute:
   they compare a fresh build against a committed build produced by the same code, so a
@@ -157,6 +157,20 @@ combined.
 
 ### Fixed
 
+- **173 packs told users to install from repositories that do not exist.** Their READMEs,
+  `plugin.json` and `marketplace.json` named standalone repos such as
+  `brycewang-stanford/ci-skills` that were never created, so the recommended
+  `/plugin marketplace add` failed with "Repository not found" (issue #21), and so did
+  Option B's `git clone`. Every install line now adds the `awesome-journal-skills`
+  marketplace and clones the monorepo into the pack's folder; manifest URLs and 59
+  cross-pack links point into the monorepo. `audit_repo.check_own_repo_urls` now fails on
+  any `brycewang-stanford/<name>` that is not a known, existing repository.
+- **No per-pack `marketplace.json` passed Claude Code's own validator.** All 300 listed
+  skills as `skills/x`; `claude plugin validate` accepts only `./skills/x`, so the local
+  `marketplace add ./Pack-Skills` route was invalid too. The paths are now prefixed with
+  `./`, the audit expects that form, and all 300 validate.
+- **`venue-index.tsv` had been stale on `main` since the 2026-09-14 live-check**, which
+  edited pack prose without regenerating it. CI had been red since then; regenerated.
 - **`cycle_audit` matched a venue's acronym as a suffix.** `edition_years` anchored a
   pack on any occurrence of its venue's name followed by a year, with no left boundary,
   so "EACL 2027" contained "ACL 2027" and `ACL-Skills` was reported as anchored to an

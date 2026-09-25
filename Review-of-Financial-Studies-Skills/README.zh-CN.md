@@ -41,7 +41,7 @@ RFS 与 JF/JFE 共享同样高的因果识别门槛，但又有自身的约束�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/rfs-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install rfs-skills
 /reload-plugins
 ```
@@ -49,8 +49,8 @@ RFS 与 JF/JFE 共享同样高的因果识别门槛，但又有自身的约束�
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/rfs-skills.git
-cd rfs-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Review-of-Financial-Studies-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/rfs-* ~/.claude/skills/
 # 或
@@ -137,8 +137,8 @@ rfs-rebuttal
 ## 相关项目
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊专用技能包索引
-- [Journal-of-Finance-Skills](https://github.com/brycewang-stanford/journal-of-finance-skills) —— *Journal of Finance*
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》
+- [Journal-of-Finance-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Journal-of-Finance-Skills) —— *Journal of Finance*
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》
 
 ---
 

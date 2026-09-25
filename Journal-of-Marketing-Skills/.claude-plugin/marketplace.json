@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jm-skills",
-      "repository": "https://github.com/brycewang-stanford/jm-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-marketing",
         "jm",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jm-workflow",
-        "skills/jm-topic-selection",
-        "skills/jm-theory-development",
-        "skills/jm-literature-positioning",
-        "skills/jm-methods",
-        "skills/jm-data-analysis",
-        "skills/jm-contribution-framing",
-        "skills/jm-tables-figures",
-        "skills/jm-writing-style",
-        "skills/jm-submission",
-        "skills/jm-review-process",
-        "skills/jm-rebuttal"
+        "./skills/jm-workflow",
+        "./skills/jm-topic-selection",
+        "./skills/jm-theory-development",
+        "./skills/jm-literature-positioning",
+        "./skills/jm-methods",
+        "./skills/jm-data-analysis",
+        "./skills/jm-contribution-framing",
+        "./skills/jm-tables-figures",
+        "./skills/jm-writing-style",
+        "./skills/jm-submission",
+        "./skills/jm-review-process",
+        "./skills/jm-rebuttal"
       ]
     }
   ]

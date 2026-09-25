@@ -45,7 +45,7 @@ Generic "scientific writing" or "econ writing" packs do not address these. The p
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jpube-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jpube-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Generic "scientific writing" or "econ writing" packs do not address these. The p
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jpube-skills.git
-cd jpube-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Public-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jpube-* ~/.claude/skills/
 # or

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ssi-submission",
-        "skills/ssi-author-response",
-        "skills/ssi-camera-ready",
-        "skills/ssi-artifact-evaluation",
-        "skills/ssi-reproducibility",
-        "skills/ssi-supplementary",
-        "skills/ssi-review-process",
-        "skills/ssi-writing-style",
-        "skills/ssi-related-work",
-        "skills/ssi-experiments",
-        "skills/ssi-workflow",
-        "skills/ssi-topic-selection"
+        "./skills/ssi-submission",
+        "./skills/ssi-author-response",
+        "./skills/ssi-camera-ready",
+        "./skills/ssi-artifact-evaluation",
+        "./skills/ssi-reproducibility",
+        "./skills/ssi-supplementary",
+        "./skills/ssi-review-process",
+        "./skills/ssi-writing-style",
+        "./skills/ssi-related-work",
+        "./skills/ssi-experiments",
+        "./skills/ssi-workflow",
+        "./skills/ssi-topic-selection"
       ]
     }
   ]

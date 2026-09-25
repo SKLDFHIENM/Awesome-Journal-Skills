@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/qe-skills",
-      "repository": "https://github.com/brycewang-stanford/qe-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "quantitative-economics",
         "qe",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/qe-workflow",
-        "skills/qe-topic-selection",
-        "skills/qe-literature-positioning",
-        "skills/qe-contribution-framing",
-        "skills/qe-identification-strategy",
-        "skills/qe-data-analysis",
-        "skills/qe-tables-figures",
-        "skills/qe-writing-style",
-        "skills/qe-replication-and-data-policy",
-        "skills/qe-review-process",
-        "skills/qe-submission",
-        "skills/qe-rebuttal"
+        "./skills/qe-workflow",
+        "./skills/qe-topic-selection",
+        "./skills/qe-literature-positioning",
+        "./skills/qe-contribution-framing",
+        "./skills/qe-identification-strategy",
+        "./skills/qe-data-analysis",
+        "./skills/qe-tables-figures",
+        "./skills/qe-writing-style",
+        "./skills/qe-replication-and-data-policy",
+        "./skills/qe-review-process",
+        "./skills/qe-submission",
+        "./skills/qe-rebuttal"
       ]
     }
   ]

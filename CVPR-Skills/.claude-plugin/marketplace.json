@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cvpr-submission",
-        "skills/cvpr-author-response",
-        "skills/cvpr-camera-ready",
-        "skills/cvpr-artifact-evaluation",
-        "skills/cvpr-reproducibility",
-        "skills/cvpr-supplementary",
-        "skills/cvpr-review-process",
-        "skills/cvpr-writing-style",
-        "skills/cvpr-related-work",
-        "skills/cvpr-experiments",
-        "skills/cvpr-workflow",
-        "skills/cvpr-topic-selection"
+        "./skills/cvpr-submission",
+        "./skills/cvpr-author-response",
+        "./skills/cvpr-camera-ready",
+        "./skills/cvpr-artifact-evaluation",
+        "./skills/cvpr-reproducibility",
+        "./skills/cvpr-supplementary",
+        "./skills/cvpr-review-process",
+        "./skills/cvpr-writing-style",
+        "./skills/cvpr-related-work",
+        "./skills/cvpr-experiments",
+        "./skills/cvpr-workflow",
+        "./skills/cvpr-topic-selection"
       ]
     }
   ]

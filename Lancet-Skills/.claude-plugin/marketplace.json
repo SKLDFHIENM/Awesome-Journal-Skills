@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/lancet-workflow",
-        "skills/lancet-fit",
-        "skills/lancet-study-design",
-        "skills/lancet-reporting",
-        "skills/lancet-research-in-context",
-        "skills/lancet-abstract",
-        "skills/lancet-writing",
-        "skills/lancet-statistics",
-        "skills/lancet-figures-tables",
-        "skills/lancet-ethics",
-        "skills/lancet-submission",
-        "skills/lancet-rebuttal"
+        "./skills/lancet-workflow",
+        "./skills/lancet-fit",
+        "./skills/lancet-study-design",
+        "./skills/lancet-reporting",
+        "./skills/lancet-research-in-context",
+        "./skills/lancet-abstract",
+        "./skills/lancet-writing",
+        "./skills/lancet-statistics",
+        "./skills/lancet-figures-tables",
+        "./skills/lancet-ethics",
+        "./skills/lancet-submission",
+        "./skills/lancet-rebuttal"
       ]
     }
   ]

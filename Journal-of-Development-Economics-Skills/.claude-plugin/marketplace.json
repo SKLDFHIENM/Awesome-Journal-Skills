@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jde-skills",
-      "repository": "https://github.com/brycewang-stanford/jde-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-development-economics",
         "jde",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jde-workflow",
-        "skills/jde-topic-selection",
-        "skills/jde-literature-positioning",
-        "skills/jde-contribution-framing",
-        "skills/jde-identification-strategy",
-        "skills/jde-data-analysis",
-        "skills/jde-tables-figures",
-        "skills/jde-writing-style",
-        "skills/jde-replication-and-data-policy",
-        "skills/jde-review-process",
-        "skills/jde-submission",
-        "skills/jde-rebuttal"
+        "./skills/jde-workflow",
+        "./skills/jde-topic-selection",
+        "./skills/jde-literature-positioning",
+        "./skills/jde-contribution-framing",
+        "./skills/jde-identification-strategy",
+        "./skills/jde-data-analysis",
+        "./skills/jde-tables-figures",
+        "./skills/jde-writing-style",
+        "./skills/jde-replication-and-data-policy",
+        "./skills/jde-review-process",
+        "./skills/jde-submission",
+        "./skills/jde-rebuttal"
       ]
     }
   ]

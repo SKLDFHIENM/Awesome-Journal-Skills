@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/cancer-cell-skills",
-      "repository": "https://github.com/brycewang-stanford/cancer-cell-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "cancer-cell",
         "cell-press",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cc-workflow",
-        "skills/cc-scope-fit",
-        "skills/cc-study-design",
-        "skills/cc-reporting-standards",
-        "skills/cc-statistics",
-        "skills/cc-figures-tables",
-        "skills/cc-structured-abstract",
-        "skills/cc-ethics-registration",
-        "skills/cc-writing-style",
-        "skills/cc-cover-letter",
-        "skills/cc-submission",
-        "skills/cc-peer-review-revision"
+        "./skills/cc-workflow",
+        "./skills/cc-scope-fit",
+        "./skills/cc-study-design",
+        "./skills/cc-reporting-standards",
+        "./skills/cc-statistics",
+        "./skills/cc-figures-tables",
+        "./skills/cc-structured-abstract",
+        "./skills/cc-ethics-registration",
+        "./skills/cc-writing-style",
+        "./skills/cc-cover-letter",
+        "./skills/cc-submission",
+        "./skills/cc-peer-review-revision"
       ]
     }
   ]

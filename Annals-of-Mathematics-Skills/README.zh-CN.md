@@ -46,7 +46,7 @@ Annals 的约束维度与实验科学期刊（PRL、JACS）以及一般的专业
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/annals-of-mathematics-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install annals-of-mathematics-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@ Annals 的约束维度与实验科学期刊（PRL、JACS）以及一般的专业
 ### 方式 B —— 手动拷贝
 
 ```bash
-git clone https://github.com/brycewang-stanford/annals-of-mathematics-skills.git
-cd annals-of-mathematics-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Annals-of-Mathematics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/anmath-* ~/.claude/skills/
 # 或
@@ -150,7 +150,7 @@ anmath-revision
 ## 相关仓库
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊 Skill 索引
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》投稿工具栈
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》投稿工具栈
 
 ---
 

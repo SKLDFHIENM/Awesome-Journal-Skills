@@ -59,7 +59,7 @@ JoC 的约束不同于领域刊或方法刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/joc-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install joc-skills
 /reload-plugins
 ```
@@ -67,8 +67,8 @@ JoC 的约束不同于领域刊或方法刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/joc-skills.git
-cd joc-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Communication-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/joc-* ~/.claude/skills/
 # 或

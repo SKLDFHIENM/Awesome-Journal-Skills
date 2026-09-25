@@ -44,7 +44,7 @@ Generic "scientific writing" or "marketing methods" packs do not address these c
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jcr-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jcr-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" or "marketing methods" packs do not address these c
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jcr-skills.git
-cd jcr-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Consumer-Research-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jcr-* ~/.claude/skills/
 # or

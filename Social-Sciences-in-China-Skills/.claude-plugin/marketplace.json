@@ -33,17 +33,17 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/ssc-workflow",
-        "skills/ssc-fit-positioning",
-        "skills/ssc-topic-problematic",
-        "skills/ssc-theory-contribution",
-        "skills/ssc-literature-dialogue",
-        "skills/ssc-argumentation",
-        "skills/ssc-evidence",
-        "skills/ssc-style",
-        "skills/ssc-abstract-keywords",
-        "skills/ssc-submission",
-        "skills/ssc-rebuttal"
+        "./skills/ssc-workflow",
+        "./skills/ssc-fit-positioning",
+        "./skills/ssc-topic-problematic",
+        "./skills/ssc-theory-contribution",
+        "./skills/ssc-literature-dialogue",
+        "./skills/ssc-argumentation",
+        "./skills/ssc-evidence",
+        "./skills/ssc-style",
+        "./skills/ssc-abstract-keywords",
+        "./skills/ssc-submission",
+        "./skills/ssc-rebuttal"
       ]
     }
   ]

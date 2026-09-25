@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/sigir-submission",
-        "skills/sigir-author-response",
-        "skills/sigir-camera-ready",
-        "skills/sigir-artifact-evaluation",
-        "skills/sigir-reproducibility",
-        "skills/sigir-supplementary",
-        "skills/sigir-review-process",
-        "skills/sigir-writing-style",
-        "skills/sigir-related-work",
-        "skills/sigir-experiments",
-        "skills/sigir-workflow",
-        "skills/sigir-topic-selection"
+        "./skills/sigir-submission",
+        "./skills/sigir-author-response",
+        "./skills/sigir-camera-ready",
+        "./skills/sigir-artifact-evaluation",
+        "./skills/sigir-reproducibility",
+        "./skills/sigir-supplementary",
+        "./skills/sigir-review-process",
+        "./skills/sigir-writing-style",
+        "./skills/sigir-related-work",
+        "./skills/sigir-experiments",
+        "./skills/sigir-workflow",
+        "./skills/sigir-topic-selection"
       ]
     }
   ]

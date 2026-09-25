@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jfr-workflow",
-        "skills/jfr-fit-positioning",
-        "skills/jfr-topic-selection",
-        "skills/jfr-literature-review",
-        "skills/jfr-institutional-background",
-        "skills/jfr-identification",
-        "skills/jfr-mechanism",
-        "skills/jfr-heterogeneity",
-        "skills/jfr-tables-figures",
-        "skills/jfr-policy-implication",
-        "skills/jfr-submission",
-        "skills/jfr-rebuttal"
+        "./skills/jfr-workflow",
+        "./skills/jfr-fit-positioning",
+        "./skills/jfr-topic-selection",
+        "./skills/jfr-literature-review",
+        "./skills/jfr-institutional-background",
+        "./skills/jfr-identification",
+        "./skills/jfr-mechanism",
+        "./skills/jfr-heterogeneity",
+        "./skills/jfr-tables-figures",
+        "./skills/jfr-policy-implication",
+        "./skills/jfr-submission",
+        "./skills/jfr-rebuttal"
       ]
     }
   ]

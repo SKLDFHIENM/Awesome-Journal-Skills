@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/conext-submission",
-        "skills/conext-author-response",
-        "skills/conext-camera-ready",
-        "skills/conext-artifact-evaluation",
-        "skills/conext-reproducibility",
-        "skills/conext-supplementary",
-        "skills/conext-review-process",
-        "skills/conext-writing-style",
-        "skills/conext-related-work",
-        "skills/conext-experiments",
-        "skills/conext-workflow",
-        "skills/conext-topic-selection"
+        "./skills/conext-submission",
+        "./skills/conext-author-response",
+        "./skills/conext-camera-ready",
+        "./skills/conext-artifact-evaluation",
+        "./skills/conext-reproducibility",
+        "./skills/conext-supplementary",
+        "./skills/conext-review-process",
+        "./skills/conext-writing-style",
+        "./skills/conext-related-work",
+        "./skills/conext-experiments",
+        "./skills/conext-workflow",
+        "./skills/conext-topic-selection"
       ]
     }
   ]

@@ -55,7 +55,7 @@ NM&S's constraints differ from a single-field or a quantitative-comm journal:
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/new-media-and-society-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install new-media-and-society-skills
 /reload-plugins
 ```
@@ -63,8 +63,8 @@ NM&S's constraints differ from a single-field or a quantitative-comm journal:
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/new-media-and-society-skills.git
-cd new-media-and-society-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/New-Media-and-Society-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/newms-* ~/.claude/skills/
 # or

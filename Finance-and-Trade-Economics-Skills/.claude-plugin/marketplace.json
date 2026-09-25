@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/cte-skills",
-      "repository": "https://github.com/brycewang-stanford/cte-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "finance-and-trade-economics",
         "caimao-jingji",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cte-workflow",
-        "skills/cte-topic-selection",
-        "skills/cte-literature-review",
-        "skills/cte-identification",
-        "skills/cte-mechanism",
-        "skills/cte-heterogeneity",
-        "skills/cte-tables-figures",
-        "skills/cte-policy-implication",
-        "skills/cte-abstract",
-        "skills/cte-style",
-        "skills/cte-submission",
-        "skills/cte-rebuttal"
+        "./skills/cte-workflow",
+        "./skills/cte-topic-selection",
+        "./skills/cte-literature-review",
+        "./skills/cte-identification",
+        "./skills/cte-mechanism",
+        "./skills/cte-heterogeneity",
+        "./skills/cte-tables-figures",
+        "./skills/cte-policy-implication",
+        "./skills/cte-abstract",
+        "./skills/cte-style",
+        "./skills/cte-submission",
+        "./skills/cte-rebuttal"
       ]
     }
   ]

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/acmmm-submission",
-        "skills/acmmm-author-response",
-        "skills/acmmm-camera-ready",
-        "skills/acmmm-artifact-evaluation",
-        "skills/acmmm-reproducibility",
-        "skills/acmmm-supplementary",
-        "skills/acmmm-review-process",
-        "skills/acmmm-writing-style",
-        "skills/acmmm-related-work",
-        "skills/acmmm-experiments",
-        "skills/acmmm-workflow",
-        "skills/acmmm-topic-selection"
+        "./skills/acmmm-submission",
+        "./skills/acmmm-author-response",
+        "./skills/acmmm-camera-ready",
+        "./skills/acmmm-artifact-evaluation",
+        "./skills/acmmm-reproducibility",
+        "./skills/acmmm-supplementary",
+        "./skills/acmmm-review-process",
+        "./skills/acmmm-writing-style",
+        "./skills/acmmm-related-work",
+        "./skills/acmmm-experiments",
+        "./skills/acmmm-workflow",
+        "./skills/acmmm-topic-selection"
       ]
     }
   ]

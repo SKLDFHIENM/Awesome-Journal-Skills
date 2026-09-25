@@ -69,7 +69,7 @@ not directly confirmed are marked **待核实** in
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/sf-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install sf-skills
 /reload-plugins
 ```
@@ -77,8 +77,8 @@ not directly confirmed are marked **待核实** in
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/sf-skills.git
-cd sf-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Social-Forces-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/sf-* ~/.claude/skills/
 # or

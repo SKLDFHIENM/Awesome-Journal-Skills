@@ -46,7 +46,7 @@ Generic "scientific writing", "social-science methods", or analytical-OM packs d
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jom-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jom-skills
 /reload-plugins
 ```
@@ -54,8 +54,8 @@ Generic "scientific writing", "social-science methods", or analytical-OM packs d
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jom-skills.git
-cd jom-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Operations-Management-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jom-* ~/.claude/skills/
 # or

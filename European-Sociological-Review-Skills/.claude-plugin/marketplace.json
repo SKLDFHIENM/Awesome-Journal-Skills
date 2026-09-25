@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/european-sociological-review-skills",
-      "repository": "https://github.com/brycewang-stanford/european-sociological-review-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "european-sociological-review",
         "esr",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/eursr-workflow",
-        "skills/eursr-topic-selection",
-        "skills/eursr-literature-positioning",
-        "skills/eursr-theory-building",
-        "skills/eursr-research-design",
-        "skills/eursr-data-analysis",
-        "skills/eursr-tables-figures",
-        "skills/eursr-writing-style",
-        "skills/eursr-transparency-and-data",
-        "skills/eursr-review-process",
-        "skills/eursr-submission",
-        "skills/eursr-rebuttal"
+        "./skills/eursr-workflow",
+        "./skills/eursr-topic-selection",
+        "./skills/eursr-literature-positioning",
+        "./skills/eursr-theory-building",
+        "./skills/eursr-research-design",
+        "./skills/eursr-data-analysis",
+        "./skills/eursr-tables-figures",
+        "./skills/eursr-writing-style",
+        "./skills/eursr-transparency-and-data",
+        "./skills/eursr-review-process",
+        "./skills/eursr-submission",
+        "./skills/eursr-rebuttal"
       ]
     }
   ]

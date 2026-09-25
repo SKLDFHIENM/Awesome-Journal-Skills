@@ -61,7 +61,7 @@ PMLA 的约束既不同于狭窄的专门刊，也不同于社会科学期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/pmla-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install pmla-skills
 /reload-plugins
 ```
@@ -69,8 +69,8 @@ PMLA 的约束既不同于狭窄的专门刊，也不同于社会科学期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/pmla-skills.git
-cd pmla-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/PMLA-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/pmla-* ~/.claude/skills/
 # 或

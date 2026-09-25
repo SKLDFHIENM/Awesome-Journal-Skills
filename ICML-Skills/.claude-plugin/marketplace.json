@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/icml-submission",
-        "skills/icml-author-response",
-        "skills/icml-camera-ready",
-        "skills/icml-artifact-evaluation",
-        "skills/icml-reproducibility",
-        "skills/icml-supplementary",
-        "skills/icml-review-process",
-        "skills/icml-writing-style",
-        "skills/icml-related-work",
-        "skills/icml-experiments",
-        "skills/icml-workflow",
-        "skills/icml-topic-selection"
+        "./skills/icml-submission",
+        "./skills/icml-author-response",
+        "./skills/icml-camera-ready",
+        "./skills/icml-artifact-evaluation",
+        "./skills/icml-reproducibility",
+        "./skills/icml-supplementary",
+        "./skills/icml-review-process",
+        "./skills/icml-writing-style",
+        "./skills/icml-related-work",
+        "./skills/icml-experiments",
+        "./skills/icml-workflow",
+        "./skills/icml-topic-selection"
       ]
     }
   ]

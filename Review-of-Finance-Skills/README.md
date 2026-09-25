@@ -45,7 +45,7 @@ Volatile specifics (current editors, exact fees, refund amounts, page/abstract l
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/rof-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install rof-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@ Volatile specifics (current editors, exact fees, refund amounts, page/abstract l
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/rof-skills.git
-cd rof-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Review-of-Finance-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/rof-* ~/.claude/skills/
 # or

@@ -64,7 +64,7 @@ AJPS Dataverse replicates the numerical results reported in the main text of thi
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/ajps-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install ajps-skills
 /reload-plugins
 ```
@@ -72,8 +72,8 @@ AJPS Dataverse replicates the numerical results reported in the main text of thi
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/ajps-skills.git
-cd ajps-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/American-Journal-of-Political-Science-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/ajps-* ~/.claude/skills/
 # 或

@@ -65,7 +65,7 @@ change — items not directly confirmed are marked **待核实** in
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/poq-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install poq-skills
 /reload-plugins
 ```
@@ -73,8 +73,8 @@ change — items not directly confirmed are marked **待核实** in
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/poq-skills.git
-cd poq-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Public-Opinion-Quarterly-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/poq-* ~/.claude/skills/
 # or

@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/sigmod-submission",
-        "skills/sigmod-author-response",
-        "skills/sigmod-camera-ready",
-        "skills/sigmod-artifact-evaluation",
-        "skills/sigmod-reproducibility",
-        "skills/sigmod-supplementary",
-        "skills/sigmod-review-process",
-        "skills/sigmod-writing-style",
-        "skills/sigmod-related-work",
-        "skills/sigmod-experiments",
-        "skills/sigmod-workflow",
-        "skills/sigmod-topic-selection"
+        "./skills/sigmod-submission",
+        "./skills/sigmod-author-response",
+        "./skills/sigmod-camera-ready",
+        "./skills/sigmod-artifact-evaluation",
+        "./skills/sigmod-reproducibility",
+        "./skills/sigmod-supplementary",
+        "./skills/sigmod-review-process",
+        "./skills/sigmod-writing-style",
+        "./skills/sigmod-related-work",
+        "./skills/sigmod-experiments",
+        "./skills/sigmod-workflow",
+        "./skills/sigmod-topic-selection"
       ]
     }
   ]

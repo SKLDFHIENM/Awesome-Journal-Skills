@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/webconf-submission",
-        "skills/webconf-author-response",
-        "skills/webconf-camera-ready",
-        "skills/webconf-artifact-evaluation",
-        "skills/webconf-reproducibility",
-        "skills/webconf-supplementary",
-        "skills/webconf-review-process",
-        "skills/webconf-writing-style",
-        "skills/webconf-related-work",
-        "skills/webconf-experiments",
-        "skills/webconf-workflow",
-        "skills/webconf-topic-selection"
+        "./skills/webconf-submission",
+        "./skills/webconf-author-response",
+        "./skills/webconf-camera-ready",
+        "./skills/webconf-artifact-evaluation",
+        "./skills/webconf-reproducibility",
+        "./skills/webconf-supplementary",
+        "./skills/webconf-review-process",
+        "./skills/webconf-writing-style",
+        "./skills/webconf-related-work",
+        "./skills/webconf-experiments",
+        "./skills/webconf-workflow",
+        "./skills/webconf-topic-selection"
       ]
     }
   ]

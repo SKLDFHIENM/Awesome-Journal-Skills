@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/oopsla-submission",
-        "skills/oopsla-author-response",
-        "skills/oopsla-camera-ready",
-        "skills/oopsla-artifact-evaluation",
-        "skills/oopsla-reproducibility",
-        "skills/oopsla-supplementary",
-        "skills/oopsla-review-process",
-        "skills/oopsla-writing-style",
-        "skills/oopsla-related-work",
-        "skills/oopsla-experiments",
-        "skills/oopsla-workflow",
-        "skills/oopsla-topic-selection"
+        "./skills/oopsla-submission",
+        "./skills/oopsla-author-response",
+        "./skills/oopsla-camera-ready",
+        "./skills/oopsla-artifact-evaluation",
+        "./skills/oopsla-reproducibility",
+        "./skills/oopsla-supplementary",
+        "./skills/oopsla-review-process",
+        "./skills/oopsla-writing-style",
+        "./skills/oopsla-related-work",
+        "./skills/oopsla-experiments",
+        "./skills/oopsla-workflow",
+        "./skills/oopsla-topic-selection"
       ]
     }
   ]

@@ -44,7 +44,7 @@ Advanced Materials 的门槛与 Wiley "Advanced" 系列中优秀的姊妹期刊�
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/advmat-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install advmat-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Advanced Materials 的门槛与 Wiley "Advanced" 系列中优秀的姊妹期刊�
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/advmat-skills.git
-cd advmat-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Advanced-Materials-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/advmat-* ~/.claude/skills/
 # 或

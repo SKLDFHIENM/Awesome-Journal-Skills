@@ -36,19 +36,19 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jqte-workflow",
-        "skills/jqte-fit-positioning",
-        "skills/jqte-topic-selection",
-        "skills/jqte-literature-review",
-        "skills/jqte-measurement",
-        "skills/jqte-econometric-methods",
-        "skills/jqte-forecasting",
-        "skills/jqte-io-cge",
-        "skills/jqte-sensitivity",
-        "skills/jqte-tables-figures",
-        "skills/jqte-implications",
-        "skills/jqte-submission",
-        "skills/jqte-rebuttal"
+        "./skills/jqte-workflow",
+        "./skills/jqte-fit-positioning",
+        "./skills/jqte-topic-selection",
+        "./skills/jqte-literature-review",
+        "./skills/jqte-measurement",
+        "./skills/jqte-econometric-methods",
+        "./skills/jqte-forecasting",
+        "./skills/jqte-io-cge",
+        "./skills/jqte-sensitivity",
+        "./skills/jqte-tables-figures",
+        "./skills/jqte-implications",
+        "./skills/jqte-submission",
+        "./skills/jqte-rebuttal"
       ]
     }
   ]

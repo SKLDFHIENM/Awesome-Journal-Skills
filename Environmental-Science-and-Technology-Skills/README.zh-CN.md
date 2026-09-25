@@ -60,7 +60,7 @@ ES&T 的约束不同于纯化学期刊或泛科学期刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/est-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install est-skills
 /reload-plugins
 ```
@@ -68,8 +68,8 @@ ES&T 的约束不同于纯化学期刊或泛科学期刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/est-skills.git
-cd est-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Environmental-Science-and-Technology-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/est-* ~/.claude/skills/
 # 或

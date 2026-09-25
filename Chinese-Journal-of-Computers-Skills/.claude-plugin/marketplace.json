@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cjc-submission",
-        "skills/cjc-author-response",
-        "skills/cjc-camera-ready",
-        "skills/cjc-artifact-evaluation",
-        "skills/cjc-reproducibility",
-        "skills/cjc-supplementary",
-        "skills/cjc-review-process",
-        "skills/cjc-writing-style",
-        "skills/cjc-related-work",
-        "skills/cjc-experiments",
-        "skills/cjc-workflow",
-        "skills/cjc-topic-selection"
+        "./skills/cjc-submission",
+        "./skills/cjc-author-response",
+        "./skills/cjc-camera-ready",
+        "./skills/cjc-artifact-evaluation",
+        "./skills/cjc-reproducibility",
+        "./skills/cjc-supplementary",
+        "./skills/cjc-review-process",
+        "./skills/cjc-writing-style",
+        "./skills/cjc-related-work",
+        "./skills/cjc-experiments",
+        "./skills/cjc-workflow",
+        "./skills/cjc-topic-selection"
       ]
     }
   ]

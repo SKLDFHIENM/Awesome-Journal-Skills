@@ -59,7 +59,7 @@ AgSy 的约束不同于田间试验型农学刊或泛用方法刊：
 ### 方式 A — Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/agsy-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install agsy-skills
 /reload-plugins
 ```
@@ -67,8 +67,8 @@ AgSy 的约束不同于田间试验型农学刊或泛用方法刊：
 ### 方式 B — 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/agsy-skills.git
-cd agsy-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Agricultural-Systems-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/agsy-* ~/.claude/skills/
 # 或

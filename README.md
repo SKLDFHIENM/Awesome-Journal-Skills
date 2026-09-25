@@ -1609,19 +1609,15 @@ cd awesome-journal-skills
 /reload-plugins
 ```
 
-也可单独添加某个独立仓库（AER / 管理世界 / 经济研究 等以独立 marketplace 维护）：
+AER 以独立仓库维护，需单独添加；管理世界、经济研究等其余 pack 都在本仓库的 marketplace 里：
 
 ```bash
 # AER（独立仓库）
 /plugin marketplace add https://github.com/brycewang-stanford/AER-skills
 /plugin install aer-skills
 
-# 管理世界
-/plugin marketplace add https://github.com/brycewang-stanford/management-world-skills
+# 管理世界 / 经济研究：在本仓库 marketplace 中（上面已添加）
 /plugin install management-world-skills
-
-# 经济研究
-/plugin marketplace add https://github.com/brycewang-stanford/Economic-Research-Skills
 /plugin install economic-research-skills
 
 /reload-plugins
@@ -1631,13 +1627,12 @@ cd awesome-journal-skills
 
 ```bash
 git clone https://github.com/brycewang-stanford/AER-skills.git
-git clone https://github.com/brycewang-stanford/management-world-skills.git
-git clone https://github.com/brycewang-stanford/Economic-Research-Skills.git Economic-Research-Journal-Skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
 
 mkdir -p ~/.claude/skills
 cp -R AER-skills/skills/aer-* ~/.claude/skills/
-cp -R management-world-skills/skills/mw-* ~/.claude/skills/
-cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
+cp -R awesome-journal-skills/Journal-of-Management-World-Skills/skills/mw-* ~/.claude/skills/
+cp -R awesome-journal-skills/Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
 ```
 
 ### 第一条 Prompt
@@ -2171,7 +2166,7 @@ GitHub Actions 会运行同一套硬门槛检查。它会检查 canonical skill 
 
 更宽口径的 agent skill 合集（与本索引互补）：
 
-- [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) — 精选 23,000+ agent skills，覆盖 8 大社科学科的实证研究（由 CoPaper.AI / Stanford REAP 维护）。
+- [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) — 精选 23,000+ agent skills，覆盖 8 大社科学科的实证研究（由 CoPaper.AI / Stanford REAP 维护）。
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — 通用的 research → write → review → revise → finalize 科研流水线 skill 包。
 
 以外链形式收录（不再 vendored 进本仓库；点击前往各自上游仓库）：

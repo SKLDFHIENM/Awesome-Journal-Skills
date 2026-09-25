@@ -43,7 +43,7 @@ Generic "scientific writing" or "economics writing" packs do not address these c
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/jf-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install jf-skills
 /reload-plugins
 ```
@@ -51,8 +51,8 @@ Generic "scientific writing" or "economics writing" packs do not address these c
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/jf-skills.git
-cd jf-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Finance-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/jf-* ~/.claude/skills/
 # or
@@ -137,7 +137,7 @@ If your paper is long, highly technical, or specialist, JFE or RFS may be the be
 ## Related
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) — Index of journal-specific skill packs
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) — 《经济研究》
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) — 《经济研究》
 
 ---
 

@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/mlsys-submission",
-        "skills/mlsys-author-response",
-        "skills/mlsys-camera-ready",
-        "skills/mlsys-artifact-evaluation",
-        "skills/mlsys-reproducibility",
-        "skills/mlsys-supplementary",
-        "skills/mlsys-review-process",
-        "skills/mlsys-writing-style",
-        "skills/mlsys-related-work",
-        "skills/mlsys-experiments",
-        "skills/mlsys-workflow",
-        "skills/mlsys-topic-selection"
+        "./skills/mlsys-submission",
+        "./skills/mlsys-author-response",
+        "./skills/mlsys-camera-ready",
+        "./skills/mlsys-artifact-evaluation",
+        "./skills/mlsys-reproducibility",
+        "./skills/mlsys-supplementary",
+        "./skills/mlsys-review-process",
+        "./skills/mlsys-writing-style",
+        "./skills/mlsys-related-work",
+        "./skills/mlsys-experiments",
+        "./skills/mlsys-workflow",
+        "./skills/mlsys-topic-selection"
       ]
     }
   ]

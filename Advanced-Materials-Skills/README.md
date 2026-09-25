@@ -44,7 +44,7 @@ Generic "scientific writing" packs do not address the advance-vs-optimization ga
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/advmat-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install advmat-skills
 /reload-plugins
 ```
@@ -52,8 +52,8 @@ Generic "scientific writing" packs do not address the advance-vs-optimization ga
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/advmat-skills.git
-cd advmat-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Advanced-Materials-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/advmat-* ~/.claude/skills/
 # or

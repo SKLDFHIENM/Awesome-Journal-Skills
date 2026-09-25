@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/fast-submission",
-        "skills/fast-author-response",
-        "skills/fast-camera-ready",
-        "skills/fast-artifact-evaluation",
-        "skills/fast-reproducibility",
-        "skills/fast-supplementary",
-        "skills/fast-review-process",
-        "skills/fast-writing-style",
-        "skills/fast-related-work",
-        "skills/fast-experiments",
-        "skills/fast-workflow",
-        "skills/fast-topic-selection"
+        "./skills/fast-submission",
+        "./skills/fast-author-response",
+        "./skills/fast-camera-ready",
+        "./skills/fast-artifact-evaluation",
+        "./skills/fast-reproducibility",
+        "./skills/fast-supplementary",
+        "./skills/fast-review-process",
+        "./skills/fast-writing-style",
+        "./skills/fast-related-work",
+        "./skills/fast-experiments",
+        "./skills/fast-workflow",
+        "./skills/fast-topic-selection"
       ]
     }
   ]

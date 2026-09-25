@@ -67,7 +67,7 @@ Volatile specifics (editors and terms, exact caps, abstract length, fee/APC, dat
 ### Option A — Claude Code Plugin (recommended)
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/annals-aag-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install annals-aag-skills
 /reload-plugins
 ```
@@ -75,8 +75,8 @@ Volatile specifics (editors and terms, exact caps, abstract length, fee/APC, dat
 ### Option B — Manual Copy
 
 ```bash
-git clone https://github.com/brycewang-stanford/annals-aag-skills.git
-cd annals-aag-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Annals-of-the-American-Association-of-Geographers-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/aaag-* ~/.claude/skills/
 # or

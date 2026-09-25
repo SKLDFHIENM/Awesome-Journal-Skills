@@ -45,7 +45,7 @@
 ### 方式 A —— Claude Code 插件（推荐）
 
 ```bash
-/plugin marketplace add https://github.com/brycewang-stanford/journal-of-finance-and-economics-skills
+/plugin marketplace add https://github.com/brycewang-stanford/awesome-journal-skills
 /plugin install journal-of-finance-and-economics-skills
 /reload-plugins
 ```
@@ -53,8 +53,8 @@
 ### 方式 B —— 手动复制
 
 ```bash
-git clone https://github.com/brycewang-stanford/journal-of-finance-and-economics-skills.git
-cd journal-of-finance-and-economics-skills
+git clone https://github.com/brycewang-stanford/awesome-journal-skills.git
+cd awesome-journal-skills/Journal-of-Finance-and-Economics-Skills
 
 mkdir -p ~/.claude/skills && cp -R skills/cfe-* ~/.claude/skills/
 # 或
@@ -139,8 +139,8 @@ cfe-rebuttal
 ## 相关项目
 
 - [awesome-journal-skills](https://github.com/brycewang-stanford/awesome-journal-skills) —— 期刊专用技能包索引
-- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/economic-research-skills) —— 《经济研究》
-- [management-world-skills](https://github.com/brycewang-stanford/management-world-skills) —— 《管理世界》
+- [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Economic-Research-Journal-Skills) —— 《经济研究》
+- [management-world-skills](https://github.com/brycewang-stanford/awesome-journal-skills/tree/main/Journal-of-Management-World-Skills) —— 《管理世界》
 
 ---
 

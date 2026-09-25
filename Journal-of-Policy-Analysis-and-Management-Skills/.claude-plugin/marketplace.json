@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jpam-skills",
-      "repository": "https://github.com/brycewang-stanford/jpam-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-policy-analysis-and-management",
         "jpam",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jpam-workflow",
-        "skills/jpam-topic-selection",
-        "skills/jpam-literature-positioning",
-        "skills/jpam-theory-building",
-        "skills/jpam-research-design",
-        "skills/jpam-data-analysis",
-        "skills/jpam-tables-figures",
-        "skills/jpam-writing-style",
-        "skills/jpam-transparency-and-data",
-        "skills/jpam-review-process",
-        "skills/jpam-submission",
-        "skills/jpam-rebuttal"
+        "./skills/jpam-workflow",
+        "./skills/jpam-topic-selection",
+        "./skills/jpam-literature-positioning",
+        "./skills/jpam-theory-building",
+        "./skills/jpam-research-design",
+        "./skills/jpam-data-analysis",
+        "./skills/jpam-tables-figures",
+        "./skills/jpam-writing-style",
+        "./skills/jpam-transparency-and-data",
+        "./skills/jpam-review-process",
+        "./skills/jpam-submission",
+        "./skills/jpam-rebuttal"
       ]
     }
   ]

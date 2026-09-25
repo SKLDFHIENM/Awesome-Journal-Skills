@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/jams-skills",
-      "repository": "https://github.com/brycewang-stanford/jams-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "jams",
         "journal-of-the-academy-of-marketing-science",
@@ -35,18 +35,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/jams-workflow",
-        "skills/jams-topic-selection",
-        "skills/jams-theory-development",
-        "skills/jams-literature-positioning",
-        "skills/jams-methods",
-        "skills/jams-data-analysis",
-        "skills/jams-contribution-framing",
-        "skills/jams-tables-figures",
-        "skills/jams-writing-style",
-        "skills/jams-submission",
-        "skills/jams-review-process",
-        "skills/jams-rebuttal"
+        "./skills/jams-workflow",
+        "./skills/jams-topic-selection",
+        "./skills/jams-theory-development",
+        "./skills/jams-literature-positioning",
+        "./skills/jams-methods",
+        "./skills/jams-data-analysis",
+        "./skills/jams-contribution-framing",
+        "./skills/jams-tables-figures",
+        "./skills/jams-writing-style",
+        "./skills/jams-submission",
+        "./skills/jams-review-process",
+        "./skills/jams-rebuttal"
       ]
     }
   ]

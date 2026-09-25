@@ -34,19 +34,19 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cie-workflow",
-        "skills/cie-fit-positioning",
-        "skills/cie-topic-selection",
-        "skills/cie-literature-review",
-        "skills/cie-institutional-background",
-        "skills/cie-did-identification",
-        "skills/cie-mechanism",
-        "skills/cie-heterogeneity",
-        "skills/cie-robustness",
-        "skills/cie-tables-figures",
-        "skills/cie-policy-implication",
-        "skills/cie-submission",
-        "skills/cie-rebuttal"
+        "./skills/cie-workflow",
+        "./skills/cie-fit-positioning",
+        "./skills/cie-topic-selection",
+        "./skills/cie-literature-review",
+        "./skills/cie-institutional-background",
+        "./skills/cie-did-identification",
+        "./skills/cie-mechanism",
+        "./skills/cie-heterogeneity",
+        "./skills/cie-robustness",
+        "./skills/cie-tables-figures",
+        "./skills/cie-policy-implication",
+        "./skills/cie-submission",
+        "./skills/cie-rebuttal"
       ]
     }
   ]

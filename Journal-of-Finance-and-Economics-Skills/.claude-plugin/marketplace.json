@@ -21,8 +21,8 @@
         "email": "brycew6m@stanford.edu"
       },
       "license": "MIT",
-      "homepage": "https://github.com/brycewang-stanford/journal-of-finance-and-economics-skills",
-      "repository": "https://github.com/brycewang-stanford/journal-of-finance-and-economics-skills",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
       "keywords": [
         "journal-of-finance-and-economics",
         "caijing-yanjiu",
@@ -34,18 +34,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/cfe-workflow",
-        "skills/cfe-topic-selection",
-        "skills/cfe-literature-review",
-        "skills/cfe-identification",
-        "skills/cfe-mechanism",
-        "skills/cfe-heterogeneity",
-        "skills/cfe-tables-figures",
-        "skills/cfe-policy-implication",
-        "skills/cfe-abstract",
-        "skills/cfe-style",
-        "skills/cfe-submission",
-        "skills/cfe-rebuttal"
+        "./skills/cfe-workflow",
+        "./skills/cfe-topic-selection",
+        "./skills/cfe-literature-review",
+        "./skills/cfe-identification",
+        "./skills/cfe-mechanism",
+        "./skills/cfe-heterogeneity",
+        "./skills/cfe-tables-figures",
+        "./skills/cfe-policy-implication",
+        "./skills/cfe-abstract",
+        "./skills/cfe-style",
+        "./skills/cfe-submission",
+        "./skills/cfe-rebuttal"
       ]
     }
   ]

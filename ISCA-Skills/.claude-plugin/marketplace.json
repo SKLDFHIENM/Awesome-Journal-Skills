@@ -33,18 +33,18 @@
       ],
       "category": "academic",
       "skills": [
-        "skills/isca-submission",
-        "skills/isca-author-response",
-        "skills/isca-camera-ready",
-        "skills/isca-artifact-evaluation",
-        "skills/isca-reproducibility",
-        "skills/isca-supplementary",
-        "skills/isca-review-process",
-        "skills/isca-writing-style",
-        "skills/isca-related-work",
-        "skills/isca-experiments",
-        "skills/isca-workflow",
-        "skills/isca-topic-selection"
+        "./skills/isca-submission",
+        "./skills/isca-author-response",
+        "./skills/isca-camera-ready",
+        "./skills/isca-artifact-evaluation",
+        "./skills/isca-reproducibility",
+        "./skills/isca-supplementary",
+        "./skills/isca-review-process",
+        "./skills/isca-writing-style",
+        "./skills/isca-related-work",
+        "./skills/isca-experiments",
+        "./skills/isca-workflow",
+        "./skills/isca-topic-selection"
       ]
     }
   ]
